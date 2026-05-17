@@ -4515,6 +4515,7 @@ aolez 熬了
 aolfxl 鳌陵乡
 aolg 奥朗
 aolgde 奥朗德
+aolgri 奥朗日
 aolgv 澳朗
 aoli 傲立
 aoliao 奥利澳
@@ -77928,6 +77929,7 @@ eed 额定
 eeda 额达
 eedcl 恶道
 eede 饿的
+eedeb 恶的
 eedebi 饿得比
 eedef 恶德
 eedef 饿得
@@ -85209,8 +85211,8 @@ fgvive 仿制者
 fgvivi 方植之
 fgvivj 纺织展
 fgvivj 纺织站
-fgviw 纺织
 fgviw 放置
+fgviw 纺织
 fgviw 仿纸
 fgviwg 纺织网
 fgviwk 防指纹
@@ -89896,8 +89898,8 @@ flxli 访邻寻里
 flxqu 风流潇驱
 flxro 扶老携弱
 flxsa 风流潇洒
-flxsi 弗兰西斯
 flxsi 弗朗西斯
+flxsi 弗兰西斯
 flxtj 风冷杏坛
 flxvi 扶老挟稚
 flxyr 扶老携幼
@@ -99801,8 +99803,8 @@ fzx 风险
 fzxbh 夫子奚不时来入观乎
 fzxf 奉行
 fzxfbo 冯星伯
-fzxff 封行
 fzxff 风行
+fzxff 封行
 fzxfkh 蜂型宽
 fzxfn 丰姓
 fzxfn 冯姓
@@ -107233,6 +107235,7 @@ ghke 观客
 ghkeh 鹳科
 ghket 管壳
 ghkj 观看
+ghkjve 观看者
 ghkovg 管扩张
 ghkr 关口
 ghkrf 管扣
@@ -112028,7 +112031,7 @@ glyjll 广延量
 glyjlu 广延路
 glyjmo 光掩膜
 glyjs 广研
-glyjxf 广盐性
+glyjxf 广延性
 glyr 逛游
 glyrdc 光诱导
 glyrsi 广佑寺
@@ -172067,6 +172070,7 @@ izzdll 承载量
 izzdt 撑在
 izzdt 盛在
 izzdve 承载着
+izzdwu 承载物
 izze 成则
 izzecb 承泽村
 izzeyh 承泽苑
@@ -175764,19 +175768,19 @@ jfvrui 荆州市
 jfvrvj 荆州站
 jfvrvk 汫洲镇
 jfvrxm 靖州县
-jfvs 警钟
+jfvs 敬重
 jfvsgo 经中国
 jfvsh 净种
 jfvsh 晶种
 jfvsh 警种
 jfvshc 敬重号
 jfvshq 镜中花
+jfvsj 警钟
 jfvsjf 警中警
 jfvslf 净种灵
 jfvsll 净重量
 jfvsqf 景中情
 jfvsr 净重
-jfvsr 敬重
 jfvss 井中
 jfvss 京中
 jfvss 镜中
@@ -189627,6 +189631,7 @@ jmuiu 减食
 jmuive 监视着
 jmuive 监视者
 jmuivg 监事长
+jmuixf 坚实性
 jmuixk 见识下
 jmuixm 建始县
 jmuixn 见实效
@@ -190720,6 +190725,7 @@ jnbudd 胶布带
 jnbudo 交不多
 jnbuf 剿捕
 jnbug 江南北上
+jnbuh 较不
 jnbuh 交不
 jnbuiu 交不出
 jnbuiu 叫不出
@@ -208750,8 +208756,9 @@ kdhqxm 开化县
 kdhrjm 开喉剑
 kdhrjm 开喉箭
 kdhrmk 开后门
+kdhs 凯宏
 kdhsbc 开红包
-kdhst 凯宏
+kdhsi 库德华斯
 kdhtj 匡道慧潭
 kdhu 开户
 kdhu 炌
@@ -211220,6 +211227,7 @@ kersmw 可溶酶
 kersna 可容纳
 kersrk 可容忍
 kerst 可容
+kersxf 可熔性
 kersxf 可溶性
 kersyu 可溶于
 keru 刻入
@@ -212569,7 +212577,6 @@ kfsupc 快速跑
 kfsuxf 快速型
 kfsuxf 快速性
 kft 筷
-kfta 快他
 kfta 块
 kftama 快他妈
 kftc 快逃
@@ -219573,6 +219580,7 @@ lakev 拉克
 lakexm 蜡克线
 lakeyy 拉克约
 lakezd 拉客仔
+lakf 蜡块
 lakg 拉康
 lakh 拉宽
 lakjf 连鳌跨鲸
@@ -224506,6 +224514,7 @@ lfyivi 另一只
 lfyivi 另一支
 lfyivr 灵异咒
 lfyivs 另一种
+lfyiwu 另一物
 lfyiww 另一位
 lfyixk 领一下
 lfyixp 另一些
@@ -250856,6 +250865,7 @@ mau 马上
 maua 麻纱
 mauaer 马沙尔
 mauah 玛莎
+mauamu 马沙姆
 mauani 马沙尼
 mauc 马勺
 maucer 马绍尔
@@ -254030,8 +254040,8 @@ mfcdh 暝菜
 mfce 名册
 mfcfu 民繁财阜
 mfci 名词
-mfcid 名刺
 mfcid 名次
+mfcid 名刺
 mfciw 名瓷
 mfcizu 名词组
 mfcjw 明璨
@@ -301908,10 +301918,10 @@ qiziv 奇鲻
 qiziwj 棋子湾
 qiziz 七子
 qiziz 奇字
+qiziz 棋子
 qiziz 弃子
 qiziz 旗子
 qiziz 杞子
-qiziz 棋子
 qiziz 漆子
 qiziz 起子
 qizlx 弃车走林
@@ -304578,8 +304588,8 @@ qmjtb 歉疚
 qmjtii 前臼齿
 qmjtmf 前九名
 qmjtyu 迁就于
-qmju 迁居
 qmju 铅
+qmju 迁居
 qmjub 钎具
 qmjud 黔剧
 qmjue 钎
@@ -319808,8 +319818,8 @@ rshezi 融合子
 rshg 戎行
 rshgz 荣航
 rshj 熔焊
-rsho 荣获
 rsho 熔
+rsho 荣获
 rshobu 荣获部
 rshog 容或
 rshole 荣获了
@@ -382222,7 +382232,8 @@ urxuhr 手续后
 urxum 射人先射马
 urxuv 首需
 urxvi 圣人羞之
-urxx 手心
+urxx 守信
+urxxd 手心
 urxxd 兽心
 urxxd 守心
 urxxd 收心
@@ -382230,7 +382241,6 @@ urxxer 手心儿
 urxxji 收信机
 urxxkc 收心考
 urxxkg 首新康
-urxxr 守信
 urxxr 手信
 urxxr 授信
 urxxr 收信
@@ -403026,9 +403036,9 @@ viwwn 执委
 viwwn 支委
 viwwn 智威
 viwwni 只为你
-viwwr 之位
-viwwr 置位
 viwwr 职位
+viwwr 置位
+viwwr 之位
 viwws 雉尾
 viwwtg 知味堂
 viwwth 脂微团
@@ -426992,8 +427002,8 @@ wjysj 雾集云散
 wjytr 蜗角蝇头
 wjyu 晚于
 wjyug 无君于上
-wjyui 五俱意识
 wjyui 无济于事
+wjyui 五俱意识
 wjyuk 望君烟水阔
 wjyup 万鱼
 wjyup 皖鱼
@@ -445597,7 +445607,8 @@ xfyytg 星月糖
 xfyyx 星悦
 xfyyz 姓越
 xfz 行走
-xfzbl 行遵
+xfzb 行遵
+xfzbl 夏夫兹博里
 xfzc 行灶
 xfzdt 姓宰
 xfzdt 行在
@@ -445641,7 +445652,7 @@ xfzup 型阻
 xfzvco 性罪错
 xfzvw 性罪
 xfzz 姓曾
-xg 相关
+xg 修改
 xgabg 兴国安邦
 xgaig 习故安常
 xgayu 箫鼓哀吟感鬼神
@@ -487639,6 +487650,7 @@ yhuive 愿逝者
 yhuive 远视者
 yhuivk 涴市镇
 yhuivs 原始种
+yhuixf 原始性
 yhuixl 元石乡
 yhuixm 元氏县
 yhuiy 原诗
@@ -489073,8 +489085,8 @@ yiciba 一次吧
 yicici 一次次
 yicici 以此次
 yicid 一次
-yicid 以次
 yicid 依次
+yicid 以次
 yicidv 一次队
 yicifg 一次方
 yicifk 已雌酚
@@ -494055,8 +494067,8 @@ yiviqu 遗址区
 yivirk 益智仁
 yivisu 抑制素
 yivit 以至
-yivit 已至
 yivit 移至
+yivit 已至
 yivit 遗址
 yivita 依止他
 yivitd 抑制肽
@@ -516493,6 +516505,7 @@ yyuro 雨旸时若
 yyurp 月收
 yyurqb 岳首群
 yyurru 月收入
+yyury 越受
 yyusn 悠悠生死别经年
 yyusv 以游世俗之间者
 yyusx 有虞氏死生不入于心
