@@ -358,7 +358,6 @@ aalamu 阿拉姆
 aalaqp 阿拉切
 aalata 阿拉塔
 aalauj 阿拉善
-aalauj 阿拉山
 aalbc 阿轮
 aalbr 阿伦
 aalbte 阿伦特
@@ -378,8 +377,6 @@ aalfdb 阿灵顿
 aalfwj 蛾苓丸
 aalgp 阿郎
 aalgxl 阿朗乡
-aalhbi 鹅峦鼻
-aalhbi 鹅銮鼻
 aali 阿里
 aaligb 阿里衮
 aalihj 阿里汉
@@ -387,18 +384,12 @@ aalika 阿里卡
 aalilg 阿里郎
 aaliq 阿狸
 aalisi 阿里斯
-aalisk 阿利森
 aalisk 阿里森
-aaliss 阿利松
 aaliss 阿里松
 aaliuj 阿里山
-aaliuu 阿里鼠
-aaliuu 鳄梨属
 aaliva 阿里扎
 aaliya 阿丽雅
-aaliya 阿利雅
 aaliyb 阿里云
-aaliye 阿利耶
 aaliye 阿离耶
 aaliyr 鳄梨油
 aalj 阿兰
@@ -437,15 +428,11 @@ aalxdb 阿林顿
 aalxxx 阿林新
 aama 阿妈
 aamada 阿玛达
-aamahl 饿蚂蝗
-aamahl 饿蚂蟥
 aamajk 阿马伽
 aamajm 阿吗碱
 aamalf 阿吗灵
 aamalu 阿玛鲁
 aamalw 阿玛雷
-aamalw 阿马雷
-aamani 阿妈妮
 aamani 阿玛尼
 aamaw 阿玛
 aamcli 阿毛里
@@ -468,13 +455,11 @@ aamk 阿门
 aamnbf 恶苗病
 aamoaa 阿莫阿
 aamoer 阿莫尔
-aamoli 阿茉立
 aamoli 阿莫里
 aamolw 阿莫雷
 aamosi 阿摩司
 aamoxm 阿莫仙
 aamuds 阿木冬
-aamuer 阿木尔
 aamuer 阿穆尔
 aamuh 阿木
 aamuhe 阿姆河
@@ -507,7 +492,6 @@ aander 阿奈尔
 aani 啊你
 aanibf 呃逆病
 aanis 阿尼
-aaniya 阿妮亚
 aaniya 阿尼亚
 aanjda 阿难达
 aanjde 阿南德
@@ -579,8 +563,6 @@ aarsbw 鹅绒被
 aarsfu 鹅绒服
 aarsgu 鄂绒股
 aarsqi 阿荣旗
-aarstz 鹅绒腾
-aarstz 鹅绒藤
 aarvia 峨蕊茶
 aarvsi 阿瑞斯
 aarvuz 阿锐生
@@ -609,7 +591,6 @@ aasknw 阿森内
 aaskss 阿森松
 aasosi 阿索斯
 aasoxl 阿索乡
-aasuer 阿苏儿
 aasuer 阿苏尔
 aasulo 阿苏罗
 aasulx 阿苏林
@@ -643,7 +624,6 @@ aatsmu 阿童木
 aatuba 阿图巴
 aatuer 阿图尔
 aatuui 阿图什
-aatuui 阿秃师
 aatuzd 阿土仔
 aatuzu 阿图祖
 aatvgu 鹅腿骨
@@ -652,8 +632,6 @@ aauad 阿沙
 aauaji 阿沙基
 aauali 阿沙里
 aaualu 阿莎露
-aaudfz 腭筛缝
-aaudfz 额筛缝
 aauegs 腭舌弓
 aaueji 腭舌肌
 aauele 阿舍勒
@@ -680,14 +658,10 @@ aaujs 阿山
 aaukdb 阿什顿
 aaukjf 额神经
 aaukme 啊什么
-aaullf 噁霜灵
-aaullf 恶霜灵
 aaulqh 阿双全
 aaurka 阿首咖
 aautj 黯黯生天际
 aauu 阿叔
-aauuyr 莪书油
-aauuyr 莪树油
 aauvs 阿水
 aav 腌
 aavade 阿扎德
@@ -776,7 +750,6 @@ aayfjf 蛾蝇腈
 aayhvk 腭圆枕
 aayi 阿姨
 aayida 阿伊达
-aayida 阿依达
 aayilo 阿诣罗
 aayimo 阿依莫
 aayinu 阿伊努
@@ -786,7 +759,6 @@ aayjtc 阿彦涛
 aayjy 哀哀欲绝
 aayo 啊哟
 aayr 啊哟
-aayrdo 阿幼朵
 aayrdo 阿由多
 aayren 阿尤恩
 aayrv 啊有
@@ -925,6 +897,7 @@ aetxs 阿尔图修斯
 aeuds 挨饿受冻
 aewls 艾尔瓦拉斯
 aewxt 爱尔维修
+aexfl 阿尔西弗朗
 af 安抚
 afhbm 奥伏赫变
 afjfz 挨风缉缝
@@ -30476,7 +30449,7 @@ buxkqu 不下去
 buxkvo 不下桌
 buxkyu 不下于
 buxkyu 不下雨
-buxl 不想
+buxl 不像
 buxlai 不想爱
 buxlc 白首偕老
 buxld 百世修来同船渡
@@ -30518,7 +30491,6 @@ buxlni 不想你
 buxlp 不香
 buxlpw 不相配
 buxlqu 不想去
-buxlr 不像
 buxlrs 不相容
 buxlsi 不想死
 buxlsi 不相似
@@ -30535,6 +30507,7 @@ buxlvi 不相知
 buxlvi 卜祥志
 buxlwj 不想玩
 buxlwo 不想我
+buxlx 不想
 buxlxl 不想想
 buxlxx 不相信
 buxlxy 不想学
@@ -32284,6 +32257,7 @@ bwgjnf 贝感宁
 bwgjrj 被感染
 bwgjt 不忘故旧
 bwgjtf 贝感亭
+bwgjvi 被感知
 bwgjz 被赶
 bwgjzr 被赶走
 bwgkl 把吴钩看了
@@ -89712,6 +89686,7 @@ flmsi 匪来贸丝
 flmwu 府吏默无声
 flmzq 府吏马在前
 flncv 浮岚暖翠
+flnsi 费洛诺斯
 flpfz 飞龙披风
 flpgo 伐腊毗国
 flpns 菲洛普努斯
@@ -178120,11 +178095,11 @@ jifuyi 既富矣
 jifuz 基弗
 jifuz 绝处逢生
 jifuzi 集福字
-jifw 计费
+jifw 既非
+jifwb 计费
 jifwig 积肥场
 jifwla 吉非拉
 jifwqi 计费器
-jifws 既非
 jifwv 基肥
 jifwv 积肥
 jifww 湔肠伐胃
@@ -210551,6 +210526,7 @@ kelguu 柯朗数
 kelgv 柯朗
 kelgvu 壳郎猪
 keli 颗粒
+keliag 克里昂
 keliai 克里爱
 kelian 克立安
 keliao 克里奥
@@ -235423,7 +235399,6 @@ lodcz 螺刀
 lodd 落袋
 loddj 螺带
 lode 落得
-lodedc 罗得岛
 lodedc 罗德岛
 lodef 洛德
 lodef 络德
@@ -368338,8 +368313,8 @@ uijhdd 试卷袋
 uijhf 十卷
 uijhf 诗卷
 uijhf 释卷
-uiji 师
 uiji 实际
+uiji 师
 uijibc 时计宝
 uijibj 世纪版
 uijibw 十几倍
@@ -384202,8 +384177,8 @@ uuqucc 鼠曲草
 uuqucc 鼠麴草
 uuqucc 鼠麹草
 uuqugo 鼠曲粿
-uuqui 倏
 uuqui 实事求是
+uuqui 倏
 uuqujm 数区间
 uuqus 树鼩
 uuqvu 石霜庆诸禅师
@@ -399674,9 +399649,9 @@ vidfxm 制钉线
 vidfxy 制定学
 vidfy 制订
 vidfy 之顶
+vidfy 置顶
 vidfy 支顶
 vidfy 枝顶
-vidfy 置顶
 vidfyr 指定由
 vidfzi 置顶字
 vidg 值当
@@ -421619,6 +421594,7 @@ wdzco 无地自厝
 wdzcuz 外噪声
 wdzd 外在
 wdzdmw 外在美
+wdzdyu 外在于
 wdzi 外资
 wdziee 外资额
 wdzifa 外资法
@@ -441286,6 +441262,7 @@ wxuvd 为学始知道
 wxuvk 温席扇枕
 wxuvu 吾乡示之以以太冲莫胜
 wxuww 吾心甚慰
+wxv 无形中
 wxvfu 维希政府
 wxvhh 无息指环
 wxvhh 未形之患
@@ -448362,6 +448339,7 @@ xilapi 希腊魮
 xilaqb 希腊群
 xilaqt 希腊鳅
 xilark 希腊人
+xilasi 希拉斯
 xilaui 希腊式
 xilawg 希腊王
 xilawk 希腊文
@@ -477428,6 +477406,7 @@ ycmd 要买
 ycmds 要卖
 ycmdz 邀买
 ycme 要么
+ycmeui 要么是
 ycmf 要命
 ycmfbd 要明白
 ycmfda 姚名达
@@ -482849,8 +482828,8 @@ yfxlp 映象
 yfxlp 迎香
 yfxlpi 硬橡皮
 yfxlqh 影像圈
-yfxlr 影像
 yfxlr 映像
+yfxlr 影像
 yfxltu 影像图
 yfxlv 鹰翔
 yfxlve 影响着
@@ -492656,8 +492635,8 @@ yira 亿
 yirae 伊
 yirao 佁
 yirbd 亿润
-yire 一热
 yire 倚
+yireh 一热
 yirex 易惹
 yirexf 易热性
 yirg 揖让
@@ -493216,8 +493195,8 @@ yitsxm 依通县
 yitsxy 一同学
 yitsy 乙酮
 yitsyg 以同样
-yitu 意图
 yitu 亦
+yitu 意图
 yitubc 易涂宝
 yitubu 易涂布
 yitud 一涂
