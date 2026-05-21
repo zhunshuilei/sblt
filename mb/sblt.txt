@@ -4944,6 +4944,7 @@ asshc 阿私所好
 astxm 阿私陀仙
 asuhq 暗损韶华
 asuuz 哀死事生
+aswed 奥斯沃尔德
 asxbi 阿私下比
 at 凹凸
 atags 安提奥古斯
@@ -89595,7 +89596,8 @@ foq 佛曲
 foqih 佛七
 foqm 佛前
 foqu 佛曲
-foris 佛日
+for 佛日
+fori 佛日
 forvde 佛瑞德
 fos 佛寺
 fosah 佛萨
@@ -100742,6 +100744,7 @@ gckule 搞哭了
 gckz 高坑
 gckzcb 高坑村
 gcl 高冷
+gclade 高拉德
 gclb 高论
 gclbr 高仑
 gclc 告老
@@ -136806,6 +136809,7 @@ hmdyj 欢眉大眼
 hmdyu 旱苗得雨
 hmdyz 祸莫大于不知足
 hmdzv 花马吊嘴
+hmedb 汉密尔顿
 hmeiy 好谋而成者也
 hmeiz 好谋而成
 hmemq 会盟而谋弱秦
@@ -140083,8 +140087,8 @@ hquubw 华数杯
 hquudm 滑鼠垫
 hquufz 桦树蜂
 hquum 桦树
-hquum 花树
 hquum 话术
+hquum 花树
 hquup 滑数
 hquup 花数
 hquuqi 花束期
@@ -140577,6 +140581,7 @@ hqyeng 滑液囊
 hqyeqn 滑液鞘
 hqyers 花叶榕
 hqyes 花业
+hqyev 华耶
 hqyeyu 花叶芋
 hqyezi 华业资
 hqyezi 花叶子
@@ -211871,8 +211876,7 @@ kfsumi 快速幂
 kfsupc 快速跑
 kfsuxf 快速型
 kfsuxf 快速性
-kft 筷
-kfta 块
+kft 块
 kftama 快他妈
 kftc 快逃
 kftcd 筷套
@@ -211883,7 +211887,8 @@ kftg 块糖
 kfti 块体
 kftibu 快踢步
 kftjm 块毯
-kfto 快脱
+kfto 筷
+kftov 快脱
 kftr 块头
 kftrf 快投
 kftsb 快痛
@@ -218586,6 +218591,7 @@ ladz 拉登
 lae 拉恩
 laen 拉恩
 laer 拉尔
+laerfu 拉尔夫
 laerpj 拉饵盘
 laersa 拉尔萨
 laersi 拉尔斯
@@ -219649,6 +219655,7 @@ lbli 伦理
 lbligh 伦理观
 lblipm 伦理片
 lbliw 论理
+lblixf 伦理性
 lblixy 伦理学
 lblji 灵宝略记
 lblka 罗布林卡
@@ -225428,11 +225435,9 @@ lidebi 立得比
 lidecd 李德才
 lideer 利德尔
 lideer 里德尔
-lidef 丽得
-lidef 利得
+lidef 里德
 lidef 离得
 lidef 立德
-lidef 里德
 lidefg 黎得芳
 lidefk 立德粉
 lidegg 李德钢
@@ -284536,11 +284541,11 @@ pfuqd 瓶刷
 pfur 平手
 pfurpj 平手盘
 pfurqi 凭手气
-pfuu 评书
-pfuul 评述
+pfuu 评述
 pfuutp 评书帖
 pfuuuu 瓶树属
 pfuuvk 平舒镇
+pfuuz 评书
 pfuv 萍水
 pfuvqi 平水期
 pfuvr 破釜沈舟
@@ -314556,6 +314561,7 @@ rflbu 人非利不生
 rfldl 染坊里的衣料
 rflig 热腹冷肠
 rfliz 染房里吹笛子
+rflwa 若夫里瓦
 rflyx 如奉纶音
 rfmdd 人烦马殆
 rfmui 人非木石
@@ -325659,8 +325665,8 @@ sibml 死边
 sibmqm 死变迁
 sibmui 四边室
 sibmv 似鳊
-sibmxf 四边形
 sibmxf 思辨性
+sibmxf 四边形
 sibmxm 丝编线
 sibmy 思变
 sibnqm 撕标签
@@ -333635,6 +333641,7 @@ stwge 三汤五割
 stwix 死徒无出乡
 stwma 三台五马
 stwsi 四天王寺
+stwte 斯图沃特
 stwtm 四天王天
 stwwk 三推五问
 stxlc 虽袒裼裸裎於我侧
@@ -462027,8 +462034,6 @@ xpddlv 携带率
 xpddma 写代码
 xpddtr 鞋带头
 xpddui 携带式
-xpddve 挟带着
-xpddve 携带着
 xpddve 携带者
 xpddx 懈怠
 xpddxf 携带型
