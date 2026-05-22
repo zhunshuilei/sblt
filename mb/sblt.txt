@@ -888,6 +888,7 @@ aefld 阿尔弗雷德
 aekxs 阿尔凯西劳斯
 aessi 阿尔萨斯
 aesxs 阿尔瑟修斯
+aetdf 阿尔特多夫
 aetxs 阿尔图修斯
 aeuds 挨饿受冻
 aewls 艾尔瓦拉斯
@@ -24274,8 +24275,8 @@ boxidg 波喜荡
 boxih 波西
 boxix 剥息
 boxk 剥下
-boxkh 拨下
 boxkh 播下
+boxkh 拨下
 boxkld 拨下来
 boxkqu 播下去
 boxlia 波象差
@@ -39675,8 +39676,8 @@ cidu 此毒
 cidup 瓷都
 cidvs 残喘待终
 cidvxn 磁对消
-cidz 次等
-cidzt 此等
+cidz 此等
+cidzt 次等
 cidztr 瓷灯头
 cie 刺耳
 cieec 刺蛾
@@ -52001,6 +52002,7 @@ dcyhp 到院
 dcyhp 道院
 dcyhub 稻垣顺
 dcyhw 道瑗
+dcyhyu 导源于
 dcyhz 道爰
 dcyi 道义
 dcyibf 稻疫病
@@ -60825,7 +60827,6 @@ diyids 第一洞
 diyidv 第一队
 diyifa 第一发
 diyifg 第一方
-diyifk 地衣酚
 diyifk 第一份
 diyifu 第一副
 diyifu 第一幅
@@ -72663,8 +72664,8 @@ duiui 待势乘时
 duiui 滴水穿石
 duiui 道树禅师
 duiui 但是畜生愚痴
-duiuk 独出
 duiuk 读出
+duiuk 独出
 duiuld 读出来
 duiutr 读出头
 duiuu 德山禅师轶事
@@ -89052,6 +89053,7 @@ fldhr 风流笃厚
 fldig 飞流短长
 fldiu 法轮端禅师
 fldlk 弗雷德里克
+fldlx 弗里德里希
 fldmm 腹里地面
 fldsi 弗兰德斯
 fldui 法琳大师
@@ -100929,6 +100931,7 @@ gcna 高呐
 gcnaw 高纳
 gcndmo 高耐磨
 gcndre 高耐热
+gcndyi 高乃依
 gcnft 高宁
 gcnfxf 高凝性
 gcni 告你
@@ -103045,8 +103048,8 @@ gede 滆
 gedebc 哥德堡
 gedebi 割得比
 gedebi 隔得比
-gedef 隔得
 gedef 歌德
+gedef 隔得
 gedef 割得
 gedef 各得
 gedehl 硌得慌
@@ -186960,8 +186963,8 @@ jmcgr 碱仓
 jmcgyx 鉴藏印
 jmci 尖刺
 jmcibf 尖刺病
-jmcid 件次
 jmcid 渐次
+jmcid 件次
 jmcid 肩刺
 jmcigz 渐次观
 jmcilp 尖刺列
@@ -204919,6 +204922,7 @@ jybuiu 觉不出
 jybuke 绝不可
 jybukk 绝不肯
 jybunz 绝不能
+jybunz 决不能
 jybuq 今予病少痊
 jyburg 决不让
 jyburg 绝不让
@@ -212831,6 +212835,7 @@ kgzrf 扛揍
 kgzrw 可贵在容易觉悟
 kgzs 康总
 kgzst 亢宗
+kgzu 抗阻
 kgzve 可观尊者
 kgzyx 空谷足音
 kgzzvi 抗增殖
@@ -214488,6 +214493,7 @@ klrkp 诓人
 klrvfz 况瑞峰
 kls 矿
 klsc 狂扫
+klsda 克里斯蒂安
 klsdn 克里斯蒂娜
 klsh 匡算
 klshy 科林斯会议
@@ -219349,6 +219355,7 @@ laxmw 腊线
 laxmw 蜡线
 laxnur 拉小手
 laxx 拉新
+laxxd 拉辛
 laxxrk 拉新人
 laxyqn 拉雪橇
 laxyzi 拉雪兹
@@ -245588,6 +245595,7 @@ lwhjuu 类函数
 lwhjv 留我花间住
 lwhk 泪痕
 lwhkb 勒痕
+lwhke 雷文霍克
 lwhlts 类黄酮
 lwho 累活
 lwhod 雷火
@@ -255302,8 +255310,8 @@ midzyh 幂等元
 mie 米二
 miegv 满车而归
 mier 米二
-mierdb 弥尔顿
 mierdb 米尔顿
+mierdb 弥尔顿
 miere 面赤耳热
 mierna 米尔纳
 miernw 米尔内
@@ -260448,9 +260456,9 @@ moridb 末日盾
 moridc 末日刀
 morilb 末日轮
 morixy 末日靴
-morj 蓦然
+morj 漠然
 morjh 默然
-morjh 漠然
+morjh 蓦然
 morjjm 蓦然间
 morjm 墨染
 mork 默认
@@ -261553,13 +261561,13 @@ mruazv 谋杀罪
 mrufz 靡然顺风
 mruhe 邈若山河
 mruhf 瞀芮生乎腐
-mrui 谋士
+mrui 某事
 mruigv 牟氏龟
 mruij 某市
 mruij 某师
 mruiq 某时
-mruis 某事
 mruis 谋事
+mruit 谋士
 mruiu 谋食
 mruivs 牟世忠
 mruiwu 某事物
@@ -266656,7 +266664,6 @@ mwyx 没瘾
 mwyxb 渺无音讯
 mwyxbj 美音版
 mwyxci 美因茨
-mwyxci 美茵茨
 mwyxd 美音
 mwyxh 梅茵
 mwyxk 梅因
@@ -268165,11 +268172,11 @@ mztelo 蒙特罗
 mztelw 蒙特雷
 mztfww 孟庭苇
 mztj 孟坦
-mztm 梦天
+mztm 蒙恬
 mztmcg 梦天舱
+mztmh 梦天
 mztms 蒙田
 mztms 梦田
-mztmx 蒙恬
 mztn 猛跳
 mzto 梦拓
 mztols 蒙托龙
@@ -293233,6 +293240,7 @@ qeetf 倾耳而听
 qehgs 穷而后工
 qehke 强而后可
 qehke 期而后可
+qehsk 切尔豪森
 qeidu 雀儿肠肚
 qeiie 乞儿乘车
 qelbv 去而来不知其所止
@@ -333740,6 +333748,7 @@ subwb 肃北
 subwj 撒手不为奸
 subwm 塑杯
 subwxm 肃北县
+subya 莎士比亚
 subyh 四十八愿
 subyj 撒手闭眼
 subyu 四十八愿度众生
@@ -348572,7 +348581,8 @@ tmxpxf 天蝎星
 tmxpxk 填写下
 tmxpzo 天蝎座
 tmxqn 痰迷心窍
-tmxsz 天雄
+tmxs 天雄
+tmxsi 托马修斯
 tmxt 天秀
 tmxu 田续
 tmxuh 天虚
@@ -349002,6 +349012,7 @@ tnhejp 调和解
 tnheqi 调和漆
 tnhese 调和色
 tnheva 跳合闸
+tnheve 调和者
 tnhexl 条河乡
 tnheyr 调和油
 tnhfsi 条坏死
@@ -372137,8 +372148,8 @@ uiysvz 使用证
 uiysvz 失用症
 uiyswg 试用网
 uiyswk 实用文
-uiysxf 实用型
 uiysxf 实用性
+uiysxf 实用型
 uiysxf 适用性
 uiysxk 试用下
 uiysyh 试用员
@@ -376138,6 +376149,7 @@ ukvvy 师旷之枝策也
 ukvz 深证
 ukvzhh 申正焕
 ukvzkb 申正昆
+ukvzlb 神正论
 ukvzve 沈正哲
 ukvzy 审证
 ukvzz 哂正
@@ -379481,7 +379493,7 @@ urbiui 手臂式
 urbiuj 寿比山
 urbiyi 收鼻翼
 urbiz 事若不成
-urbj 寿斑
+urbj 首班
 urbjf 手扳
 urbjfw 收班费
 urbji 视如敝屐
@@ -379490,7 +379502,8 @@ urbjju 手板锯
 urbjl 手办
 urbjm 手板
 urbjp 手版
-urbjw 首班
+urbjp 首版
+urbjw 寿斑
 urbjx 杀人不见血
 urbk 手本
 urbkfk 守本分
@@ -382312,9 +382325,7 @@ uubwte 舒贝特
 uubwv 书背
 uubwyi 梳背椅
 uubxi 生生不息
-uubyc 善数不用筹策
 uubyi 生生不已
-uubys 石山本愿寺
 uuc 输
 uucb 数寸
 uucbm 淑村
@@ -383141,6 +383152,7 @@ uukj 书刊
 uukjhc 书刊号
 uukjjk 书刊架
 uukjvi 书刊纸
+uukke 时时刻刻
 uukl 疏狂
 uuklm 竖框
 uuko 疏阔
@@ -392461,11 +392473,11 @@ vcyfmf 赵英明
 vcyfnj 赵英男
 vcyfqi 赵英其
 vcyfzi 赵樱子
-vcyg 朝阳
+vcyg 照样
 vcygge 朝阳格
 vcyggo 照样过
 vcygjm 朝阳剑
-vcygm 照样
+vcygp 朝阳
 vcygp 昭阳
 vcygp 赵阳
 vcygqu 昭阳区
@@ -402317,8 +402329,8 @@ viwuk 支吾
 viwuku 植物库
 viwula 植物蜡
 viwulj 置物篮
-viwun 植物
 viwun 之物
+viwun 植物
 viwun 指物
 viwun 织物
 viwun 置物
@@ -402353,9 +402365,9 @@ viwvs 知臣为忠
 viww 只为
 viwwb 肢痿
 viwwd 之为
+viwwd 至为
 viwwd 值为
 viwwd 指为
-viwwd 置为
 viwwgh 知味观
 viwwhq 炙维化
 viwwhu 只维护
@@ -409495,6 +409507,7 @@ vsbnfg 中标方
 vsbnhb 中表婚
 vsbnig 钟表厂
 vsbnjk 中标价
+vsbnjl 钟表匠
 vsbnll 中标量
 vsbnlv 中标率
 vsbnm 中标
@@ -432373,7 +432386,7 @@ wujgv 王庶几改之
 wujh 五卷
 wujhn 乌鹃
 wujhr 无倦
-wuji 无际
+wuji 无机
 wujibk 戊基苯
 wujic 五十卷钞
 wujidn 五棘鲷
@@ -432400,7 +432413,6 @@ wujil 污迹
 wujilu 无记录
 wujilv 无纪律
 wujilx 无机磷
-wujim 无机
 wujim 无极
 wujimf 无记名
 wujimo 伍及墨
@@ -432410,6 +432422,7 @@ wujin 舞妓
 wujin 雾姬
 wujip 无几
 wujip 无及
+wujip 无际
 wujiqf 戊基氰
 wujiqi 乌基奇
 wujir 舞伎
@@ -435571,8 +435584,8 @@ wuyifz 吴翌凤
 wuyigc 武艺高
 wuyigs 吴贻弓
 wuyigu 吴乙古
-wuyih 五一
 wuyih 无一
+wuyih 五一
 wuyih 无异
 wuyih 武艺
 wuyih 舞艺
@@ -435611,8 +435624,6 @@ wuyir 武仪
 wuyirk 吴颐人
 wuyirk 无一人
 wuyisi 无意思
-wuyiui 无一是
-wuyiui 无异是
 wuyiui 无意识
 wuyiui 无疑是
 wuyiuj 武夷山
@@ -437080,6 +437091,7 @@ wwgdp 未改
 wwgdvg 未盖章
 wwgdy 为该
 wwge 伟哥
+wwgeer 威格尔
 wwgeh 威戈
 wwgeh 维戈
 wwgek 维哥
@@ -439914,7 +439926,7 @@ wwxbhh 微循环
 wwxbv 吾闻西伯善养老者
 wwxbvc 为寻找
 wwxev 吾无行而不与二三子者
-wwxf 卫星
+wwxf 微型
 wwxfbk 微型本
 wwxfbz 微型泵
 wwxfcb 卫星村
@@ -439942,8 +439954,8 @@ wwxfn 韦姓
 wwxfn 魏姓
 wwxfp 位形
 wwxfq 微星
+wwxfq 卫星
 wwxft 位型
-wwxft 微型
 wwxftf 卫星厅
 wwxfui 为形式
 wwxfvj 卫星站
@@ -440061,7 +440073,7 @@ wwxmxf 伪显性
 wwxmxf 危险性
 wwxmyh 危险源
 wwxmyr 胃显优
-wwxn 微笑
+wwxn 微小
 wwxnan 魏晓安
 wwxnao 尾小凹
 wwxnao 胃小凹
@@ -440084,7 +440096,7 @@ wwxnm 卫校
 wwxnmc 微笑猫
 wwxnnn 微笑鸟
 wwxnqu 胃小区
-wwxns 微小
+wwxnt 微笑
 wwxntg 微笑堂
 wwxnui 微笑时
 wwxnve 微笑着
@@ -479401,6 +479413,7 @@ yemzji 夜梦记
 yemzls 叶梦龙
 yen 也能
 yena 也拿
+yenaf 耶拿
 yenasi 耶纳斯
 yend 椰奶
 yendn 液奶
@@ -486058,6 +486071,7 @@ yhiun 原初
 yhiun 元初
 yhiup 原处
 yhiur 一麾出守
+yhiuxf 原初性
 yhivx 有恒产者有恒心
 yhiz 远程
 yhizbn 远程表
@@ -488880,9 +488894,9 @@ yidshr 移动后
 yidsjk 移动架
 yidsjn 移动角
 yidskf 移动块
+yidsl 意动
 yidsl 一动
 yidsl 异动
-yidsl 意动
 yidslb 移动轮
 yidsli 移动力
 yidsll 移动量
@@ -507516,6 +507530,7 @@ yuizhc 俞承浩
 yuizhc 俞承豪
 yuizhv 俞成辉
 yuizji 育成鸡
+yuizlb 预成论
 yuiznt 育成牛
 yuizqf 庾澄庆
 yuizqi 御城棋
@@ -511936,8 +511951,8 @@ yxdc 引导
 yxdcbf 阴道病
 yxdcbi 阴道壁
 yxdcbu 阴道部
-yxdcd 印到
 yxdcd 引到
+yxdcd 印到
 yxdcfu 引导符
 yxdcjf 阴道镜
 yxdckf 引导块
@@ -515604,6 +515619,7 @@ yyrkp 悦人
 yyrkp 越人
 yyrll 余音绕梁
 yyrmg 有眼如盲
+yyro 越弱
 yyru 月入
 yyrugr 月如钩
 yyrun 月如
@@ -516200,13 +516216,13 @@ yyygv 予一以贯之
 yyygv 於于以盖众
 yyygvj 岳阳站
 yyygxm 岳阳县
-yyyh 月圆
+yyyh 越远
 yyyhd 岳源
 yyyhd 养痈贻害
 yyyhh 月苑
 yyyhh 养痈贻患
 yyyhh 养痈遗患
-yyyhl 越远
+yyyhk 月圆
 yyyhlu 悦园路
 yyyhu 有以异乎
 yyyhui 月圆时
