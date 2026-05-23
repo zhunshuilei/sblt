@@ -21357,6 +21357,7 @@ bmp 扁平
 bmpabm 边爬边
 bmpc 鞭炮
 bmpcbm 边跑边
+bmpch 边炮
 bmpcig 鞭炮厂
 bmpcuz 鞭炮声
 bmpcz 边跑
@@ -53841,6 +53842,7 @@ dehsd 德洪
 dehsn 德鸿
 dehsvr 德宏州
 dehu 的湖
+dehv 得回
 dehvi 大而化之
 dehvsi 德惠寺
 dehvui 德惠市
@@ -63354,9 +63356,9 @@ djziui 弹子石
 djziw 淡紫
 djzixn 胆子小
 djziye 单子叶
-djziz 单子
 djziz 单字
 djziz 担子
+djziz 单子
 djziz 掸子
 djzju 待机再举
 djzma 斗鸡走马
@@ -175645,8 +175647,8 @@ jfys 经用
 jfysbf 颈痈病
 jfysp 竟用
 jfysp 警用
-jfyu 竟
 jfyu 境遇
+jfyu 竟
 jfyuaa 净余额
 jfyugr 鲸鱼沟
 jfyuh 竟与
@@ -369371,7 +369373,7 @@ uipwv 始胚
 uipwv 实胚
 uipwxm 适配线
 uipwy 失配
-uipx 食品
+uipx 视频
 uipxaa 视频啊
 uipxbu 食品部
 uipxdc 食贫道
@@ -369399,6 +369401,7 @@ uipxju 食品局
 uipxk 饰品
 uipxk 试品
 uipxk 石品
+uipxk 食品
 uipxka 视频卡
 uipxlm 食品链
 uipxlt 视频流
@@ -369415,7 +369418,6 @@ uipxwg 视频网
 uipxwg 食品网
 uipxxt 视频秀
 uipxxy 食品学
-uipxy 视频
 uipxyb 视频云
 uipxye 食品业
 uipxyr 食品油
@@ -372432,6 +372434,7 @@ uiziz 柿子
 uiziz 石子
 uiziz 虱子
 uiziz 识字
+uiziz 失子
 uizizc 十字藻
 uizizo 师子座
 uizizo 狮子座
@@ -401183,8 +401186,8 @@ vinzre 只能惹
 vinzrg 只能让
 vinzsh 只能算
 vinzuo 只能说
-vinzv 职能
 vinzv 智能
+vinzv 职能
 vinzv 之能
 vinzv 知能
 vinzwg 智能网
@@ -493337,8 +493340,8 @@ yivhuk 一转身
 yivhur 一转手
 yivhye 以专业
 yivhyj 一转眼
-yivi 一只
 yivi 翼
+yivi 一只
 yivian 一直按
 yivib 异质
 yiviba 一直把
