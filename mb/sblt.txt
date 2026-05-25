@@ -846,12 +846,9 @@ acrmf 爱财如命
 acrxx 安藏人心
 ad 安定
 adana 埃蒂安纳
-addhd 阿斗当皇帝
 addho 挨刀的货
 addjk 阿颠底迦
-addju 阿斗的江山
 adff 吖啶
-adgmz 爱戴高帽子
 adhuc 暗滴花梢
 adhxl 暗淡幻象
 adicg 暗度陈仓
@@ -1352,8 +1349,6 @@ aihch 矮蒿
 aihch 艾蒿
 aihck 哀号
 aihck 哀嚎
-aihcve 哀号着
-aihcve 哀嚎着
 aihcve 爱好者
 aihd 爱海
 aihdk 哎嗨
@@ -2331,7 +2326,6 @@ ajxtj 暗礁险滩
 ajxzs 按迹循踪
 ajzgl 暗极则光
 ak 爱哭
-akddl 安克迭都培龙
 akeht 埃克尔哈特
 akhte 埃克哈特
 akqrs 阿匼取容
@@ -40934,14 +40928,13 @@ cjg 餐馆
 cjgc 残稿
 cjgcjl 残槁蔃
 cjgck 残高
-cjgfy 此筋骨非有加急而不柔也
 cjggd 粗具梗概
-cjgh 餐馆
+cjgh 参观
 cjghdm 参观点
-cjghj 参观
 cjghle 参观了
 cjghli 餐馆里
 cjghqh 参观券
+cjghs 餐馆
 cjghth 参观团
 cjghui 参观时
 cjghve 参观者
@@ -49507,6 +49500,7 @@ dayht 大宛
 dayhuf 大元帅
 dayhug 大苑上
 dayhuk 大原肾
+dayhvo 大圆桌
 dayhwg 大猿王
 dayhyx 达原饮
 dayhze 大原则
@@ -54372,8 +54366,6 @@ dezvrk 得罪人
 df 定
 dfa 定案
 dfaa 顶啊
-dfahh 东风暗换年华
-dfalb 丹房奥论
 dfan 定案
 dfanlu 定安路
 dfann 定安
@@ -54537,7 +54529,6 @@ dfdgm 定档
 dfdguz 叮当声
 dfdgxl 叮当响
 dfdh 顶端
-dfdhe 东风妒花恶
 dfdhj 顶断
 dfdhl 锭端
 dfdhmc 顶端毛
@@ -66066,7 +66057,6 @@ dnf 掉
 dnfa 掉发
 dnfad 钓法
 dnfajk 吊筏架
-dnfdm 电脑佛典
 dnfg 调防
 dnfgp 吊放
 dnfgui 吊放式
@@ -67586,8 +67576,8 @@ doqudc 多渠道
 doqule 夺去了
 doqule 夺取了
 doqumm 多曲面
-doqut 多去
 doqut 夺去
+doqut 多去
 doqut 踱去
 doqx 多亲
 doqxl 多勤
@@ -74899,7 +74889,6 @@ dvxyuz 对学生
 dvy 对应
 dvya 对呀
 dvybds 堆云洞
-dvybw 大至于不可围
 dvyde 导之以德
 dvyecc 对叶草
 dvyedr 对叶豆
@@ -74968,7 +74957,6 @@ dvyu 对于
 dvyubw 对玉杯
 dvyuco 对与错
 dvyufa 对于法
-dvyuh 但只一声弥陀号
 dvyui 睹终原始
 dvyuke 对于可
 dvyul 冬至阳生春又来
@@ -77125,9 +77113,7 @@ dzzuw 大自在摄受祈祷文
 dzzxn 戴罪自效
 e 二
 ea 额啊
-eafqt 恩爱夫妻不到头
 eaqyg 尔爱其羊
-eawuh 而骜万世之患
 eayhf 迩安远怀
 eayvi 迩安远至
 eb 耳边
@@ -85500,7 +85486,6 @@ fja 翻案
 fjaa 烦啊
 fjai 泛爱
 fjaivs 泛爱众
-fjalt 法界安立图
 fjan 翻案
 fjanfz 翻案风
 fjanhq 范安华
@@ -85779,8 +85764,6 @@ fjdyx 法驾导引
 fjdzbc 范登堡
 fjdzlu 反登陆
 fje 反而
-fjebq 反己而不穷
-fjebv 偾骄而不可系者
 fjeelb 范额伦
 fjelv 飞近蛾绿
 fjenx 凡恩
@@ -86630,7 +86613,6 @@ fjrhl 飞箭如蝗
 fjri 反日
 fjriu 复旧如初
 fjrj 幡然
-fjrjt 费尽人间铁
 fjrjx 芳机瑞锦
 fjrk 烦人
 fjrkan 范韧庵
@@ -87462,7 +87444,6 @@ fjz 蹯
 fjza 繁杂
 fjza 㔾
 fjzbm 丰俭自便
-fjzbr 防君子不防小人
 fjzc 烦躁
 fjzcl 反遭
 fjzcl 翻造
@@ -87496,9 +87477,7 @@ fjzuyu 范祖禹
 fjzv 犯罪
 fjzvgj 犯罪感
 fjzvlv 犯罪率
-fjzvq 非君子之器
 fjzvrk 犯罪人
-fjzvs 夫君子之居丧
 fjzvve 犯罪者
 fjzvxy 犯罪学
 fjzvyu 反嘴鹬
@@ -89923,7 +89902,6 @@ fqzur 飞禽走兽
 fqzvi 方且尊知而火驰
 fqzye 非其罪也
 fr 否
-frbbf 凡人本不烦
 frbdi 芙蓉并蒂
 frbih 非人不传
 frbji 幡然变计
@@ -109220,7 +109198,6 @@ gjwxf 诡谲无行
 gjwxi 感今惟昔
 gjwxx 革旧维新
 gjx 感
-gjxdm 公鸡下蛋母鸡打鸣
 gjxf 感性
 gjxfb 感兴
 gjxfba 甘兴霸
@@ -134575,7 +134552,6 @@ hla 磺胺
 hlaali 黄阿丽
 hlaama 皇阿玛
 hlais 黄矮
-hlamx 后来鞍马何逡巡
 hlan 磺胺
 hlanbw 磺胺钡
 hlancd 黄鹌菜
@@ -138089,7 +138065,6 @@ howwp 火卫
 howws 火尾
 howwsj 活胃散
 hox 惑
-hoxcq 红藕香残玉簟秋
 hoxf 火星
 hoxfd 火刑
 hoxfd 获刑
@@ -142326,7 +142301,6 @@ hsa 红岸
 hsaibf 红癌病
 hsaili 洪爱莉
 hsaixf 红矮星
-hsalp 浑似阿莲双枕畔
 hsan 红岸
 hsancb 鸿安村
 hsann 鸿安
@@ -149295,6 +149269,7 @@ hwhqxf 黑化型
 hwhrui 黑喉石
 hwhrxn 黑喉小
 hwhs 黑红
+hwhsse 黑红色
 hwhu 黑户
 hwhuh 黑虎
 hwhuhu 黑乎乎
@@ -160290,6 +160265,7 @@ iiwws 鸱尾
 iiwwv 赤鳂
 iiwwvr 赤纬轴
 iiwww 赤纬
+iiwww 颤颤巍巍
 iiwxf 迟迟吾行
 iiwxy 迟迟吾行也
 iiwzo 愁城兀坐
@@ -163205,7 +163181,6 @@ ikzww 差堪自慰
 ikzxm 吃苦在先
 il 窗
 ila 创安
-ilajh 春来谙尽恶黄昏
 ilan 创安
 ilb 疮
 ilba 疮疤
@@ -164259,7 +164234,6 @@ iqhui 成全好事
 iqhuz 逞强好胜
 iqhys 重庆华岩寺
 iqhyu 初晴后雨
-iqiks 长青春科尔寺
 iqilb 超群出伦
 iqinz 逞强称能
 iqiq 欻欻
@@ -168756,6 +168730,7 @@ ivmr 垂眸
 ivmu 槌
 ivmu 垂暮
 ivmue 棰
+ivmuj 垂幕
 ivmw 锤妹
 ivn 吹牛
 ivndt 吃斋能得道牛马上西天
@@ -168986,7 +168961,6 @@ ivxyvu 吹雪柱
 ivy 炊烟
 ivybcc 吹云草
 ivybi 嗤之以鼻
-ivyby 称诸异邦曰
 ivyebf 垂叶病
 ivyers 垂叶榕
 ivyglt 垂杨柳
@@ -171026,7 +171000,6 @@ izvzz 呈正
 izw 琤
 izwd 城外
 izwdcb 城外村
-izwdv 出则无敌国外患者
 izwe 珹
 izwg 称王
 izwgh 成王
@@ -171065,8 +171038,6 @@ izwwd 称为
 izwwfz 逞威风
 izwwg 成则为王
 izwwgc 程维高
-izwwk 成则为王败则为寇
-izwwl 成则为王败则为虏
 izwwle 成为了
 izwwlf 成为零
 izwwn 逞威
@@ -185626,11 +185597,13 @@ jllez 将了
 jllez 降了
 jllf 将领
 jllfbw 江铃杯
+jllfh 降灵
 jllfj 江铃
 jllfp 江陵
 jllfpd 江陵牌
 jllfqu 江陵区
 jllfr 将令
+jllfuu 降灵术
 jllfw 江玲
 jllfxm 江陵县
 jllg 江郎
@@ -190780,7 +190753,6 @@ jnizqu 蕉城区
 jnizxm 交城县
 jnj 觉
 jnjbh 焦菌
-jnjbv 迦诺迦跋黎堕阇者
 jnjbw 江南江北
 jnjf 交警
 jnjfbf 胶茎病
@@ -191696,8 +191668,8 @@ jnuiq 校时
 jnuiqi 脚湿气
 jnuis 搅屎
 jnuis 矫饰
-jnuit 教士
 jnuit 教室
+jnuit 教士
 jnuith 教师团
 jnuiu 嚼食
 jnuiye 教师爷
@@ -198151,7 +198123,6 @@ jtzzjk 就增加
 ju 具
 jua 倨傲
 juabg 济世安邦
-juabv 皆是阿鞞跋致
 juai 举哀
 juamx 济世安民
 juamx 济世爱民
@@ -198351,6 +198322,7 @@ judai 鸡声断爱
 judanm 巨大鲶
 judaqi 举大旗
 judc 举刀
+judcd 聚到
 judcm 巨盗
 judcz 锯刀
 juddj 锯带
@@ -199093,7 +199065,6 @@ jula 巨辣
 julajp 桔蜡蚧
 julav 聚鯻
 julb 巨轮
-julbe 井水流不到河里边儿
 juldb 旧时栏楯
 juldl 姜是老的辣
 juldn 尽是老调
@@ -204136,7 +204107,6 @@ jxwa 珒
 jxwaer 金挖耳
 jxwawa 金娃娃
 jxwbu 吉凶未卜
-jxwby 君奚为不见孟轲也
 jxwe 瑾
 jxwee 琎
 jxwei 瑨
@@ -204948,7 +204918,6 @@ jyctt 皆与此图筋骨同
 jycxs 决一雌雄
 jyd 劂
 jyda 绝大
-jydbd 饥一顿饱一顿
 jydbo 教育点播
 jydc 绝倒
 jydcvi 觉道支
@@ -205220,7 +205189,6 @@ jyja 觖
 jyjao 𫔎
 jyjbd 歼一警百
 jyjcu 加油加醋
-jyjcx 加羊加措格西
 jyjdy 既欲结大义
 jyje 镢
 jyjf 绝境
@@ -205670,13 +205638,9 @@ jyvzjf 觉正净
 jyvzy 厥证
 jyw 绝
 jywa 玦
-jywam 举言谓阿妹
-jywby 将因卧病解朝衣
 jywci 狙以为雌
 jywe 珏
-jywey 谏於王而不用
 jywg 绝望
-jywgb 家有万贯一时不便
 jywgh 觉王
 jywgle 绝望了
 jywgpo 绝望坡
@@ -211466,9 +211430,9 @@ keziz 壳子
 keziz 棵子
 keziz 锞子
 kezj 可赞
-kezo 客座
+kezo 可做
+kezog 客座
 kezor 可作
-kezor 可做
 kezot 可坐
 kezoww 可作为
 kezu 可租
@@ -221313,7 +221277,6 @@ ldcuu 潦倒粗疏
 ldd 濑
 ldda 来打
 lddbpf 莱顿瓶
-lddbv 龙多丹毕尼玛尊者
 lddby 莱顿
 lddc 来到
 lddcig 来到厂
@@ -223924,11 +223887,9 @@ lfzzjk 零增加
 lfzzvg 零增长
 lg 浪
 lgabg 立国安邦
-lgant 龙国庵念佛堂
 lgb 狼狈
 lgbacc 狼巴草
 lgbacc 狼把草
-lgbby 类固不必可推知也
 lgbc 狼堡
 lgbcik 郎葆辰
 lgbfj 拉弓不放箭
@@ -229867,7 +229828,6 @@ ljhii 麟角虎翅
 ljhj 懒汉
 ljhji 礼节徽记
 ljhju 陆绩怀橘
-ljhju 李济华居士
 ljhjxp 懒汉鞋
 ljhkr 两肩荷口
 ljhlg 龙江虎浪
@@ -238997,7 +238957,6 @@ ltfzvi 刘锋植
 ltfzxl 柳峰乡
 ltfzyc 刘凤瑶
 ltg 流过
-ltgbv 老天隔不了一层纸
 ltge 六个
 ltgeba 留个疤
 ltgede 六个的
@@ -293018,7 +292977,6 @@ qcywy 其次以为有物矣
 qcyyu 群雌粥粥
 qczyi 遣词造意
 qd 确定
-qdafu 秦道安法师
 qdaii 情淡爱驰
 qdasj 七大阿僧祗劫
 qdbbg 气得嘣八丈高
@@ -293210,7 +293168,6 @@ qe 其二
 qebdg 群而不党
 qebfu 乞儿暴富
 qebkv 器二不匮
-qebkv 亲而不可不广者
 qebli 切尔伯里
 qebmx 穷而不悯
 qebqu 曲而不屈
@@ -307173,7 +307130,6 @@ qr 确认
 qrbbi 亲如把臂
 qrbgu 全然不顾
 qrbhu 清如冰壶
-qrbhu 七日不火食
 qrbjm 情人不见
 qrbju 其入不距
 qrble 愀然不乐
@@ -310602,14 +310558,11 @@ quzwl 弃世则无累
 quzxl 弃事则形不劳
 quzyh 清沈载元
 qv 其中
-qvbcx 去住彼此无消息
 qvbda 七支八搭
 qvbde 求之不得
 qvbfk 轻妆薄粉
-qvbgk 却之不恭受之有愧
 qvbgs 却之不恭
 qvbji 轻舟便楫
-qvbjj 取之不尽用之不竭
 qvbjp 取之不竭
 qvbjx 取之不尽
 qvbkr 七折八扣
@@ -310892,7 +310845,6 @@ qvzyu 强中自有强中手
 qw 请问
 qwbdc 七歪八倒
 qwbdd 七窝八代
-qwbfq 千万不复全
 qwbgf 七弯八拐
 qwbhu 其无辩乎
 qwbjm 洽闻博见
@@ -312124,8 +312076,6 @@ qya 缺爱
 qyaag 气宇昂昂
 qyahq 潜移暗化
 qyai 缺爱
-qyaji 秋云暗几重
-qyaul 却忆安石风流
 qyb 瘸
 qyba 却把
 qybbi 其用不弊
@@ -312709,7 +312659,6 @@ qytxl 窃玉偷香
 qytyh 其犹橐龠乎
 qytzd 岂有他哉
 qyu 确实
-qyubh 其与是不类乎
 qyuc 缺少
 qyucde 缺少的
 qyucdm 缺少点
@@ -331720,8 +331669,8 @@ sowk 所闻
 sowkk 所问
 sowkk 索吻
 sowkv 琐闻
+sowo 缩
 sowu 所悟
-sowu 缩
 sowufa 所无法
 sowusa 索乌萨
 sowux 所恶
@@ -340143,14 +340092,14 @@ tdmu 泰姆
 tdmuuj 太姥山
 tdmuy 铜鞮陌上三更月
 tdmuz 太母
-tdmw 太美
-tdmwd 太没
+tdmw 太没
 tdmwle 太美了
 tdmwli 太美丽
 tdmwm 抬眉
 tdmwn 台妹
 tdmwn 台媒
 tdmwsu 肽霉素
+tdmwy 太美
 tdmwy 肽酶
 tdmwya 太美亚
 tdmx 泰民
@@ -341796,7 +341745,6 @@ tfaide 挺矮的
 tfaiii 挺爱吃
 tfaimd 挺爱买
 tfaiqu 挺爱去
-tfalh 退法阿罗汉
 tfan 听案
 tfb 停泊
 tfba 挺拔
@@ -342621,9 +342569,7 @@ tfyhyj 烃源岩
 tfyici 停一次
 tfyid 听衣
 tfyijp 听一节
-tfyitf 停一停
 tfyitf 听一听
-tfyitf 挺一挺
 tfyiuz 听一声
 tfyixk 停一下
 tfyixk 听一下
@@ -353135,7 +353081,6 @@ tsgvj 砼规
 tsgz 同庚
 tsh 烔
 tshb 通婚
-tshbl 兔死狐悲物伤其类
 tshbn 铜婚
 tshbw 兔死狐悲
 tshc 同好
@@ -354868,7 +354813,6 @@ tt 天天
 ttban 忐忑不安
 ttbdf 忐忑不定
 ttbdh 滔滔不断
-ttbdu 迢迢不断如春水
 ttbji 倜傥不羁
 ttbji 跅弢不羁
 ttbjn 天台八教
@@ -360161,9 +360105,9 @@ ubqqh 山本青青因秋红
 ubqvk 识蔽求真
 ubqyx 十八契印
 ubr 吮乳
+ubrsi 生不如死
 ubru 吮乳
 ubrye 是不仁也
-ubrym 上悖日月之明
 ubs 顺遂
 ubsitn 顺四条
 ubsrd 士别三日刮目相待
@@ -371190,7 +371134,6 @@ uiwyg 身常无殃
 uiwz 石瓮
 uiwzc 绳床瓦灶
 uix 恃
-uixah 诗成笑傲凌沧海
 uixb 实训
 uixbig 实训场
 uixbvi 实寻址
@@ -372093,8 +372036,8 @@ uiyslv 使用率
 uiyslv 实用率
 uiyslv 适用率
 uiyslw 实用类
-uiysp 实用
 uiysp 适用
+uiysp 实用
 uiysp 食用
 uiysp 试用
 uiyspd 实用派
@@ -379418,7 +379361,6 @@ urba 手把
 urbaji 手扒鸡
 urbajn 手把胶
 urbarr 手扒肉
-urbas 谁人不爱千钟粟
 urbatc 手把套
 urbaur 手把手
 urbax 谁人不爱子孙贤
@@ -379519,10 +379461,7 @@ urbudc 收不到
 urbude 受不得
 urbuds 手不动
 urbuiu 售不出
-urbul 时人不识余心乐
 urbuln 受不了
-urbuln 收不了
-urbuln 瘦不了
 urbulz 手不冷
 urbup 首部
 urbuqi 受不起
@@ -383918,7 +383857,6 @@ uuugk 书商
 uuugs 书上
 uuugs 实事实功
 uuui 舒适
-uuuib 树梢上吹喇叭
 uuuibj 舒适版
 uuuibo 倏逝波
 uuuibu 数十部
@@ -400196,9 +400134,9 @@ vijill 𦭜芨梁
 vijils 栉棘龙
 vijim 之机
 vijim 之极
+vijim 至极
 vijim 值机
 vijim 织机
-vijim 至极
 vijin 雉鸡
 vijip 之际
 vijip 智及
@@ -400688,8 +400626,8 @@ vilixf 智力型
 vilixl 只里乡
 viliyh 直立猿
 viliyu 致力于
-viliz 智力
 viliz 之力
+viliz 智力
 viliz 指力
 viliz 枝力
 viliz 直隶
@@ -407994,7 +407932,6 @@ vqv 抓住
 vqvb 抓准
 vqve 抓着
 vqvene 抓着呢
-vqvey 植其杖而耘
 vqvldf 抓壮丁
 vqvq 抓抓
 vqvqfk 抓抓粉
@@ -408008,7 +407945,6 @@ vqvuer 抓猪儿
 vqvui 追趋逐耆
 vqvule 抓住了
 vqvuwo 抓住我
-vqvuy 知丘之适楚也
 vqvxk 重泉之下
 vqvym 知穷之有命
 vqw 抓握
@@ -415723,7 +415659,6 @@ vva 追爱
 vvai 追爱
 vvb 赘
 vvban 惴惴不安
-vvbbd 皱皱巴巴的
 vvbdd 知止不殆
 vvbdf 锥摆
 vvbdj 枕着扁担睡觉
@@ -416084,7 +416019,6 @@ vvpz 追捧
 vvpzve 追捧着
 vvq 追求
 vvqci 郑重其辞
-vvqcm 踯躅青骢马
 vvqhc 锥蜷
 vvqhr 舟之前后
 vvqli 转战千里
@@ -416295,7 +416229,6 @@ vvwwu 智周万物
 vvwxp 正直无邪
 vvwyi 知之外矣
 vvx 惴
-vvxai 诸真玄奥集成
 vvxb 追寻
 vvxbm 赵州小便
 vvxbve 追寻着
@@ -416504,9 +416437,7 @@ vwyyi 著毋庸议
 vwzjp 瞻望咨嗟
 vwzwo 知我罪我
 vx 这些
-vxaju 周孝庵居士
 vxbda 褚小杯大
-vxblm 重寻碧落茫茫
 vxblu 真相毕露
 vxbmw 真心不昧
 vxbqi 中心不戚
@@ -416661,7 +416592,6 @@ vxwyy 周霄问曰
 vxx 中小型
 vxxbj 朝夕相伴
 vxxbu 肘行膝步
-vxxdc 真性心地藏
 vxxdi 终鲜兄弟
 vxxhr 知先行后
 vxxiu 朝夕相处
@@ -426257,7 +426187,6 @@ wjyhp 晚见雁行频
 wjyhui 万源市
 wjyhxm 万源县
 wjyi 玩意
-wjyia 未解忆长安
 wjyibf 晚疫病
 wjyici 万亿次
 wjyici 玩一次
@@ -427984,26 +427913,10 @@ wkzv 问罪
 wkzyy 谓孔子曰
 wkzz 稳增
 wl 为了
-wland 万里安能制夷狄
 wlbjf 为礼不敬
-wlbkv 无理不可争
 wlble 闻乐不乐
-wlbqf 往来八千返
-wlbqk 万里悲秋常作客
-wlbqq 万籁百泉相与秋
-wlbsf 无理辩三分
-wlbtk 为力不同科
 wlbts 文理不通
-wlbyu 五陵北原上
-wlcjj 万籁此俱寂
-wlcmy 晚来翠眉宫样
-wlcvh 万绿从中一点红
-wldbu 闻邻笛悲甚
-wldgu 我来吊古
-wldhj 外来的和尚会念经
-wldjb 晚来顿觉罗衫薄
 wldrg 畏垒大壤
-wldsr 为留待骚人
 wlemn 无理而妙
 wleui 威廉二世
 wlfji 晚来风急
@@ -437861,8 +437774,8 @@ wwjxpx 违禁品
 wwjxq 魏晋
 wwjxqm 为金钱
 wwjxqn 卫金桥
-wwjxs 未尽
 wwjxs 违禁
+wwjxs 未尽
 wwjxsi 威金斯
 wwjxve 违禁者
 wwjxwu 违禁物
@@ -439873,8 +439786,8 @@ wwwwmi 微微米
 wwwwmn 微微秒
 wwwwn 娓娓
 wwwwr 伟伟
-wwwws 崴嵬
 wwwws 巍巍
+wwwws 崴嵬
 wwwws 魏巍
 wwwwsi 维维斯
 wwwwta 维维她
@@ -440578,8 +440491,8 @@ wwzog 尾座
 wwzohc 为做好
 wwzor 为做
 wwzor 未做
-wwzot 危坐
 wwzot 围坐
+wwzot 危坐
 wwzove 围坐着
 wwzowj 未做完
 wwzowk 微作文
@@ -440811,53 +440724,25 @@ wxzyh 无学祖元
 wxzyy 未信则以为厉己也
 wxzyy 未信则以为谤己也
 wy 唯一
-wyafy 微雨霭芳原
-wyajd 无言暗将红泪弹
-wyamb 吾欲爱民而为义偃兵
-wyaxl 为有暗香来
 wybbw 无一不备
-wybdl 无月不登楼
-wybdy 未有不得人者也
-wybfv 吾又悲夫悲人者
-wybfv 吾又悲夫悲人之悲者
-wybhd 我有笔和刀
-wybjd 无盐不解淡
 wybjf 无一不精
 wybji 畏影避迹
 wybjp 无远不届
-wybju 文彦博居士
-wybki 五月不可触
 wyblb 无与比伦
 wyblc 亡羊补牢
 wybmj 无愿不满
-wybnx 闻义不能徙
-wybny 物亦不能伤也
-wybqj 万一灞桥相见
-wybqu 吴应宾妻方氏
-wybrj 吾又不若夷节
-wybrv 无友不如己者
-wybrv 毋友不如己者
 wybsi 亡羊悲思
-wybuy 未有不嗜杀人者也
 wybvi 无一不知
-wybvi 惟一臂之弗瘳
 wybvu 无幽不烛
-wybwc 吾有不忘者存
 wybxx 谓予不信
-wybyl 王语暴以好乐
 wybzu 吾犹不足
-wybzy 我犹不足贵也
 wycbw 无缘慈悲
-wycbx 惟有层冰积雪
 wycmf 我於辞命
 wycmt 无忧错谬
 wycnm 婉言辞辇
-wycvd 吾又次之以怠
 wydbj 无源底板
 wydci 无缘大慈
 wyddi 五岳大帝
-wydex 吾有待而然者邪
-wydey 物焉得而止焉
 wydhd 汪洋大海
 wydhh 吾有大患
 wydiv 午夜钉锤
@@ -440897,17 +440782,9 @@ wyexv 勿以恶小而为之
 wyeyu 勿药而愈
 wyezr 畏影而走
 wyf 五月份
-wyfhu 未有封侯之赏
 wyfjk 无以复加
-wyfjp 无缘法界
 wyfjp 无远弗届
-wyfpi 唯有佛菩萨清楚
-wyfqi 无以反其性情而复其初
 wyftz 物议沸腾
-wyfui 悟因法师
-wyfui 惟俨法师
-wyfui 文偃法师
-wyfui 文益法师
 wyfui 闻噎废食
 wyful 五月飞霜
 wyfxf 文艺复兴
@@ -441614,7 +441491,6 @@ xba 寻爱
 xbai 寻爱
 xban 巡按
 xbanui 巡按使
-xbaqu 性本爱丘山
 xbb 旬
 xbbayu 熏鲅鱼
 xbbc 寻宝
@@ -443148,8 +443024,6 @@ xfhb 星魂
 xfhbbi 星魂币
 xfhbg 形魂
 xfhbmi 性昏迷
-xfhbq 新翻胡部曲
-xfhbu 相逢何必曾相识
 xfhc 幸好
 xfhcjm 星号键
 xfhck 型号
@@ -452920,6 +452794,7 @@ xliz 相成
 xlizf 相承
 xlizg 镶成
 xlizgc 香橙糕
+xlizh 相称
 xlizhq 香橙花
 xlizm 香橙
 xlizp 相乘
@@ -456269,7 +456144,6 @@ xmmoya 闲磨牙
 xmmrrk 仙某人
 xmmu 羡慕
 xmmuaa 羡慕啊
-xmmud 巷陌马声初断
 xmmuni 羡慕你
 xmmus 显目
 xmmuuu 蚬木属
@@ -467455,7 +467329,6 @@ xuzzpf 徐增平
 xv 寻找
 xvbbo 兴致勃勃
 xvbda 现钟不打
-xvbdv 现钟不打去打铸钟
 xvbfk 轩轾不分
 xvbgz 心织笔耕
 xvbhh 旋转变换
@@ -467476,15 +467349,9 @@ xvcdc 笑中藏刀
 xvclh 修竹翠罗寒
 xvcyb 昔者辞以病
 xvddi 血战到底
-xvdmv 修正的民主政治
+xvdmf 心知肚明
 xvdpx 席珍待聘
-xvdvy 形之大者也
-xvdwj 昔者大王居
-xvdws 昔者大王好色
-xvdww 性之动谓之为
 xvdxn 心知肚晓
-xvdxq 想沾点仙气
-xvdyv 昔之得一者
 xvehc 贤者而後乐此
 xvehu 信州鹅湖大义禅师
 xvfbu 祥徵凤卜
@@ -468964,6 +468831,7 @@ xxjklm 新嘉联
 xxjkmn 辛家庙
 xxjknl 新嫁娘
 xxjkpo 新加坡
+xxjkru 新加入
 xxjks 薪甲
 xxjkvl 辛家庄
 xxjkxx 新嫁新
@@ -469188,7 +469056,6 @@ xxl 心里
 xxla 辛辣
 xxlb 新论
 xxlbtd 新轮胎
-xxlbw 小小凌波罗袜
 xxlc 辛劳
 xxlcl 新老
 xxld 新来
@@ -477901,6 +477768,7 @@ ydagf 余弟安国平父
 ydalr 予独爱莲之出污泥而不染
 ydbde 以德报德
 ydbdm 一点半点
+ydbds 一动不动
 ydbfj 语多不复能记
 ydbhq 一度变化
 ydbiu 药到病除
@@ -478349,7 +478217,6 @@ yebrm 养儿不如我要钱做什么
 yebst 幼而不孙悌
 yebtj 欲而不贪
 yebu 也不
-yebub 一二八事变
 yebubi 也不必
 yebubi 也不比
 yebuco 也不错
@@ -479573,6 +479440,7 @@ yeshbf 叶酸病
 yeshna 叶酸钠
 yeshpm 叶酸片
 yeshug 也算上
+yeshui 也算是
 yeshww 叶酸维
 yeshy 叶酸
 yesi 噎死
@@ -485314,7 +485182,6 @@ ygzzxx 杨增新
 yh 原
 yha 冤案
 yhaa 远啊
-yhadv 沿洄安得住
 yhai 愿挨
 yhaimx 袁爱民
 yhan 冤案
@@ -487297,7 +487164,6 @@ yhvzz 圆整
 yhw 缘
 yhwa 鸳瓦
 yhwbd 以黑为白
-yhwbu 予何为不受
 yhwbx 云鬟雾鬓
 yhwd 员外
 yhwdde 院外的
@@ -489273,7 +489139,6 @@ yigduj 以改善
 yigdvg 已盖章
 yigdy 以该
 yige 一个
-yigea 予出官二年恬然自安
 yigeaa 一个啊
 yigeba 一个吧
 yigeba 一个把
@@ -493276,8 +493141,8 @@ yivhuk 一转身
 yivhur 一转手
 yivhye 以专业
 yivhyj 一转眼
-yivi 翼
 yivi 一只
+yivi 翼
 yivian 一直按
 yivib 异质
 yiviba 一直把
@@ -506232,7 +506097,6 @@ yu 雨
 yua 预案
 yuaa 雨啊
 yuaajb 于阿军
-yuagr 于是哀公号之五日
 yuai 育爱
 yuaihq 虞爱华
 yuaijb 于艾君
@@ -507336,12 +507200,10 @@ yuhvyh 玉晖园
 yuhvyi 余恢毅
 yuhws 于是乎为之调瑟
 yuhwuj 羽黑山
-yuhxl 欲说还休梦已阑
 yuhxm 游手好闲
 yuhxn 玉石混淆
 yuhxp 鱼水和谐
 yuhxt 欲说还休
-yuhxy 于是乎喜怒相疑
 yuhyf 右手画圆左手画方
 yuhyh 右手画圆
 yuhyq 于是乎刖而鬻之于齐
@@ -507670,12 +507532,9 @@ yujkxy 雨夹雪
 yujkyh 于家园
 yujkzd 预加载
 yujkzs 瑜伽宗
-yujl 余江
-yujlc 欲将
+yujl 欲将
 yujlc 玉将
-yujld 于江
-yujld 渝江
-yujld 郁江
+yujld 与生俱来
 yujljb 于将军
 yujlqn 郁江桥
 yujls 鱼浆
@@ -509062,10 +508921,11 @@ yutee 竽
 yuten 余特
 yuten 宇特
 yutevz 域特征
-yutf 毓婷
+yutf 雨停
 yutfg 玉庭
 yutfle 雨停了
 yutfn 雨婷
+yutfn 毓婷
 yutfqn 玉蜓桥
 yutft 雨亭
 yutfxk 雨停下
@@ -510724,15 +510584,11 @@ yuzzvg 与增长
 yv 一直
 yvamx 拥政爱民
 yvaug 月之哀伤
-yvaul 依止阿阇梨
 yvbbm 芸者不变
-yvbbr 勇者不必有仁
 yvbdf 眼中拔钉
-yvbem 依正不二门
 yvbfk 用志不分
 yvbgq 以众暴寡
 yvbhe 云中白鹤
-yvbiu 圆照本禅师
 yvbjm 一知半见
 yvbjp 一知半解
 yvbjp 用之不竭
@@ -510742,7 +510598,6 @@ yvbky 言之必可行也
 yvblv 一致百虑
 yvblw 源质壁垒
 yvbry 予之不仁也
-yvbtl 一棹碧涛春水路
 yvbts 与众不同
 yvbuk 一着不慎
 yvbuu 一着不慎全盘皆输
@@ -511700,7 +511555,6 @@ ywzyv 一物自有一主
 yx 印
 yxa 阴暗
 yxai 因爱
-yxalx 有相安乐行
 yxan 阴暗
 yxande 阴暗的
 yxanmm 阴暗面
@@ -513710,13 +513564,9 @@ yxvzyi 引争议
 yxvzz 尹正
 yxw 珢
 yxwa 淫娃
-yxwbq 英雄五霸闹春秋
 yxwdf 以相武丁
 yxwer 一心无二
-yxwga 一心无挂碍
 yxwgh 音王
-yxwgk 一洗万古凡马空
-yxwhh 鱼相忘乎江湖
 yxwhz 烟斜雾横
 yxwi 𬘡
 yxwiz 疑行无成
@@ -516363,9 +516213,7 @@ yz 原则
 yzbbc 睚眦必报
 yzbbm 一字褒贬
 yzbbo 英姿勃勃
-yzbgl 颜子不改乐
 yzbgr 一字不苟
-yzbgu 有罪不敢赦
 yzbicd 元必才
 yzbii 仰足并驰
 yzbji 一资半级
@@ -528165,7 +528013,6 @@ zuhxy 增上慧学
 zui 祖传
 zuiaxb 组查询
 zuibd 坐视成败
-zuidi 左手持刀尺
 zuie 租车
 zuiedf 阻车钉
 zuiefw 租车费
