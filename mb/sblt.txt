@@ -91483,7 +91483,6 @@ fuisnn 氟虫脲
 fuista 副虫鳎
 fuitj 废书长叹
 fuiu 付出
-fuiub 翻书愁上鬓毛白
 fuiue 封豕长蛇
 fuiugo 付出过
 fuiuhe 缚刍河
@@ -296492,6 +296491,7 @@ qhfwuz 犬吠声
 qhfwv 全肺
 qhfyx 其或非也邪
 qhfyz 其禾蘩以滋
+qhfz 拳风
 qhfzbi 全封闭
 qhfzhq 全风化
 qhfzke 圈风刻
@@ -399387,8 +399387,8 @@ vifusi 植福寺
 vifut 致富
 vifuts 指付通
 vifuu 卮
-vifuv 之腹
 vifuv 制服
+vifuv 之腹
 vifuv 指腹
 vifuv 治服
 vifuve 支付者
