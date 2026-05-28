@@ -60854,8 +60854,8 @@ diyijn 第一娇
 diyijp 第一届
 diyijp 第一节
 diyijp 第一诫
-diyiju 第一局
 diyiju 第一句
+diyiju 第一局
 diyike 第一棵
 diyike 第一课
 diyike 第一颗
@@ -88811,7 +88811,6 @@ fkxiua 粉细砂
 fkxiui 分析师
 fkxiui 分析式
 fkxiuo 分析说
-fkxive 分析着
 fkxive 分析者
 fkxivs 分析钟
 fkxivu 分析柱
@@ -102334,8 +102333,8 @@ gdlwxf 该类型
 gdlxs 钙磷
 gdly 概略
 gdm 盖
-gdma 改吗
 gdma 概
+gdma 改吗
 gdmam 该骂
 gdmc 盖帽
 gdmcer 盖帽儿
@@ -107243,7 +107242,7 @@ ghxive 关系着
 ghxive 关系者
 ghxivz 关系正
 ghxiwg 关系网
-ghxixf 关系型
+ghxixf 关系性
 ghxixy 关系学
 ghxk 管辖
 ghxkdi 管辖地
@@ -129587,7 +129586,6 @@ hezwou 褐贼鸥
 hf 坏
 hfa 淮安
 hfaiqf 坏爱情
-hfalh 护法阿罗汉
 hfan 怀安
 hfancb 怀安村
 hfands 淮安东
@@ -129981,7 +129979,6 @@ hfvvh 祸福之转
 hfvvu 华封之祝
 hfvxl 祸福之乡
 hfw 怀王
-hfwbv 祸福无不自己求之者
 hfwg 怀王
 hfwhe 毁方瓦合
 hfwhj 毫发无憾
@@ -129993,6 +129990,7 @@ hfwox 踝窝
 hfwpm 祸福无偏
 hfwqi 化腐为奇
 hfwrk 祸福惟人
+hfwsb 毫发无损
 hfwuv 黄蜂尾上针
 hfwvc 黄风雾罩
 hfwwd 怀渭
@@ -175570,7 +175568,6 @@ jfyjug 经验上
 jfyjui 经验式
 jfyjui 经验是
 jfyjvi 经验值
-jfyjxf 经验型
 jfyjxf 经验性
 jfyjxm 井研县
 jfyjy 净颜
@@ -178572,7 +178569,6 @@ jikev 吉克
 jikev 基克
 jikevz 饥渴症
 jikey 几颗
-jikeyi 即可以
 jikeyi 既可以
 jikf 几块
 jikfbj 几块板
@@ -180556,13 +180552,12 @@ jivrqu 吉州区
 jivrui 冀州市
 jivrvk 冀州镇
 jivryc 吉州窑
-jivs 集中
+jivs 几种
 jivscb 集中村
 jivsdf 济众酊
 jivsdi 集中地
 jivsdm 集中点
 jivsdu 集中度
-jivsh 几种
 jivsh 寂种
 jivsh 机种
 jivshq 集中化
@@ -180578,10 +180573,9 @@ jivsqu 集中趋
 jivsr 机重
 jivsr 极重
 jivsr 集众
-jivss 冀中
+jivss 集中
 jivss 击中
-jivss 即中
-jivss 脊中
+jivss 冀中
 jivssj 嵇中散
 jivsui 集中式
 jivsvi 集中制
@@ -296870,8 +296864,6 @@ qhmmua 全棉纱
 qhmmvc 全面罩
 qhmmvi 颧面支
 qhmmx 其合缗缗
-qhmmxf 全面型
-qhmmxf 全面形
 qhmmxf 全面性
 qhmmxm 全棉线
 qhmn 全苗
@@ -354630,8 +354622,8 @@ tsyivl 同义庄
 tsyivo 同一桌
 tsyivs 同一种
 tsyix 同意
-tsyixf 同一性
 tsyixf 统一性
+tsyixf 同一性
 tsyixk 同意下
 tsyixk 统一下
 tsyixk 通一下
@@ -369344,8 +369336,8 @@ uiqhye 石劝业
 uiqi 时期
 uiqian 十七胺
 uiqian 释齐安
-uiqib 视其
 uiqib 使其
+uiqib 视其
 uiqiba 十七八
 uiqicz 十七层
 uiqid 世奇
@@ -372046,9 +372038,8 @@ uiysvz 使用证
 uiysvz 失用症
 uiyswg 试用网
 uiyswk 实用文
-uiysxf 实用性
-uiysxf 实用型
 uiysxf 适用性
+uiysxf 实用性
 uiysxk 试用下
 uiysyh 试用员
 uiysyj 食用盐
@@ -402186,8 +402177,8 @@ viwojm 之我见
 viwomc 指我矛
 viwove 知我者
 viwto 稚齿婑媠
-viwu 纸
 viwu 职务
+viwu 纸
 viwubj 置物板
 viwuc 之舞
 viwud 治污
@@ -402207,8 +402198,8 @@ viwuk 支吾
 viwuku 植物库
 viwula 植物蜡
 viwulj 置物篮
-viwun 植物
 viwun 之物
+viwun 植物
 viwun 指物
 viwun 织物
 viwun 置物
@@ -452966,14 +452957,14 @@ xljnyu 相较于
 xljnyu 香蕉鱼
 xljnzi 香椒子
 xljo 镶
-xljp 详解
+xljp 相接
 xljpdc 想借到
-xljpf 相接
 xljpf 镶接
 xljph 香芥
 xljphb 想结婚
 xljphe 相结合
 xljpiu 相接处
+xljpj 详解
 xljpr 想借
 xljpsi 香界寺
 xljpt 像界
@@ -467214,8 +467205,8 @@ xuysp 须用
 xuyss 旬输月送
 xuysuz 许永生
 xuysxm 叙永县
-xuyu 须臾
 xuyu 叙
+xuyu 须臾
 xuyuhq 许昱华
 xuyui 雄视一世
 xuyujn 需预交
@@ -491690,8 +491681,8 @@ yiqhy 乙醛
 yiqi 一起
 yiqia 㹭
 yiqiaa 一起啊
-yiqib 以其
 yiqib 依其
+yiqib 以其
 yiqiba 一起吧
 yiqibc 一起包
 yiqibc 一起报
@@ -495075,7 +495066,6 @@ yjdici 炎帝祠
 yjdid 砚滴
 yjdih 烟蒂
 yjdij 炎帝
-yjdij 眼见的吹翻了这家
 yjdijf 眼底镜
 yjdil 严迪
 yjdilf 炎帝陵
