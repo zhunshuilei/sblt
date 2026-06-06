@@ -1476,7 +1476,6 @@ aijxm 哀矜
 aijxuu 艾堇属
 aik 唉
 aikaui 爱卡士
-aike 艾克
 aike 哎
 aikean 艾可安
 aikedi 爱科迪
@@ -1493,6 +1492,7 @@ aikete 埃克特
 aiketo 埃克托
 aiketo 艾可拓
 aikeuz 爱可生
+aikev 艾克
 aikeww 艾可谓
 aikexx 爱可信
 aikexx 爱可欣
@@ -69227,6 +69227,7 @@ dtjlb 读通鉴论
 dtjli 单特孑立
 dtjqp 断头将茄
 dtjx 丢进
+dtjxqu 丢进去
 dtjxs 丢尽
 dtjyu 大同境域
 dtjzu 东土九祖
@@ -206427,6 +206428,7 @@ kwxyi 可谓孝矣
 kwyidb 剋一顿
 kwyli 孔武有力
 kwyvi 可谓曰知
+kwywu 空无一物
 kwzda 狂妄自大
 kwzyj 口无择言
 kx 开心
@@ -215615,12 +215617,12 @@ lisss 李崧
 lisss 李嵩
 lissss 李松松
 lissyj 李松岩
-lisu 俚俗
 lisu 砾
 lisulc 里素劳
 lisulo 李素罗
 lisur 傈僳
 lisur 礼俗
+lisur 俚俗
 lisuug 李素裳
 lisuv 李肃
 lisuw 力素
@@ -294358,6 +294360,7 @@ quylf 翘首引领
 quylj 青胜于兰
 quylu 趋舍异路
 quymk 清水衙门
+quypj 翘首以盼
 quyr 去油
 quyrd 祛油
 quyrd 驱油
@@ -333866,6 +333869,7 @@ tsgbm 铜棍
 tsgc 通告
 tsgch 统稿
 tsgch 通稿
+tsgck 同高
 tsgck 筒高
 tsgclj 通告栏
 tsgcpd 通告牌
@@ -339390,6 +339394,7 @@ ualim 沙梨
 ualim 沙粒
 ualimu 沙里姆
 ualiqi 沙里奇
+ualis 砂砾
 ualisi 沙丽思
 ualit 沙里
 ualiti 沙粒体
@@ -349186,9 +349191,9 @@ uiqlg 湿强
 uiqlji 湿强剂
 uiqlm 使枪
 uiqlsd 十强赛
+uiqlt 石墙
 uiqlt 实墙
 uiqlt 是墙
-uiqlt 石墙
 uiqlv 视腔
 uiqlxm 十强县
 uiqm 事前
@@ -355690,15 +355695,15 @@ ukxiz 甚喜
 ukxk 身下
 ukxkgu 深峡谷
 ukxkiv 肾下垂
-ukxl 神像
+ukxl 伸向
 ukxlcc 神香草
 ukxlfu 沈祥福
 ukxlj 深巷
-ukxlk 伸向
 ukxllx 申祥麟
 ukxlm 身相
 ukxln 审祥
 ukxlqu 神想曲
+ukxlr 神像
 ukxluu 沈香树
 ukxm 神仙
 ukxmai 肾腺癌
@@ -363224,8 +363229,8 @@ uuyf 输赢
 uuyfh 淑英
 uuyfjp 蜀营街
 uuyflu 疏影路
-uuyfp 书影
 uuyfp 树影
+uuyfp 书影
 uuyfp 疏影
 uuyfw 淑莹
 uuyfxm 输赢先
@@ -386177,9 +386182,9 @@ vrvb 周准
 vrvc 周召
 vrvcwg 周昭王
 vrvd 周宅
-vrve 周折
+vrve 皱着
+vrvef 周折
 vrvek 周哲
-vrvem 皱着
 vrven 皱褶
 vrvfz 逐日追风
 vrvg 州长
@@ -400801,9 +400806,8 @@ wjbuhc 玩不好
 wjbuiu 玩不出
 wjbuiz 完不成
 wjbuiz 玩不成
-wjbuln 弯不了
-wjbuln 晚不了
 wjbuln 玩不了
+wjbuln 晚不了
 wjbup 万部
 wjbup 腕部
 wjbuqi 玩不起
@@ -400903,8 +400907,8 @@ wjdm 晚点
 wjdmc 亡戟得矛
 wjdmer 晚点儿
 wjdmer 玩点儿
-wjdmh 万点
 wjdmh 玩点
+wjdmh 万点
 wjdmln 晚点聊
 wjdmmf 晚点名
 wjdmnc 玩电脑
@@ -430059,6 +430063,7 @@ xmmoya 闲磨牙
 xmmrrk 仙某人
 xmmu 羡慕
 xmmuaa 羡慕啊
+xmmude 羡慕地
 xmmuni 羡慕你
 xmmus 显目
 xmmuuu 蚬木属
@@ -460337,6 +460342,7 @@ yibxxm 宜宾县
 yibxy 阳春白雪
 yibyi 一成不易
 yibyu 怨春不语
+yibz 一蹦
 yibzi 一尘不缁
 yic 蚁
 yica 一擦
@@ -482623,13 +482629,13 @@ yxlizi 银离子
 yxlizi 阴离子
 yxljdz 银蓝灯
 yxlku 用心良苦
-yxll 音量
-yxlld 阴凉
+yxll 阴凉
 yxlld 荫凉
 yxllh 银两
 yxlliu 阴凉处
 yxlljm 音量键
 yxlll 印量
+yxlll 音量
 yxllsu 尹良俗
 yxllt 银亮
 yxllvi 音量值
@@ -494058,8 +494064,8 @@ zolem 作乐
 zolemw 做了没
 zolexk 做了下
 zolez 作了
-zolez 嘬了
 zolez 坐了
+zolez 嘬了
 zolezo 做了做
 zolezo 嘬了嘬
 zolezo 坐了坐
