@@ -2850,8 +2850,6 @@ aniinf 安持凝
 anij 鞍韂
 anijn 安禅
 anijna 安禅那
-anijui 安禅师
-anijui 岸禅师
 anik 暗沉
 anikik 暗沉沉
 anil 暗疮
@@ -5068,7 +5066,6 @@ ayghe 阿意苟合
 aygsi 案萤干死
 aygsu 安于故俗
 ayhhl 暗雨槐黄
-ayiui 庵元禅师
 ayjkr 聱牙戟口
 ayjqu 聱牙佶屈
 ayjqu 聱牙诘屈
@@ -9100,9 +9097,8 @@ bcvisu 胞质素
 bcviti 胞质体
 bcviug 报纸上
 bcviuo 报纸说
-bcviw 包纸
 bcviw 报纸
-bcviw 薄纸
+bcviw 包纸
 bcviwg 胞质网
 bcvix 保志
 bcvix 宝志
@@ -12452,7 +12448,6 @@ begyc 博而寡要
 behjx 鼻垩挥斤
 behuj 百二河山
 behyi 毙而后已
-beisi 报恩禅寺
 beixy 白鳄长靴
 bejou 百二金瓯
 bengl 布尔尼古拉
@@ -16819,6 +16814,7 @@ bjbcd 不揪不采
 bjbcf 板报
 bjbclt 半保留
 bjbcs 半饱
+bjbct 班堡
 bjbcta 斑豹鳎
 bjbcuu 斑豹鼠
 bjbcvi 办报纸
@@ -17394,12 +17390,7 @@ bjilaa 斑窗蛾
 bjirk 把家成人
 bjis 班宠
 bjisi 剥茧抽丝
-bjisi 宝觉禅寺
 bjiu 搬出
-bjiui 宝积禅师
-bjiui 宝金禅师
-bjiui 本净禅师
-bjiui 本寂禅师
 bjiuk 办出
 bjiuld 搬出来
 bjiuqu 搬出去
@@ -17986,7 +17977,7 @@ bjsvhe 伴随核
 bjsvqb 伴随群
 bjsvrk 伴随人
 bjsvs 比肩随踵
-bjsvve 伴随者
+bjsvve 伴随着
 bjsvvk 伴随阵
 bjsvwu 伴随物
 bjsvx 半岁
@@ -19727,7 +19718,6 @@ blijk 半路出家
 blili 必里迟离
 blimm 伯虑愁眠
 bliqb 拔类超群
-blisi 宝莲禅寺
 blisu 卑论侪俗
 blixk 兵临城下
 blixp 鬓乱钗斜
@@ -19796,6 +19786,7 @@ blruz 髀里肉生
 blryi 表里如一
 blsgo 波剌斯国
 blshq 傍柳随花
+blslc 布拉斯劳
 blsqi 变乱四起
 blstc 不落俗套
 blstj 巴勒斯坦
@@ -24725,13 +24716,9 @@ bthuz 百态横生
 bthyj 豹头环眼
 btihv 不通忏悔
 btiqf 鼻塌唇青
-btisi 宝通禅寺
-btiui 宝通禅师
 btiwu 白兔赤乌
 btiyf 保泰持盈
 btjji 博通经籍
-btjlo 补特伽罗
-btjlo 补特迦罗
 btkyg 不通痾痒
 btlbo 变贪厉薄
 btljk 补陀落迦
@@ -26296,7 +26283,6 @@ buisfk 不充分
 buisfu 不重复
 buisgd 补充钙
 buishr 补充后
-buisi 北山禅寺
 buisjx 捕虫堇
 buiska 不充卡
 buisll 补充量
@@ -28841,6 +28827,7 @@ buwgf 不往
 buwggr 不网购
 buwgk 布网
 buwgm 不枉
+buwgn 不妄
 buwgt 逋亡
 buwgu 不食五谷
 buwgwd 不往外
@@ -30855,7 +30842,6 @@ bwiidn 被吃掉
 bwiii 贝齿
 bwiitr 北池头
 bwiizi 北池子
-bwijsi 北禅寺
 bwik 北辰
 bwikcz 背衬层
 bwiklu 北辰路
@@ -32782,7 +32768,6 @@ bxihxm 宾川县
 bxii 摈斥
 bxiji 不屑齿及
 bxiu 摈除
-bxiui 本先禅师
 bxiuk 摈出
 bxiuz 笔下超生
 bxivi 保形插值
@@ -33153,10 +33138,6 @@ byilu 鼻偃齿露
 byiqf 壁月初晴
 byisd 暴眼赤腮
 byitd 保盈持泰
-byiui 宝印禅师
-byiui 本逸禅师
-byiui 柏岩禅师
-byiui 白隐禅师
 byiur 不因春瘦
 byiwu 白鱼赤乌
 byizi 比于赤子
@@ -33514,7 +33495,6 @@ bzildv 蹦床队
 bzili 哺糟啜醨
 bzilyc 崩疮药
 bziu 迸出
-bziui 宝藏禅师
 bziuj 甭锄
 bziuk 蹦出
 bziuld 泵出来
@@ -36842,7 +36822,6 @@ ceiitu 侧翅突
 ceijt 测产
 ceil 侧窗
 ceilg 侧床
-ceisi 慈恩禅寺
 ceiu 测出
 ceiuld 测出来
 ceivbu 侧垂部
@@ -37810,7 +37789,6 @@ chi 蹿出
 chifw 沧海尘飞
 chitc 仓皇出逃
 chiu 蹿出
-chiui 藏奂禅师
 chiuk 窜出
 chiuld 窜出来
 chivg 操翰成章
@@ -39394,7 +39372,6 @@ cjij 参禅
 cjirq 残臭
 cjitv 寸进尺退
 cjiu 餐厨
-cjiui 存奖禅师
 cjiuju 餐厨具
 cjiz 骖乘
 cjizvi 参成芝
@@ -40037,7 +40014,6 @@ cmhmk 草莽寒门
 cmhwu 残民害物
 cmifo 草木成佛
 cmimc 草木畅茂
-cmiui 慈明禅师
 cmivs 才貌出众
 cmivs 聪明出众
 cmixu 搓绵扯絮
@@ -40102,7 +40078,6 @@ cmybz 慈母有败子
 cmyfg 残民以访
 cmyfu 草木愚夫
 cmyhj 苍茫云海间
-cmyiu 慈明圆禅师
 cmyiz 残民以逞
 cmyui 聪明一世
 cmyvu 草迷烟渚
@@ -41131,7 +41106,6 @@ ctljn 残头落脚
 ctljn 藏头露角
 ctlww 藏头露尾
 ctlxp 层台累榭
-ctqiu 草堂清禅师
 ctqtc 粗铜拳套
 ctqxm 草薙禽狝
 ctryy 蹉跎日月
@@ -41322,7 +41296,6 @@ cuij 促产
 cuikxi 粗衬细
 cuirbz 粗抽泵
 cuiuhc 粗除号
-cuiui 从谂禅师
 cuiuu 村上春树
 cuiz 促成
 cuizhc 粗乘号
@@ -41585,7 +41558,6 @@ cuui 促使
 cuuih 粗石
 cuuikz 粗石坑
 cuuit 粗实
-cuuiu 慈受深禅师
 cuuivj 促使站
 cuuixf 促使性
 cuuks 藏山顺空
@@ -41916,7 +41888,6 @@ cvijcc 催产草
 cvijji 催产剂
 cvijsu 催产素
 cvijyc 催产药
-cviui 慈照禅师
 cviyu 爨柱炊玉
 cvj 萃聚
 cvjfdc 翠晶刀
@@ -42321,7 +42292,6 @@ cwfbu 慈乌反哺
 cwgbw 此无故彼无
 cwgiu 翠微高处
 cwgya 才望高雅
-cwisi 曹王禅寺
 cwiwg 此谓诚忘
 cwjjt 翠丸荐酒
 cwjjy 存亡继绝
@@ -42487,8 +42457,6 @@ cyhwy 此言何谓也
 cyhzu 财源恒足
 cyibi 寸阴尺璧
 cyill 翠叶吹凉
-cyiui 从悦禅师
-cyiui 草衣禅师
 cyivu 慈云忏主
 cyivw 翠阴初转午
 cyiyb 惨雨愁云
@@ -42525,7 +42493,6 @@ cyujf 寸阴是竞
 cyuxi 寸阴是惜
 cyuxy 翠岩谁削
 cyuye 此一时也
-cyviu 翠岩芝禅师
 cyvjy 才艺卓绝
 cyvmf 词约指明
 cyvqi 操赢致奇
@@ -44589,7 +44556,6 @@ daiitm 大赤天
 daiiww 大齿鮠
 daij 打禅
 daijmc 大馋猫
-daijsi 大禅寺
 daijvz 大产证
 daijye 大产业
 daijyu 大单于
@@ -44628,8 +44594,6 @@ daiuc 大厨
 daiucb 大褚村
 daiufg 大厨房
 daiugq 大畜卦
-daiui 呆庵禅师
-daiui 大安禅师
 daiuk 大出
 daiuk 搭出
 daiuk 答出
@@ -49033,7 +48997,6 @@ dciisj 导赤散
 dciiwj 导赤丸
 dcijj 刀铲
 dcijn 道禅
-dcijui 道禅师
 dcikw 道琛
 dcil 道床
 dcilg 倒床
@@ -49046,7 +49009,6 @@ dciubn 导出表
 dciudc 导出到
 dciudr 到处都
 dciuhr 导出后
-dciui 德聪禅师
 dciuj 刀锄
 dciuk 倒出
 dciuk 导出
@@ -50592,9 +50554,6 @@ ddijpx 代产品
 ddilm 戴闯
 ddisve 带虫者
 ddiu 带出
-ddiui 大度禅师
-ddiui 大达禅师
-ddiui 大颠禅师
 ddiui 店多成市
 ddiuk 贷出
 ddiuld 带出来
@@ -52788,7 +52747,6 @@ dfisls 定虫隆
 dfismi 啶虫咪
 dfismi 啶虫脒
 dfiu 顶出
-dfiui 道怤禅师
 dfiuk 订出
 dfiul 顶风臭十里
 dfiuld 定出来
@@ -52908,6 +52866,7 @@ dfjuqu 定居区
 dfjus 定局
 dfjuve 定居者
 dfjuy 定聚
+dfjuyu 定居于
 dfjuz 定距
 dfjuzd 定居在
 dfjvh 得风就转
@@ -53296,7 +53255,6 @@ dfuitu 顶视图
 dfuiu 定食
 dfuiu 鼎食
 dfuiu 洞房深处
-dfuiu 毒峰善禅师
 dfuivs 定时钟
 dfuiyi 丁世峄
 dfuj 丁山
@@ -54068,7 +54026,6 @@ dgihxl 党川乡
 dgiiz 大功垂成
 dgiswu 当宠物
 dgiu 当初
-dgiui 德光禅师
 dgiuk 荡出
 dgiup 荡除
 dgiuui 当初是
@@ -54860,7 +54817,6 @@ dhitu 点火成土
 dhiu 端出
 dhiufa 短除法
 dhiui 大海沉石
-dhiui 道行禅师
 dhiuj 断触
 dhiuld 端出来
 dhiup 断除
@@ -56480,8 +56436,6 @@ diisd 抵冲
 diislx 地虫磷
 diisv 抵充
 diiu 抵触
-diiui 大阐禅师
-diiui 道冲禅师
 diiuk 嫡出
 diiuk 滴出
 diiuk 递出
@@ -59511,8 +59465,6 @@ djisi 独茧抽丝
 djitp 点金成铁
 djitu 大简车徒
 djiu 淡出
-djiui 大觉禅师
-djiui 道济禅师
 djiujm 单触键
 djiuk 单出
 djiuk 点睛传神
@@ -61008,7 +60960,6 @@ dkgdr 大开狗窦
 dkgzu 杜口裹足
 dkhhc 对客挥毫
 dkhuz 多快好省
-dkiui 道楷禅师
 dkjue 杜口结舌
 dkjue 杜口绝舌
 dkjyj 杜口绝言
@@ -61128,7 +61079,6 @@ dliji 地雷冲击
 dlijm 盗灵衬肩
 dlilg 当路豺狼
 dlipc 丢轮扯炮
-dliui 道林禅师
 dliwk 道路传闻
 dlizd 斗量车载
 dljbw 鲽离鹣背
@@ -61968,7 +61918,6 @@ dmilx 电窗
 dmisnz 电充能
 dmiu 点出
 dmiudm 电触点
-dmiui 道明禅师
 dmiuik 电除尘
 dmiuld 点出来
 dmiuqu 点出去
@@ -65734,8 +65683,6 @@ dpic 跌超
 dpigv 打破常规
 dpih 跌穿
 dpiu 迭出
-dpiui 德普禅师
-dpiui 德朋禅师
 dpiuk 跌出
 dpiuk 大篇长什
 dpixn 弹偏斥小
@@ -67912,7 +67859,6 @@ dsisd 东冲
 dsisd 东涌
 dsiswj 东涌湾
 dsiu 冬储
-dsiui 大随禅师
 dsiun 东初
 dsiz 冻成
 dsizbf 冻成冰
@@ -69210,7 +69156,6 @@ dtir 丢丑
 dtire 打铁趁热
 dtitj 对天长叹
 dtiu 丢出
-dtiui 大同禅师
 dtiui 点头称是
 dtiuj 点头称善
 dtixu 短叹长吁
@@ -69814,17 +69759,14 @@ duiqt 鼎盛春秋
 duiqu 滴水成渠
 duis 毒虫
 duisgg 杜崇刚
-duisi 东山禅寺
 duiss 蠹虫
 duist 独宠
 duisww 毒虫威
 duisww 毒虫畏
 duiti 断善阐提
 duiu 独处
-duiui 大善禅师
 duiui 待势乘时
 duiui 滴水穿石
-duiui 道树禅师
 duiuk 读出
 duiuk 独出
 duiuld 读出来
@@ -71277,12 +71219,10 @@ dvikxf 对称型
 dvikxf 对称性
 dvikyh 对称元
 dvis 对冲
-dvisi 德政禅寺
 dvisve 对冲者
 dvisvi 对冲值
 dviti 待之成体
 dviu 对出
-dviui 道臻禅师
 dviuld 对出来
 dvivs 当轴处中
 dviyj 大拙承演
@@ -72057,7 +71997,6 @@ dwi 得吃
 dwibp 等无差别
 dwifu 洞无城府
 dwii 得吃
-dwiui 道悟禅师
 dwiyr 得未尝有
 dwj 得就
 dwjgu 但为君故
@@ -72259,7 +72198,6 @@ dxiik 丹心赤忱
 dximu 动心怵目
 dxipj 对闲窗畔
 dxitj 短吁长叹
-dxiui 大休禅师
 dxivz 党邪丑正
 dxjbm 短小精辩
 dxjcj 灯芯将残
@@ -72497,13 +72435,7 @@ dyiio 大饮长歠
 dyijb 东岳承晙
 dyikf 朵颐称快
 dyimc 荡倚冲冒
-dyisi 德源禅寺
-dyiui 大义禅师
-dyiui 大阳禅师
 dyiui 大隐朝市
-dyiui 端裕禅师
-dyiui 道一禅师
-dyiui 道膺禅师
 dyiuj 兜于崇山
 dyiuu 地有常数
 dyivu 独园承珠
@@ -74432,7 +74364,6 @@ ehcyg 饿虎攒羊
 ehfbw 扼喉抚背
 ehhvi 而后和之
 ehimf 恶乎成名
-ehiui 鹅湖禅师
 ehjul 二惠竞爽
 ehjvd 饿虎进宅
 ehjye 恶乎介也
@@ -78364,7 +78295,6 @@ fbilo 发白齿落
 fbilt 法不传六
 fbitj 抚髀长叹
 fbitm 飞必冲天
-fbiui 法宝禅师
 fbivi 福不重至
 fbiyh 返本朝元
 fbjfg 防不及防
@@ -78456,7 +78386,6 @@ fcgxy 菲才寡学
 fchan 反侧获安
 fcilx 丰草长林
 fcimm 悱恻缠绵
-fciui 法聪禅师
 fcjbi 非此即彼
 fcjdi 负材矜地
 fcjke 发策决科
@@ -78524,7 +78453,6 @@ fdgjm 封刀挂剑
 fdhig 凫短鹤长
 fdhks 复道行空
 fdhrk 非道弘人
-fdiui 法灯禅师
 fdiww 扶颠持危
 fdixx 釜底抽薪
 fdjcd 负地矜才
@@ -79451,7 +79379,6 @@ fgirpi 放臭屁
 fgirw 纺绸
 fgis 防虫
 fgisbj 防冲板
-fgisi 佛光禅寺
 fgisj 放铳
 fgisji 防冲击
 fgisji 防虫剂
@@ -79464,9 +79391,6 @@ fgisyc 防虫药
 fgiszi 放虫子
 fgiu 放出
 fgiudm 防触电
-fgiui 丰干禅师
-fgiui 佛国禅师
-fgiui 佛果禅师
 fgiuk 方出
 fgiuld 放出来
 fgiule 放出了
@@ -80973,9 +80897,6 @@ fhhjf 风鹤魂惊
 fhhlv 纷红骇绿
 fhifa 法华忏法
 fhilf 发号出令
-fhiui 佛慧禅师
-fhiui 方会禅师
-fhiui 非幻禅师
 fhizc 附会穿凿
 fhjdd 风华绝代
 fhjdf 负衡据鼎
@@ -81114,7 +81035,6 @@ fihui 凤城寒食
 fihxi 风成化习
 fiibm 奉常处变
 fiiii 辅车唇齿
-fiiui 法常禅师
 fiixx 翻陈出新
 fijbf 废除疾病
 fijdu 翻肠搅肚
@@ -81850,7 +81770,6 @@ fjisxi 反冲洗
 fjisyi 樊崇义
 fjiu 泛出
 fjiud 反刍
-fjiui 佛鉴禅师
 fjiuk 翻出
 fjiuld 翻出来
 fjiulw 反刍类
@@ -84722,7 +84641,6 @@ flhts 返老还童
 flijn 奉令承教
 fliqn 枫落长桥
 flits 反老成童
-fliui 辅良禅师
 flivh 法轮常转
 flivr 范蠡乘舟
 fliyb 飞龙乘云
@@ -84744,6 +84662,7 @@ fljxu 封狼居胥
 fljyr 扶老将幼
 fljze 焚林竭泽
 flkai 风流可爱
+flkfu 法兰克福
 flkji 复礼克己
 flkkd 饭来口开
 flkkr 饭来开口
@@ -84900,7 +84819,6 @@ fmhyg 放马华阳
 fmiir 反目成仇
 fmiiz 法脉传承
 fmijn 奉命承教
-fmisi 伏魔禅寺
 fmiuz 蜂目豺声
 fmixh 服冕乘轩
 fmiye 发名成业
@@ -85302,7 +85220,6 @@ fqgyj 富且贵焉
 fqhuz 风趣横生
 fqhyh 负屈含冤
 fqhyu 福轻乎羽
-fqiui 梵琦禅师
 fqiyr 发潜阐幽
 fqiys 风起潮涌
 fqjro 扶倾济弱
@@ -85422,7 +85339,6 @@ frhxf 夫然后行
 frhyh 福如海渊
 frihl 腹热肠荒
 frijt 妇人醇酒
-friui 法融禅师
 friuv 芙蓉出水
 friuz 繁荣昌盛
 frivg 斐然成章
@@ -85566,7 +85482,6 @@ fthnc 浮头滑脑
 fthui 凤叹虎视
 fthyr 法体恒有
 ftiho 发秃齿豁
-ftiui 佛陀禅师
 ftiyb 奉天承运
 ftjfu 发擿奸伏
 ftjhv 佛头加秽
@@ -86817,7 +86732,6 @@ fuijt 副产
 fuijt 妇产
 fuijt 富产
 fuiju 法师崇矩
-fuijui 敷禅师
 fuijwu 副产物
 fuijx 法师楚金
 fuijyu 副蟾鱼
@@ -90101,9 +90015,6 @@ fvidc 覆辙重蹈
 fvigh 发植穿冠
 fvihv 焚芝锄蕙
 fvimu 蜂准长目
-fviui 法忠禅师
-fviui 法照禅师
-fviui 法舟禅师
 fvixp 扶正黜邪
 fvjfj 法主净梵
 fvjfu 非终极符
@@ -92040,7 +91951,6 @@ fxhtm 抚胸呼天
 fxibi 奋袖出臂
 fxihk 飞星传恨
 fxile 法性常乐
-fxiui 法秀禅师
 fxivu 佛性常住
 fxixk 凤弦常下
 fxixk 粉香吹下
@@ -92245,13 +92155,7 @@ fyigh 发踊冲冠
 fyigv 饭玉炊桂
 fyili 发扬踔厉
 fyiqt 富于春秋
-fyisi 法云禅寺
 fyiue 妇有长舌
-fyiui 佛印禅师
-fyiui 佛眼禅师
-fyiui 法演禅师
-fyiui 法眼禅师
-fyiui 法远禅师
 fyiva 风云叱咤
 fyivu 飞蝇垂珠
 fyiww 鲂鱼赪尾
@@ -94380,7 +94284,6 @@ gahdxl 尕海乡
 gai 尬吹
 gaia 轧差
 gaiam 嘎查
-gaiui 瞽庵禅师
 gaiv 尬吹
 gaj 钆
 gajupd 噶举派
@@ -96965,12 +96868,10 @@ gdij 改产
 gdijw 盖缠
 gdio 盖戳
 gdiru 孤犊触乳
-gdisi 广渡禅寺
 gdissj 盖虫散
 gdiu 该处
 gdiuc 改厨
 gdiufa 该处罚
-gdiui 古鼎禅师
 gdiuk 改出
 gdiuld 盖出来
 gdiuur 该出手
@@ -99301,9 +99202,7 @@ gfhvtr 拐回头
 gfi 乖舛
 gfih 乖舛
 gfiiz 功废垂成
-gfisi 广福禅寺
 gfisu 观风察俗
-gfiui 高峰禅师
 gfiuz 革凡成圣
 gfivr 过府冲州
 gfj 拐角
@@ -102103,7 +102002,6 @@ gihdd 改朝换代
 gihjn 孤城画角
 gihxf 改朝换姓
 giiiz 贯穿驰骋
-giiui 桂琛禅师
 gijco 觥筹交错
 gijdp 规重矩叠
 gijee 刚肠嫉恶
@@ -105797,7 +105695,6 @@ gmijt 功名成就
 gmipc 公民长袍
 gmise 观貌察色
 gmiss 过目成诵
-gmiui 古梅禅师
 gmivi 革命创制
 gmixx 刿目怵心
 gmjjp 葛蔓纠结
@@ -106377,7 +106274,6 @@ goijln 国产料
 goijmo 国产膜
 goijpm 国产片
 goijpx 国产品
-goijui 果禅师
 goijvi 国产纸
 goijye 国产业
 goijye 锅铲叶
@@ -113885,7 +113781,6 @@ gvilg 柜床
 gvilg 龟床
 gvir 癸丑
 gviu 归除
-gviui 古拙禅师
 gvium 柜橱
 gviup 贵处
 gviut 鬼畜
@@ -114868,7 +114763,6 @@ gwiii 共为唇齿
 gwijn 鼓舞触角
 gwipf 歌舞承平
 gwiu 给出
-gwiui 广闻禅师
 gwiuld 给出来
 gwiwu 更无长物
 gwizb 贵无常尊
@@ -115124,8 +115018,6 @@ gxiii 共相唇齿
 gxijl 关西出将
 gximu 刿心怵目
 gxise 观形察色
-gxisi 光香禅寺
-gxiui 古溪禅师
 gxjbu 规行矩步
 gxjdn 狗续金貂
 gxjjm 孤行己见
@@ -115309,10 +115201,6 @@ gyifa 观音忏法
 gyiis 贯鱼承宠
 gyili 格于成例
 gyiqb 孤雁出群
-gyisi 观音禅寺
-gyiui 光涌禅师
-gyiui 古音禅师
-gyiui 孤月禅师
 gyixi 苟延喘息
 gyiyi 瞽言刍议
 gyiyj 古语常言
@@ -115699,7 +115587,6 @@ gzir 更臭
 gzirz 更丑
 gzisfk 更充分
 gziu 耕畜
-gziui 光祚禅师
 gziuse 更出色
 gzivlo 更吹落
 gzizgs 更成功
@@ -116343,8 +116230,6 @@ hahmf 晦庵慧明
 hahvc 哈辉
 hai 哈出
 haiu 哈出
-haiui 惠安禅师
-haiui 慧安禅师
 haiwu 淮安重午
 haj 铪
 hajbgs 哈军工
@@ -116757,8 +116642,6 @@ hbilg 虎豹豺狼
 hbis 混充
 hbitu 河不出图
 hbiu 混出
-hbiui 弘辨禅师
-hbiui 弘辩禅师
 hbiuld 混出来
 hbiyj 虎饱鸱咽
 hbiz 混成
@@ -119068,10 +118951,8 @@ hdils 黄帝乘龙
 hdilsi 海幢寺
 hdis 害虫
 hdisd 还冲
-hdisi 化度禅寺
 hditu 画地成图
 hdiu 害处
-hdiui 慧达禅师
 hdiuk 还出
 hdiuld 还出来
 hdiuqu 还出去
@@ -121113,7 +120994,6 @@ heiss 河虫
 heiti 合而成体
 heiu 何处
 heiufz 何初逢
-heiui 洪恩禅师
 heiuj 荷锄
 heiuk 何出
 heiuk 合出
@@ -123084,7 +122964,6 @@ hfiib 祸福淳淳
 hfiqi 化腐成奇
 hfitn 黄发垂髫
 hfiu 坏处
-hfiui 慧方禅师
 hfiya 祸发齿牙
 hfj 淮剧
 hfjbc 淮军
@@ -123533,7 +123412,6 @@ hgiii 杭齿
 hgiiqm 杭齿前
 hgir 杭绸
 hgitm 火光冲天
-hgiui 慧广禅师
 hgivj 夯锤
 hgiz 航程
 hgj 巷
@@ -124255,8 +124133,6 @@ hhiswu 缓冲物
 hhisye 缓冲液
 hhitm 恨海愁天
 hhiu 患处
-hhiui 怀海禅师
-hhiui 慧洪禅师
 hhiuk 唤出
 hhiuk 换出
 hhiuld 换出来
@@ -125188,7 +125064,6 @@ hihri 横超慧日
 hihtn 会唱会跳
 hihuf 胡吹海摔
 hiids 河车初动
-hiiui 慧旵禅师
 hiixn 何处吹箫
 hijbw 汗出浃背
 hijii 皇城金翅
@@ -125666,10 +125541,6 @@ hjirww 汗臭味
 hjisdi 汉冲帝
 hjiss 韩崇
 hjiu 喊出
-hjiui 宏觉禅师
-hjiui 慧寂禅师
-hjiui 慧经禅师
-hjiui 慧觉禅师
 hjiuld 喊出来
 hjivg 狐假鸱张
 hjivlt 旱垂柳
@@ -127013,8 +126884,6 @@ hkisbd 很崇拜
 hkisds 很冲动
 hkisfk 很充分
 hkiucd 很出彩
-hkiui 慧可禅师
-hkiui 慧开禅师
 hkiujp 很初阶
 hkiumf 很出名
 hkiuse 很出色
@@ -128140,14 +128009,9 @@ hlikq 黄晨
 hlirq 黄臭
 hlis 蝗虫
 hlisd 黄冲
-hlisi 会龙禅寺
 hlisxu 黄崇旭
 hliu 皇储
 hliug 后来处上
-hliui 怀琏禅师
-hliui 慧兰禅师
-hliui 慧棱禅师
-hliui 黄龙禅师
 hliujt 黄楚九
 hliuqn 黄楚桥
 hliz 皇城
@@ -129813,7 +129677,6 @@ hnhma 呼牛呼马
 hnhma 呼牛唤马
 hnhxl 和暖和香
 hnids 汗牛充栋
-hniui 慧南禅师
 hniwu 汗牛充屋
 hnjqh 淮南鸡犬
 hnlmo 黄牛拉磨
@@ -131846,13 +131709,11 @@ hqikji 花晨姬
 hqikt 华宸
 hqil 花床
 hqir 花绸
-hqisi 慧泉禅寺
 hqislr 华重楼
 hqiss 化虫
 hqisui 华虫实
 hqiswj 化虫丸
 hqiu 画出
-hqiui 慧勤禅师
 hqiuk 划出
 hqiuk 化出
 hqiuk 滑出
@@ -133995,8 +133856,6 @@ hris 候虫
 hrisd 后冲
 hriss 鲎虫
 hriu 后厨
-hriui 怀让禅师
-hriui 慧然禅师
 hriuk 吼出
 hriuli 后处理
 hriz 后称
@@ -136687,25 +136546,17 @@ htfui 蕙庭法师
 htfuu 回天乏术
 htfyu 胡啼番语
 htgci 黄台瓜辞
-hthdi 呼天号地
-hthdi 呼天唤地
-hthdi 嚎天喊地
 hthdi 昏天黑地
-hthdi 胡天胡地
-hthdi 胡天胡帝
 hthdi 轰天撼地
 hthgr 鸿图华构
 hthli 华亭鹤唳
 hthnc 昏头昏脑
 hthnc 滑头滑脑
-hthnc 猴头猴脑
 hthnc 虎头虎脑
 hthtm 后土皇天
 hthtu 皇天后土
 hthur 黄童皓首
 htidi 熯天炽地
-htiui 会通禅师
-htiui 慧昙禅师
 htiuu 混同车书
 htjcu 花团锦簇
 htjdi 呼天叫地
@@ -139776,10 +139627,6 @@ hvisv 回充
 hvisyc 蛔虫药
 hviu 挥出
 hviug 后者处上
-hviui 寰中禅师
-hviui 幻璋禅师
-hviui 慧忠禅师
-hviui 慧照禅师
 hviuk 会出
 hviuk 汇出
 hviuk 绘出
@@ -141714,8 +141561,6 @@ hwikik 黑沉沉
 hwiryi 黑臭蚁
 hwirz 黑丑
 hwitm 海屋筹添
-hwiui 圜悟禅师
-hwiui 慧文禅师
 hwiujl 黑出将
 hwivxl 黑腄蚃
 hwizvk 黑城镇
@@ -142479,8 +142324,6 @@ hxhzi 虎穴虎子
 hxidh 魂销肠断
 hxiql 红杏出墙
 hxirc 后向串扰
-hxiui 怀信禅师
-hxiui 怀贤禅师
 hxjbf 韩信将兵
 hxjgr 含瑕积垢
 hxjhh 混洗交换
@@ -142661,21 +142504,12 @@ hyflx 祸与福邻
 hyfqm 获益匪浅
 hyfqu 含冤负屈
 hyftj 华严凤潭
-hyfui 怀玉法师
-hyfui 惠约法师
-hyfui 慧勇法师
-hyfui 慧原法师
-hyfui 慧约法师
-hyfui 慧苑法师
-hyfui 慧远法师
-hyfve 或曰放者
 hyfww 何以伐为
 hyfxx 花样翻新
 hyfyj 或曰放焉
 hygbi 回音戈壁
 hyglb 闳言高论
 hygmm 画苑冠冕
-hygui 慧约国师
 hyguk 海岳高深
 hygvi 回壹怪之
 hygyu 罕言寡语
@@ -142687,9 +142521,7 @@ hyhjx 或远或近
 hyhlt 呼幺喝六
 hyhqf 海晏河清
 hyhqt 黄衣狐裘
-hyhug 华严和尚
 hyhuz 绘影绘声
-hyhwg 或有侯王
 hyhww 惠以欢为
 hyhxm 活眼活现
 hyhyu 好言好语
@@ -142698,13 +142530,6 @@ hyijh 皓月婵娟
 hyikr 红晕冲口
 hyilr 闳宇崇楼
 hyiqf 红叶传情
-hyisi 海云禅寺
-hyisi 海印禅寺
-hyiui 怀恽禅师
-hyiui 怀腪禅师
-hyiui 慧远禅师
-hyiui 慧颙禅师
-hyiui 洪諲禅师
 hyiuu 混一车书
 hyiuu 鸿雁传书
 hyivo 缓引春酌
@@ -146723,7 +146548,6 @@ idihz 拆船
 idiqf 彻底澄清
 idiu 拆除
 idiufw 拆除费
-idiui 持定禅师
 idiuk 拆出
 idiuld 拆出来
 idiz 拆成
@@ -147629,7 +147453,6 @@ ifhyu 春风化雨
 ifidm 驰风掣电
 ifilo 唇腐齿落
 ifiu 踹出
-ifiui 乘方禅师
 ifiui 超凡出世
 ifiuqu 踹出去
 ifivk 楚凤称珍
@@ -150079,8 +149902,6 @@ ihiiuc 川赤芍
 ihiju 诚惶诚惧
 ihiks 诚惶诚恐
 ihiu 传出
-ihiui 崇慧禅师
-ihiui 承皓禅师
 ihiuk 穿出
 ihiuld 串出来
 ihiuld 传出来
@@ -152542,8 +152363,6 @@ ijiudj 蟾蜍胆
 ijiudu 蟾蜍毒
 ijiuf 颤搐
 ijiugj 蟾蜍肝
-ijiui 常觉禅师
-ijiui 痴绝禅师
 ijiujf 蟾蜍精
 ijiuji 铲除剂
 ijiulf 蟾蜍灵
@@ -153516,7 +153335,6 @@ ikihxi 陈传席
 ikii 嗔痴
 ikiiaa 尘尺蛾
 ikiih 陈炽
-ikijui 陈禅师
 ikik 沉沉
 ikikh 陈辰
 ikikq 陈晨
@@ -155550,7 +155368,6 @@ imijy 椎埋穿掘
 imilv 沉谋重虑
 imiru 缠绵床褥
 imiss 触目成诵
-imiui 楚明禅师
 imiyj 抽秘骋妍
 imjjf 窗明几净
 imjjp 窗明几洁
@@ -155683,7 +155500,6 @@ infyy 嘲弄风月
 ingdd 成年古代
 inhkd 春暖花开
 inhxl 春暖花香
-iniui 楚南禅师
 iniwd 彻内彻外
 injhg 刹那加行
 injxf 刹那嘉兴
@@ -156130,7 +155946,6 @@ irig 惆怅
 irigk 酬唱
 iriguj 臭常山
 irigv 愁肠
-irijui 稠禅师
 irikmw 丑衬美
 irir 瞅瞅
 irirer 抽抽儿
@@ -157853,7 +157668,6 @@ iubmxf 础变性
 iubmxf 触变性
 iubmye 触变液
 iubqi 长身暴起
-iubre 禅师般若
 iubsi 长生不死
 iubsu 超世拔俗
 iubu 初步
@@ -157969,7 +157783,6 @@ iud 刍
 iuda 触达
 iuda 滁
 iudaco 出大错
-iudbc 禅师德抱
 iudbvk 褚墩镇
 iudc 出道
 iudcba 出道吧
@@ -158005,9 +157818,7 @@ iudfhe 出定和
 iudft 出定
 iudfy 出顶
 iudfy 触顶
-iudgh 禅师等观
 iudh 初段
-iudhv 禅师大慧
 iudhxf 处断刑
 iudi 锄地
 iudig 触底
@@ -158054,17 +157865,10 @@ iudu 初读
 iudug 出度
 iudug 初度
 iudui 出世大事
-iudui 禅师道势
-iuduj 禅师大善
 iudv 出队
-iudvi 禅师大志
 iudvxl 处对象
 iudwg 穿山貂王
-iudyh 禅师道源
-iudyi 禅师大义
-iudyy 禅师道悦
 iudz 初等
-iudzb 禅师道遵
 iudzhe 初等和
 iudzji 初等积
 iudzji 初等集
@@ -158131,7 +157935,6 @@ iufgy 出访
 iufgy 初访
 iufgyc 处方药
 iufj 触犯
-iufjb 禅师法俊
 iufjle 触犯了
 iufjq 初犯
 iufjs 出饭
@@ -158144,7 +157947,6 @@ iufklv 出粉率
 iufkqh 处分权
 iufkuu 出分数
 iufkzi 出份子
-iuflb 禅师法论
 iuflf 重山复岭
 iufmg 初试锋芒
 iufmu 重生父母
@@ -158153,13 +157955,10 @@ iufrs 出水芙蓉
 iufu 出伏
 iufui 长水法师
 iufui 长蛇封豕
-iufuj 禅师法善
-iufuk 禅师法慎
 iufuq 除氟
 iufur 初伏
 iufuv 除服
 iufuv 重山复水
-iufuz 禅师法盛
 iufvr 长寿佛咒
 iufw 除非
 iufwlx 出菲林
@@ -158169,11 +157968,6 @@ iufwui 除非是
 iufwv 畜肥
 iufwyr 除非有
 iufwzd 除非在
-iufxi 禅师法喜
-iufxl 禅师法响
-iufyh 禅师法源
-iufyi 禅师法仪
-iufyj 禅师法彦
 iufz 雏凤
 iufzgh 出风管
 iufzj 出锋
@@ -158275,7 +158069,6 @@ iugzl 初耕
 iugzu 赤绳罣足
 iuh 黜
 iuhb 初婚
-iuhbm 禅师慧辩
 iuhc 出号
 iuhcbd 除好柏
 iuhck 初号
@@ -158300,18 +158093,11 @@ iuhgu 鸱视虎顾
 iuhgye 出行业
 iuhh 刍豢
 iuhhw 除环
-iuhic 禅师慧超
-iuhir 禅师慧稠
-iuhiz 禅师慧成
 iuhj 出汗
 iuhjd 楚汉
 iuhjdo 出汗多
-iuhjl 禅师慧奖
 iuhjll 出汗量
-iuhkh 禅师慧宽
 iuhli 长身鹤立
-iuhmf 禅师慧命
-iuhmx 禅师慧旻
 iuhni 趁水和泥
 iuho 出货
 iuhob 储货
@@ -158323,12 +158109,10 @@ iuholl 出货量
 iuholv 出货率
 iuhoqu 出货区
 iuhpo 潮山黄婆
-iuhpu 禅师慧普
 iuhqh 初花
 iuhqqi 初花期
 iuhqyg 出花样
 iuhqyh 出花园
-iuhtc 禅师慧瑫
 iuhu 出乎
 iuhud 储户
 iuhug 出弧
@@ -158339,10 +158123,7 @@ iuhvhq 楚慧华
 iuhvj 长沙会战
 iuhvwg 楚惠王
 iuhvx 出慧
-iuhww 禅师慧威
-iuhyc 禅师慧耀
 iuhyi 处士横议
-iuhys 禅师慧涌
 iui 出丑
 iuia 初查
 iuiaco 出差错
@@ -158414,8 +158195,6 @@ iuisww 畜虫威
 iuisww 除虫威
 iuiu 出处
 iuiui 乘时乘势
-iuiui 楚山禅师
-iuiui 楚石禅师
 iuiuk 出出
 iuiuk 初出
 iuiuld 除出来
@@ -158438,7 +158217,6 @@ iuj 触
 iujb 储君
 iujbc 楚军
 iujbh 除菌
-iujcg 禅师吉藏
 iujdc 出世间道
 iujf 处境
 iujfa 出世间法
@@ -158483,8 +158261,8 @@ iujip 出际
 iujit 处寂
 iujit 除籍
 iujiue 初级社
-iujiw 出继
 iujiw 初级
+iujiw 出继
 iujiw 处级
 iujixl 褚集乡
 iujiz 储集
@@ -158557,7 +158335,6 @@ iuju 出局
 iujub 出具
 iujub 初具
 iujub 厨具
-iujuc 禅师敬韶
 iujud 楚剧
 iujugo 出具过
 iujuh 雏菊
@@ -158773,7 +158550,6 @@ iulx 除磷
 iulxf 澄神离形
 iulzhj 出冷汗
 iulzmk 出冷门
-iulzs 禅师礼宗
 iulzu 重手累足
 ium 楚
 iuma 出马
@@ -158809,7 +158585,6 @@ iumkba 出门吧
 iumkd 厨门
 iumkd 楚门
 iumkd 橱门
-iumkl 禅师明旷
 iumkle 出门了
 iumkqm 出门前
 iumkqu 出门去
@@ -158914,8 +158689,6 @@ iupjm 初盘
 iupju 纯属骗局
 iupkm 厨盆
 iupm 出片
-iupmf 禅师普明
-iupmk 禅师普门
 iupmp 触片
 iupmr 出偏
 iupn 出票
@@ -159080,7 +158853,6 @@ iusi 处死
 iusihd 除四害
 iusik 初四
 iusik 厨司
-iusir 禅师僧稠
 iusiwu 初四五
 iusixf 处死刑
 iusj 初三
@@ -159094,12 +158866,9 @@ iusqi 垂首丧气
 iusstp 楚颂帖
 iusu 初速
 iusudu 初速度
-iusui 禅师僧实
 iusujb 楚素君
 iusuwg 楚肃王
 iusv 初岁
-iusvc 禅师僧照
-iusvk 禅师僧珍
 iusvll 褚遂良
 iusyi 丑声四溢
 iut 畜
@@ -159123,7 +158892,6 @@ iutjf 触探
 iutjl 痴鼠拖姜
 iutjqh 初谈权
 iutju 创深痛巨
-iutlj 禅师昙兰
 iutm 楚天
 iutmba 楚天霸
 iutmbw 楚天杯
@@ -159178,7 +158946,6 @@ iuuexm 出射线
 iuuey 初设
 iuufj 出帅
 iuufj 除帅
-iuufu 禅师善伏
 iuug 除上
 iuuglf 初尚龄
 iuugs 初上
@@ -159311,7 +159078,6 @@ iuuvu 春事谁主
 iuuvxl 储水箱
 iuuvzv 出水嘴
 iuuxl 长寿神像
-iuuys 禅师神邕
 iuuz 出生
 iuuzbi 初生壁
 iuuzdc 畜生道
@@ -159348,7 +159114,6 @@ iuvaf 初扎
 iuvaji 初轧机
 iuvam 初榨
 iuvaqi 除渣器
-iuvba 禅师智拔
 iuvbo 尺水丈波
 iuvbw 乘胜逐北
 iuvc 出招
@@ -159369,8 +159134,6 @@ iuvgb 出账
 iuvgf 出掌
 iuvgfa 除障法
 iuvgg 出张
-iuvgh 禅师智瓘
-iuvgh 禅师真观
 iuvgiz 初长成
 iuvgji 处长级
 iuvgqi 出账期
@@ -159410,7 +159173,6 @@ iuvjp 超世之杰
 iuvjs 出展
 iuvjw 初绽
 iuvk 出诊
-iuvkd 禅师智锴
 iuvkfu 初振幅
 iuvkj 触针
 iuvkp 出阵
@@ -159458,11 +159220,8 @@ iuvui 崇尚知识
 iuvur 初住
 iuvuyi 出主意
 iuvww 陈涉之位
-iuvxi 禅师智晞
-iuvyy 禅师智越
 iuvz 出征
 iuvzb 储症
-iuvzc 禅师智璪
 iuvzce 出政策
 iuvzmf 出证明
 iuvzy 除证
@@ -159545,8 +159304,6 @@ iuxfri 出行日
 iuxfrk 雏型人
 iuxfv 除腥
 iuxfy 初醒
-iuxgc 禅师玄高
-iuxgl 禅师玄光
 iuxgs 处实效功
 iuxh 初选
 iuxhji 褚璇玑
@@ -159570,8 +159327,6 @@ iuxix 除息
 iuxiye 除夕夜
 iuxjf 虫蚀寻径
 iuxjf 长绳系景
-iuxjm 禅师行简
-iuxjy 禅师玄觉
 iuxk 初夏
 iuxkh 出下
 iuxkh 除下
@@ -159590,7 +159345,6 @@ iuxmdv 出线队
 iuxmgo 出现过
 iuxmgz 出线梗
 iuxmhe 出线盒
-iuxmj 禅师行满
 iuxmjn 出线角
 iuxmk 处咸
 iuxmk 滁县
@@ -159717,11 +159471,9 @@ iuyex 除夜
 iuyf 出迎
 iuyfh 出营
 iuyfn 雏鹰
-iuyfu 禅师义福
 iuyfwg 雏鹰网
 iuyfww 除蝇威
 iuyg 出洋
-iuygc 禅师元高
 iuygib 楚阳春
 iuygji 除氧剂
 iuygm 初样
@@ -159732,8 +159484,6 @@ iuygve 出洋者
 iuygxl 出洋相
 iuyh 出院
 iuyhc 楚原
-iuyhc 禅师元浩
-iuyhc 禅师元皓
 iuyhe 虫沙猿鹤
 iuyhhr 出院后
 iuyhk 厨园
@@ -159826,7 +159576,6 @@ iuyys 出曰
 iuyytp 初月帖
 iuyywu 杵乐舞
 iuyzmk 出远门
-iuyzs 禅师元宗
 iuz 躇
 iuzch 除藻
 iuzcji 除藻剂
@@ -160469,7 +160218,6 @@ ixhug 触绪还伤
 ixiee 除邪惩恶
 ixigu 彻心彻骨
 ixiii 吹埙吹篪
-ixiui 崇信禅师
 ixivz 黜邪崇正
 ixiyi 茶心禅意
 ixiyi 诚心诚意
@@ -160630,9 +160378,6 @@ iyigh 朝衣朝冠
 iyise 齿牙春色
 iyitf 沉鱼出听
 iyits 创业垂统
-iyiui 崇岳禅师
-iyiui 崇裕禅师
-iyiui 澄远禅师
 iyiuk 楚有春申
 iyivg 出言成章
 iyivg 出语成章
@@ -162532,7 +162277,6 @@ jafts 灸艾分痛
 jafui 静蔼法师
 jagmm 据鞍顾眄
 jaibi 君暗臣蔽
-jaiui 介庵禅师
 jaivi 久安长治
 jaiyr 抉奥阐幽
 jajsu 简傲绝俗
@@ -163492,7 +163236,6 @@ jchur 几曾回首
 jchyr 家藏户有
 jcigk 剪草除根
 jciqt 集翠成裘
-jciui 景岑禅师
 jcixu 肩从齿序
 jcjco 将错就错
 jcjwu 娇藏金屋
@@ -163578,10 +163321,7 @@ jdhxi 皆大欢喜
 jdifo 疾得成佛
 jdihe 涓滴成河
 jdimf 及第成名
-jdisi 景德禅寺
 jditj 旧调重弹
-jdiui 净端禅师
-jdiui 居遁禅师
 jdiyr 旧地重游
 jdjbx 举鼎绝膑
 jdjdi 揭谛揭谛
@@ -164547,7 +164287,6 @@ jfisd 精冲
 jfismu 精冲模
 jfisvj 京宠展
 jfiu 惊出
-jfiui 杰峰禅师
 jfiui 积非成是
 jfiukr 净出口
 jfium 荆楚
@@ -175732,7 +175471,6 @@ jliive 僵持着
 jliixu 将持续
 jliji 积劳成疾
 jlijpx 将产品
-jlijui 奖禅师
 jlijy 君来愁绝
 jlik 降尘
 jlikh 将臣
@@ -180812,8 +180550,8 @@ jnhvk 缴回
 jnhvk 角回
 jnhvld 叫回来
 jnhvqu 叫回去
-jnhvr 交会
 jnhvr 教会
+jnhvr 交会
 jnhvvg 教会长
 jnhvxl 角喙象
 jnhvxl 角茴香
@@ -183365,8 +183103,6 @@ jpiis 界尺
 jpiive 劫持者
 jpij 解馋
 jpijt 接产
-jpijui 戒禅师
-jpijui 玠禅师
 jpik 戒嗔
 jpil 疥疮
 jpilba 揭疮疤
@@ -185200,7 +184936,6 @@ jqhig 九曲回肠
 jqhwg 见巧乎王
 jqifz 讥诮嘲讽
 jqijm 捐弃成见
-jqiui 竟钦禅师
 jqiwu 亟其乘屋
 jqiyj 尽去陈言
 jqjba 夹七夹八
@@ -186297,7 +186032,6 @@ jtisge 九重葛
 jtisr 九重
 jtistm 九重天
 jtiu 救出
-jtiui 净昙禅师
 jtiuj 积土成山
 jtiuk 揪出
 jtiuk 就出
@@ -188565,7 +188299,6 @@ juitj 积沙成滩
 juiu 举出
 juiubu 据初步
 juiugs 居处恭
-juiui 景深禅师
 juiup 居处
 juiv 举槌
 juivui 巨槌石
@@ -191503,7 +191236,6 @@ jxijiu 金蟾蜍
 jxijm 进贤黜奸
 jxijnv 金蟾女
 jxijpd 金蝉牌
-jxijsi 金禅寺
 jxijy 进谗
 jxijzi 金蝉子
 jxik 今晨
@@ -191529,7 +191261,6 @@ jxitm 脚心朝天
 jxiu 进出
 jxiucg 进出仓
 jxiugg 进出港
-jxiui 警玄禅师
 jxiujf 进出京
 jxiujf 进出境
 jxiuk 仅出
@@ -194383,7 +194114,6 @@ jyiiho 蕨尺蠖
 jyij 绝产
 jyiji 积忧成疾
 jyijic 觉禅钞
-jyijui 觉禅师
 jyik 绝尘
 jyil 爵床
 jyilke 爵床科
@@ -194391,7 +194121,6 @@ jyiluu 爵床属
 jyins 酒酽春浓
 jyiqt 集腋成裘
 jyirk 记忆超人
-jyisi 岠嵎禅寺
 jyiu 决出
 jyiuk 掘出
 jyiuld 掘出来
@@ -194996,7 +194725,6 @@ jzhwk 锦字回文
 jzhxf 君子怀刑
 jzhyu 竭泽涸渔
 jziui 教子谄事
-jziui 鉴宗禅师
 jzivi 君子传之
 jzivi 君子耻之
 jziyu 九字成语
@@ -203633,7 +203361,6 @@ kqhuqn 跨湖桥
 kqi 跨出
 kqia 夸嚓
 kqiu 跨出
-kqiui 克勤禅师
 kqiuld 跨出来
 kqiuqu 跨出去
 kqiz 跨城
@@ -204554,7 +204281,6 @@ ksihs 空串
 ksihvi 孔传鋕
 ksihy 孔穿
 ksijt 旷岁持久
-ksijui 空禅师
 ksil 空床
 ksild 控创
 ksilfw 空床费
@@ -205215,7 +204941,6 @@ kthdi 哭天喊地
 kthlg 狂涛骇浪
 kthxx 枯体灰心
 ktifj 靠天吃饭
-ktiui 肯堂禅师
 ktivu 咳唾成珠
 ktivu 欬唾成珠
 ktjju 科头箕踞
@@ -205496,7 +205221,6 @@ kuiil 口舌成疮
 kuij 苦禅
 kuisjf 库虫净
 kuiu 苦楚
-kuiui 可授禅师
 kuiui 恪守成式
 kuiuj 靠山吃山
 kuiuk 哭出
@@ -206407,7 +206131,6 @@ kwdhu 可谓多乎
 kwdtm 开雾睹天
 kwfwu 揆文奋武
 kwfyj 口无烦言
-kwiui 克文禅师
 kwiwu 开物成务
 kwjyj 看文巨眼
 kwldc 狂为乱道
@@ -206634,7 +206357,6 @@ kzi 吭哧
 kzigj 口燥唇干
 kzii 吭哧
 kziqm 口燥唇乾
-kziui 可遵禅师
 kzj 铿
 kzjf 坑井
 kzji 吭唧
@@ -208613,7 +208335,6 @@ lcihvg 老船长
 lciijk 老吃家
 lcijlv 劳产率
 lcijpx 老产品
-lcijui 老禅师
 lcijve 老缠着
 lcik 老臣
 lcikcu 老陈醋
@@ -212184,7 +211905,6 @@ lgiim 朗驰
 lgil 狼疮
 lgilwj 狼疮丸
 lgilyg 狼疮样
-lgiui 来果禅师
 lgiuu 滥竿充数
 lgivg 狼顾鸱张
 lgivi 狼顾鸱跱
@@ -212680,7 +212400,6 @@ lhiqf 炉火纯青
 lhir 乱臭
 lhirr 鸾俦
 lhis 乱冲
-lhisi 龙海禅寺
 lhiv 乱吹
 lhixh 老鹤乘轩
 lhiyi 烈火炽翼
@@ -217838,8 +217557,6 @@ ljirgu 蓝筹股
 ljis 懒虫
 ljisv 蓝充
 ljiu 揽储
-ljiui 力金禅师
-ljiui 良价禅师
 ljiurk 揽储人
 ljivi 临机处置
 ljixx 乱箭穿心
@@ -219232,7 +218949,6 @@ llir 莨绸
 llirf 两抽
 llis 两重
 llisd 两冲
-llisi 龙岭禅寺
 llisiz 两冲程
 llistm 两重天
 llisxf 两重性
@@ -220874,7 +220590,6 @@ lmilg 恋床
 lmilgl 联创光
 lmirpi 恋丑癖
 lmiu 练出
-lmiui 灵默禅师
 lmiuk 连出
 lmiur 联储
 lmiye 连明彻夜
@@ -224413,7 +224128,6 @@ lqhwo 龙跧虎卧
 lqhyi 理气合一
 lqifz 料峭春风
 lqihj 料峭春寒
-lqisi 灵泉禅寺
 lqjds 连墙接栋
 lqjgu 劳其筋骨
 lqjqs 力屈计穷
@@ -235107,15 +234821,8 @@ lyilg 老鱼吹浪
 lyili 聆音察理
 lyimw 泪眼愁眉
 lyinn 龙鹰雏鸟
-lyisi 凌云禅寺
-lyisi 林云禅寺
 lyiso 罗衣初索
 lyiu 掠出
-lyiui 了义禅师
-lyiui 了元禅师
-lyiui 灵源禅师
-lyiui 灵祐禅师
-lyiui 龙牙禅师
 lyiuu 滥竽充数
 lyiyu 落雁沉鱼
 lyiyx 绿叶成荫
@@ -235543,7 +235250,6 @@ lzijm 履足差肩
 lzil 冷床
 lzipa 丽藻春葩
 lzismo 冷冲模
-lziui 利踪禅师
 lziuli 冷处理
 lzizxf 冷成型
 lzj 冷静
@@ -236437,7 +236143,6 @@ maiixm 马齿苋
 maikh 马辰
 maili 明暗处理
 maiu 码出
-maiui 密庵禅师
 maiuk 骂出
 maiulu 马出路
 maium 马楚
@@ -237760,7 +237465,6 @@ mbhug 梦笔和尚
 mbhuz 梦笔花生
 mbicb 名不常存
 mbidi 梅边吹笛
-mbiui 明本禅师
 mbiye 莫辨楮叶
 mbiyj 莫不出焉
 mbjan 马不解鞍
@@ -239466,7 +239170,6 @@ mdisxl 脉冲相
 mdisyi 脉冲仪
 mdiu 迈出
 mdiufg 卖出方
-mdiui 明德禅师
 mdiujk 卖出价
 mdiuk 卖出
 mdiuld 卖出来
@@ -240873,6 +240576,7 @@ mfsli 毛发悚立
 mfsoj 明锁
 mfsrj 毛发悚然
 mfssu 毛发丝粟
+mfsto 墨菲斯托
 mfsu 名宿
 mfsuu 毛发森竖
 mfswu 眉飞色舞
@@ -241474,7 +241178,6 @@ mgilf 民国长龄
 mgilx 盲窗
 mgis 盲虫
 mgiss 民国澄松
-mgiui 妙高禅师
 mgiuqi 盲雏期
 mgivi 妙观察智
 mgivi 民国陈治
@@ -243327,7 +243030,6 @@ mjist 满宠
 mjisv 慢充
 mjisyf 螨虫瘿
 mjiu 满处
-mjiui 梦居禅师
 mjiuk 满出
 mjiuk 漫出
 mjiuld 满出来
@@ -244040,7 +243742,6 @@ mkilso 门窗锁
 mkilxf 门窗型
 mkirf 门抽
 mkiu 闷出
-mkiui 妙堪禅师
 mkiuj 扪触
 mkj 钔
 mkjf 门径
@@ -244382,7 +244083,6 @@ mlihl 迷离惝恍
 mlimc 蚂蛉长毛
 mlise 满脸春色
 mliui 弥勒出世
-mliui 明龙禅师
 mliuv 马龙车水
 mliyu 妙龄驰誉
 mljdc 明理见道
@@ -244455,6 +244155,7 @@ mlvvk 绵里之针
 mlvwg 门闾之望
 mlvzi 螟蛉之子
 mlwlb 弥勒五论
+mlwya 摩拉维亚
 mlwyi 昧利忘义
 mlxdb 梅兰希顿
 mlxfz 描龙绣凤
@@ -246105,6 +245806,7 @@ modeb 摸的
 modebi 抹得比
 modebi 摸得比
 modebi 磨得比
+modedc 摸得到
 modedi 摸的底
 modeer 莫德尔
 modef 抹得
@@ -253094,7 +252796,6 @@ mxib 抿唇
 mxibxn 闵春晓
 mxifz 满袖春风
 mxih 民船
-mxijui 旻禅师
 mxilv 命啸俦侣
 mxiun 民初
 mxiup 泯除
@@ -253534,8 +253235,6 @@ myimr 命与仇谋
 myiqf 眉眼传情
 myise 满园春色
 myitm 马咽车阗
-myiui 妙有禅师
-myiui 牧云禅师
 myiuu 暮云春树
 myivj 梅英初绽
 myivr 木已成舟
@@ -253930,8 +253629,6 @@ mziser 蠓虫儿
 mziss 虻虫
 mziss 蠓虫
 mzisz 艨艟
-mziui 妙总禅师
-mziui 明瓒禅师
 mziv 猛吹
 mziz 蒙城
 mzizlu 蒙城路
@@ -254840,6 +254537,7 @@ nahvqu 那回去
 nahvr 哪会
 nahvr 那会
 nahvui 那回事
+nahvui 那会使
 nahvyr 哪会有
 nai 拿出
 naie 那车
@@ -256686,7 +256384,6 @@ neh 讷河
 nehe 讷河
 neheui 讷河市
 nehexm 讷河县
-neijui 讷禅师
 nek 哪
 neln 呢料
 nelxf 逆耳利行
@@ -258051,7 +257748,6 @@ niirks 你抽空
 niis 你冲
 niiss 腻虫
 niiu 你处
-niiui 逆川禅师
 niiuiu 拟处处
 niiuk 拟出
 niiuld 你出来
@@ -259624,7 +259320,6 @@ njiid 南池
 njiizi 南池子
 njij 难缠
 njijbf 难产病
-njijsi 南禅寺
 njijt 难产
 njijuj 南禅山
 njiklu 南陈路
@@ -260648,7 +260343,6 @@ nkhlse 嫩黄色
 nkhq 嫩滑
 nkhs 嫩红
 nkhulu 嫩葫芦
-nkiui 鸟窠禅师
 nkj 嫩江
 nkjfye 嫩茎叶
 nkjkh 嫩荚
@@ -262615,7 +262309,6 @@ nsigkr 农场口
 nsigvu 农场主
 nsij 农产
 nsijpx 农产品
-nsijsi 农禅寺
 nsik 弄沉
 nsil 脓疮
 nsilcb 农创村
@@ -266980,9 +266673,6 @@ paisxl 爬虫箱
 paisxy 爬虫学
 paiszi 怕虫子
 paiu 爬出
-paiui 帕奥禅师
-paiui 普岸禅师
-paiui 普庵禅师
 paiuld 爬出来
 paiuqu 爬出去
 paj 帕
@@ -268265,7 +267955,6 @@ pditm 平地成天
 pdiu 排除
 pdiudn 排除掉
 pdiufa 排除法
-pdiui 普度禅师
 pdiuk 拍出
 pdiuk 排出
 pdiuk 派出
@@ -270280,7 +269969,6 @@ pgi 旁出
 pgibd 庞淳
 pgiig 披肝抽肠
 pgiu 旁出
-pgiui 盘谷禅师
 pgj 旁近
 pgjbt 庞均
 pgjbxu 庞俊旭
@@ -270513,7 +270201,6 @@ phhyu 披褐怀玉
 phhyu 被褐怀玉
 phihq 披红插花
 phimk 蓬户柴门
-phiui 普化禅师
 phjco 盘互交错
 phjfk 排患解纷
 phjlc 苹花渐老
@@ -271756,9 +271443,7 @@ pjii 泮池
 pjij 盘缠
 pjikh 潘辰
 pjimf 牝鸡晨鸣
-pjisi 普济禅寺
 pjiu 判处
-pjiui 普寂禅师
 pjiun 盘初
 pjiyh 破镜重圆
 pjiyu 凭君传语
@@ -274117,7 +273802,6 @@ prhbd 判若黑白
 prhgr 判若鸿沟
 pri 剖成
 priik 飘然出尘
-priui 普仁禅师
 priui 飘然出世
 priz 剖成
 prj 剖解
@@ -275424,7 +275108,6 @@ pvgju 帕竹噶举
 pvgql 譬之宫墙
 pvgyu 抛珠滚玉
 pvikf 拍掌称快
-pviui 普庄禅师
 pvjlf 破竹建瓴
 pvlfw 铺张浪费
 pvlye 骈枝俪叶
@@ -275692,7 +275375,6 @@ pwik 陪衬
 pwikti 陪衬体
 pwil 陪床
 pwiu 配出
-pwiui 普闻禅师
 pwiz 配成
 pwj 锫
 pwja 帔
@@ -276754,7 +276436,6 @@ pyhiu 旁逸横出
 pyhjn 擗踊号叫
 pyhjx 璞玉浑金
 pyhlg 瞥遇回廊
-pyiui 普愿禅师
 pyivi 俳优畜之
 pyjgl 片羽吉光
 pyjho 泼油救火
@@ -280872,7 +280553,6 @@ qgidc 清宫除道
 qgihs 气贯长虹
 qgili 琴高乘鲤
 qgiss 千古传诵
-qgiui 清珙禅师
 qgjdn 千古绝调
 qgjfu 琴歌酒赋
 qgjfu 穷贵极富
@@ -281327,7 +281007,6 @@ qhikn 全衬
 qhis 权充
 qhiss 全虫
 qhiu 圈出
-qhiui 全奯禅师
 qhiuk 全出
 qhiuld 全出来
 qhivf 圈捶
@@ -281357,12 +281036,13 @@ qhjfui 全景式
 qhjfuk 全景深
 qhjfw 拳经
 qhjhf 劝捐
-qhji 拳击
+qhji 全集
 qhjidv 拳击队
 qhjihq 全极化
 qhjiig 拳击场
 qhjiiz 全集成
 qhjijk 拳击家
+qhjik 拳击
 qhjilu 全记录
 qhjilv 全级铝
 qhjisd 拳击赛
@@ -281375,7 +281055,6 @@ qhjiuu 拳击术
 qhjiuz 全寄生
 qhjixf 全畸形
 qhjixp 拳击蟹
-qhjiz 全集
 qhjjh 秋毫见捐
 qhjjx 求化精进
 qhjk 全家
@@ -283400,7 +283079,6 @@ qiistm 七重天
 qiisxy 气冲穴
 qiiszr 七重奏
 qiiu 起初
-qiiui 齐稠禅师
 qiiuk 七出
 qiiuk 歧出
 qiiuk 漆出
@@ -285873,7 +285551,6 @@ qjhyj 情见乎言
 qjhzs 犬迹狐踪
 qjihj 清角吹寒
 qjilj 秋菊春兰
-qjiui 清皎禅师
 qjjcs 轻骑简从
 qjjhd 清净觉海
 qjjij 倾家尽产
@@ -291502,7 +291179,6 @@ qsi 穷愁
 qsiali 穷查理
 qsimm 情丝缠绵
 qsir 穷愁
-qsiui 契嵩禅师
 qsiwk 巧思成文
 qsj 銎
 qsjbm 情随境变
@@ -294508,7 +294184,6 @@ qvhuj 气壮河山
 qvhwj 曲渚回湾
 qvhys 前遮后拥
 qviia 其政察察
-qviui 庆诸禅师
 qvixn 求忠出孝
 qviyj 清张齿延
 qvizj 巧篆垂簪
@@ -295025,7 +294700,6 @@ qxirc 前向串扰
 qxisnn 嗪虫脲
 qxiu 禽畜
 qxiuhj 秦楚汉
-qxiui 庆闲禅师
 qxiv 琴锤
 qxixx 泣血椎心
 qxiyf 泣血捶膺
@@ -295950,8 +295624,6 @@ qyiiis 缺翅虫
 qyiimu 缺翅目
 qyiiyj 缺齿鼹
 qyirk 取义成仁
-qyiui 千岩禅师
-qyiui 清远禅师
 qyivi 丘亦耻之
 qyiyf 曲意承迎
 qyiyh 缺月重圆
@@ -298201,8 +297873,6 @@ rhildm 软床垫
 rhirf 软抽
 rhitm 热火朝天
 rhitu 软红尘土
-rhiui 如会禅师
-rhiui 如海禅师
 rhivg 染翰成章
 rhivi 然後察之
 rhizfa 阮成发
@@ -299225,7 +298895,6 @@ rjhw 染黑
 rji 染成
 rjigxu 髯长须
 rjiiqh 染池泉
-rjiui 仁俭禅师
 rjivs 日见沉重
 rjiz 染成
 rjj 燃尽
@@ -300407,8 +300076,8 @@ rkviqi 任职期
 rkviuo 认知说
 rkviuu 认知书
 rkviv 任职
-rkvive 任职者
 rkvive 认知者
+rkvive 任职者
 rkvivs 任志忠
 rkvixf 认知性
 rkvixn 人知晓
@@ -300848,7 +300517,6 @@ rmhve 濡沫涸辙
 rmhxf 如梦忽醒
 rmijy 如梦初觉
 rmilg 入门穿廊
-rmiui 如满禅师
 rmivs 容民畜众
 rmixf 如梦初醒
 rmjdf 如咩紧盯
@@ -304202,7 +303870,6 @@ rxhsj 人心涣散
 rxidi 入孝出弟
 rxiqt 日下长秋
 rxiti 入孝出悌
-rxiui 仁玄禅师
 rxkig 热心快肠
 rxkkr 热心苦口
 rxlvi 人须立志
@@ -305714,7 +305381,6 @@ scir 臊臭
 scirww 臊臭味
 sciu 扫除
 sciufa 扫除法
-sciui 僧粲禅师
 sciuji 扫除机
 scj 扫街
 scjbh 搔菌
@@ -306089,7 +305755,6 @@ sdisqh 噻虫醛
 sdisqx 噻虫嗪
 sditm 三斗朝天
 sdiu 赛出
-sdiui 僧达禅师
 sdiz 赛程
 sdizbn 赛程表
 sdj 塞进
@@ -308424,7 +308089,6 @@ siiszr 四重奏
 siiti 四重出体
 siiu 四处
 siiuc 私厨
-siiui 僧稠禅师
 siiuk 四出
 siiuk 撕出
 siiuk 死出
@@ -314405,7 +314069,6 @@ ssiik 送吃
 ssiimw 松弛酶
 ssiisu 松弛素
 ssiitd 松弛肽
-ssijui 嵩禅师
 ssikao 宋陈媪
 ssikgz 宋陈瓘
 ssiscc 松虫草
@@ -315360,6 +315023,7 @@ stihd 桑田成海
 stimt 桑土绸缪
 stjla 斯塔吉拉
 stjmo 三条九陌
+stjte 斯图加特
 stkla 酸甜苦辣
 stlbi 三头六臂
 stldi 叁天两地
@@ -315776,13 +315440,10 @@ suihh 撒手尘寰
 suihr 速传
 suiiu 搔首踟蹰
 suiiu 搔首踟躇
-suijui 俗禅师
 suikx 俗尘
 suilbf 粟疮病
 suir 宿仇
-suisi 三圣禅寺
 suiu 宿处
-suiui 僧实禅师
 suiui 撒手长逝
 suiuzi 素除子
 suiz 俗称
@@ -317627,7 +317288,6 @@ sxhgu 松形鹤骨
 sxidr 三徙成都
 sxigo 三徙成国
 sxipu 素弦尘扑
-sxiui 死心禅师
 sxiwu 三写成乌
 sxjji 四姓阶级
 sxjjx 思修交尽
@@ -317729,9 +317389,6 @@ syhxf 肆意横行
 syifu 三怨成府
 syifz 四野春风
 syitg 酥雨池塘
-syiui 僧印禅师
-syiui 松云禅师
-syiui 松隐禅师
 syivi 孙以出之
 syjdi 三元及第
 syjfg 随圆就方
@@ -319873,7 +319530,6 @@ tciiya 桃赤蚜
 tcis 绦虫
 tcisbf 绦虫病
 tciu 掏出
-tciui 昙藏禅师
 tciuk 套出
 tciuk 淘出
 tciuk 逃出
@@ -322581,7 +322237,6 @@ teijiz 特产城
 teijpx 特产品
 teijuv 特产税
 teiu 特出
-teiui 昙噩禅师
 teiz 特称
 tej 铽
 tejbc 讨恶翦暴
@@ -324203,7 +323858,6 @@ tgilyr 烫疮油
 tgiscb 塘冲村
 tgisve 唐崇哲
 tgiu 淌出
-tgiui 韬光禅师
 tgiuk 烫出
 tgiz 汤城
 tgizb 天桂传尊
@@ -325124,7 +324778,6 @@ thhv 团徽
 thhxl 偷换韩香
 thi 团场
 thig 团场
-thiui 昙华禅师
 thizuj 团城山
 thj 湍急
 thji 湍急
@@ -329967,7 +329620,6 @@ tnihr 挑传
 tniik 跳吃
 tnik 条陈
 tnil 跳窗
-tnisi 天宁禅寺
 tniss 跳虫
 tniu 跳出
 tniuk 挑出
@@ -331840,7 +331492,6 @@ tpilg 铁床
 tpilhq 贴窗花
 tpilnw 铁窗内
 tpilx 贴窗
-tpisi 太平禅寺
 tpiu 贴出
 tpiuld 贴出来
 tpium 铁杵
@@ -332379,7 +332030,6 @@ tqgmo 通衢广陌
 tqhlo 兔起鹘落
 tqihr 通前彻后
 tqisu 天气初肃
-tqiui 天奇禅师
 tqjui 陶潜居士
 tqkho 通其狂惑
 tqlmo 桃蹊柳陌
@@ -332733,7 +332383,6 @@ trilx 透窗
 trir 头筹
 trirf 头抽
 triu 透出
-triui 天然禅师
 triuk 偷出
 triuk 投出
 triuld 偷出来
@@ -335524,7 +335173,6 @@ tsyivl 同义庄
 tsyivo 同一桌
 tsyivs 同一种
 tsyix 同意
-tsyixf 统一性
 tsyixf 同一性
 tsyixk 同意下
 tsyixk 统一下
@@ -336256,7 +335904,6 @@ tuiubu 突出部
 tuiudh 突出端
 tuiudm 突出点
 tuiufa 突出法
-tuiui 昙晟禅师
 tuiuj 突触
 tuiuk 凸出
 tuiuk 吐出
@@ -338458,9 +338105,6 @@ tyhyj 退有后言
 tyidc 天有常道
 tyifu 太原崇孚
 tyigs 天印持公
-tyisi 天缘禅寺
-tyiui 天隐禅师
-tyiui 昙颖禅师
 tyixx 添油炽薪
 tyjcu 添油加醋
 tyjde 同异交得
@@ -339252,7 +338896,6 @@ uaisul 杀虫双
 uaiswj 杀虫丸
 uaisyc 杀虫药
 uaiu 杀出
-uaiui 实庵禅师
 uaiuld 杀出来
 uaium 纱橱
 uaiuqu 杀出去
@@ -340228,8 +339871,6 @@ ubijw 顺缠
 ubikr 食不充口
 ubild 顺创
 ubiqu 涉笔成趣
-ubiui 善本禅师
-ubiui 师备禅师
 ubiuj 顺锄
 ubiz 顺城
 ubizf 顺承
@@ -341514,9 +341155,6 @@ udihh 拾带重还
 udilb 摄大乘论
 udilx 树多成林
 udiu 筛除
-udiui 善道禅师
-udiui 守端禅师
-udiui 绍大禅师
 udiuk 晒出
 udiuk 筛出
 udiz 晒成
@@ -342919,7 +342557,6 @@ ufig 率常
 ufiho 顺风吹火
 ufiu 甩出
 ufiue 煞费唇舌
-ufiui 师范禅师
 ufiuk 摔出
 ufivi 赏罚黜陟
 ufiyr 生非创有
@@ -343840,8 +343477,6 @@ ugil 上床
 ugilba 上床吧
 ugis 上冲
 ugiu 伤处
-ugiui 士圭禅师
-ugiui 守贵禅师
 ugiuu 善根成熟
 ugiuyu 尚处于
 ugiye 笙歌彻夜
@@ -345357,7 +344992,6 @@ uhhxn 山呼海啸
 uhiee 豕虎传讹
 uhimf 收回成命
 uhimw 山辉川媚
-uhiui 善会禅师
 uhj 拴紧
 uhjbh 栓菌
 uhjdd 山河襟带
@@ -347382,8 +347016,6 @@ uiisvl 试充装
 uiisxf 食虫性
 uiiu 使出
 uiiuco 时出错
-uiiui 守初禅师
-uiiui 寿昌禅师
 uiiuk 事出
 uiiuk 师出
 uiiuk 试出
@@ -347528,7 +347160,6 @@ uijiib 史际春
 uijiic 世纪潮
 uijiig 试剂厂
 uijiiu 世纪初
-uijiiu 是基础
 uijiiz 世纪城
 uijiji 十几级
 uijiji 试剂级
@@ -347765,7 +347396,6 @@ uijmww 市建委
 uijmww 时间为
 uijmx 史尖
 uijmxf 实践性
-uijmxf 时间性
 uijmxm 时间线
 uijmy 尸谏
 uijmyh 事件源
@@ -352637,8 +352267,6 @@ ujiu 删除
 ujiubn 删除表
 ujiudn 删除掉
 ujiuhg 删除行
-ujiui 善静禅师
-ujiui 师戒禅师
 ujiujm 删除键
 ujiuk 扇出
 ujiuk 疝出
@@ -356208,6 +355836,7 @@ uldztr 双灯头
 ule 双耳
 uleen 双鹅
 uleij 事理二忏
+ulemh 施莱尔马赫
 uler 双耳
 ulerdc 双耳刀
 ulergo 双耳锅
@@ -356466,9 +356095,7 @@ ulisiz 双冲程
 ulismi 双虫脒
 ulisxf 双重性
 ulitf 十里长亭
-uliui 尸利禅师
 uliui 山溜穿石
-uliui 绍隆禅师
 uliuvr 双出轴
 ulivg 顺理成章
 ulivu 释莲池袾
@@ -357674,7 +357301,6 @@ unhil 十年寒窗
 unhuu 鼠年话鼠
 unhxt 商那和修
 uniih 鼠啮虫穿
-uniui 省念禅师
 unixk 十年窗下
 unjdo 阇那崛多
 unjln 十年九潦
@@ -361675,8 +361301,6 @@ uuiudh 输出端
 uuiudi 输出地
 uuiugo 输出国
 uuiugs 输出功
-uuiui 水盛禅师
-uuiui 谁是禅师
 uuiuig 输出场
 uuiujf 输出镜
 uuiuk 庶出
@@ -363997,12 +363621,6 @@ uvisji 水冲击
 uvisui 水冲式
 uvisye 水虫也
 uviu 谁出
-uviui 善昭禅师
-uviui 善珍禅师
-uviui 守卓禅师
-uviui 守智禅师
-uviui 守芝禅师
-uviui 恕中禅师
 uviui 慎终承始
 uviuli 水处理
 uvixf 山止川行
@@ -365471,8 +365089,6 @@ uwii 谁吃
 uwiiu 身无长处
 uwiu 谁出
 uwiui 事无常师
-uwiui 时蔚禅师
-uwiui 石屋禅师
 uwiuu 山无重数
 uwiwu 身无长物
 uwj 谁家
@@ -365717,8 +365333,6 @@ uxijt 示现成就
 uxilu 身先朝露
 uxilv 设心处虑
 uxiug 甚嚣尘上
-uxiui 善信禅师
-uxiui 神秀禅师
 uxiyh 受降城远
 uxiyj 孰先传焉
 uxjbf 身心交病
@@ -365921,8 +365535,6 @@ uyhyh 水野弘元
 uyibm 事有常变
 uyigv 食玉炊桂
 uyihv 水驿春回
-uyiui 世愚禅师
-uyiui 神晏禅师
 uyjbd 杀一儆百
 uyjbd 绳一戒百
 uyjdb 山崖尖盾
@@ -366696,7 +366308,6 @@ uzijt 盛产
 uzijtu 生产图
 uzijug 生产上
 uzijug 生产商
-uzijui 晟禅师
 uzijuv 生产税
 uzijve 生产者
 uzijvi 生产值
@@ -366722,7 +366333,6 @@ uzis 生虫
 uzist 盛宠
 uzisui 绳虫实
 uziu 胜出
-uziui 神赞禅师
 uziuj 圣锄
 uziuk 生出
 uziuk 升出
@@ -366739,8 +366349,8 @@ uziuug 牲畜商
 uziuxp 生出些
 uzivi 善自处置
 uziyu 十字成语
-uziz 声称
-uzizg 生成
+uziz 生成
+uzizh 声称
 uzizh 升程
 uzizhe 生成核
 uzizll 生成量
@@ -368248,7 +367858,6 @@ vaih 炸串
 vaiher 炸串儿
 vaij 蚱蝉
 vaikd 炸沉
-vaiui 志安禅师
 vaiuk 榨出
 vaiuk 炸出
 vaiuvi 榨出汁
@@ -369340,8 +368949,6 @@ vcir 找抽
 vcisgo 赵充国
 vcisyj 赵崇衍
 vciu 找出
-vciui 智策禅师
-vciui 智藏禅师
 vciuk 照出
 vciuld 找出来
 vciuld 照出来
@@ -370584,7 +370191,6 @@ vdicbk 摘抄本
 vdiks 纸带穿孔
 vdiqb 逐队成群
 vdiu 摘除
-vdiui 智度禅师
 vdiuk 摘出
 vdiuld 择出来
 vdiumw 摘除酶
@@ -372418,7 +372024,6 @@ vfigh 壮发冲冠
 vfigh 植发冲冠
 vfigh 植发穿冠
 vfiu 拽出
-vfiui 志逢禅师
 vfiuz 转凡成圣
 vfivr 蒸饭成粥
 vfj 拽进
@@ -373217,7 +372822,6 @@ vgisyi 张崇懿
 vgiu 长出
 vgiuc 掌厨
 vgiuge 张楚格
-vgiui 智广禅师
 vgiuld 长出来
 vgium 张楚
 vgiuts 张楚桐
@@ -375385,7 +374989,6 @@ vhilx 专窗
 vhis 专宠
 vhiu 转出
 vhiue 长虺成蛇
-vhiui 智晖禅师
 vhiuld 赚出来
 vhiuld 转出来
 vhiur 转储
@@ -377667,7 +377270,6 @@ viisui 直冲式
 viiu 指出
 viiuee 支出额
 viiufa 支出法
-viiui 智常禅师
 viiuj 智锄
 viiuk 只出
 viiuk 掷出
@@ -385116,7 +384718,6 @@ vqij 爪蟾
 vqilf 振裘持领
 vqiszi 抓虫子
 vqiu 抓出
-vqiui 昭庆禅师
 vqiuld 抓出来
 vqj 抓紧
 vqjfpx 抓精品
@@ -385641,7 +385242,6 @@ vrisvg 周崇涨
 vriu 周处
 vriufw 周楚霏
 vriufz 周楚峰
-vriui 湛然禅师
 vriumn 周处庙
 vriz 轴承
 vrizde 周承德
@@ -387478,7 +387078,6 @@ vsisxy 中冲穴
 vsiu 中出
 vsiugu 中储股
 vsiuhs 钟楚红
-vsiui 智嵩禅师
 vsiuig 种畜场
 vsiuqx 种畜禽
 vsiut 种畜
@@ -390475,9 +390074,6 @@ vuiscb 朱冲村
 vuiss 竹虫
 vuiu 住处
 vuiuc 主厨
-vuiui 智舜禅师
-vuiui 智诜禅师
-vuiui 甄叔禅师
 vuiuj 驻锄
 vuiuk 逐出
 vuiuk 煮出
@@ -392876,8 +392472,6 @@ vvislj 锥虫蓝
 vviss 锥虫
 vvits 政治传统
 vviu 追出
-vviui 正传禅师
-vviui 正璋禅师
 vviuk 缀出
 vviuld 追出来
 vvivg 茁壮成长
@@ -393288,7 +392882,6 @@ vwhbi 中外合璧
 vwhyi 执文害意
 vwifo 证悟成佛
 vwild 彰往察来
-vwiui 至温禅师
 vwjjx 知往鉴今
 vwkld 彰往考来
 vwkxf 证悟空性
@@ -393374,8 +392967,6 @@ vxhyi 知行合一
 vxidh 知息长短
 vxidj 忠心赤胆
 vxiiz 众心成城
-vxiui 志闲禅师
-vxiui 重显禅师
 vxiyi 正心诚意
 vxiyi 真心诚意
 vxjgu 证向今故
@@ -393552,8 +393143,6 @@ vyili 至于成立
 vyilx 众议成林
 vyirk 转眼成人
 vyiru 主忧臣辱
-vyiui 智岩禅师
-vyiui 正源禅师
 vyivu 馔玉炊珠
 vyixn 卓有成效
 vyixp 骤雨初歇
@@ -396061,7 +395650,6 @@ wahv 瓦灰
 wai 挖出
 waih 挖穿
 waiu 挖出
-waiui 无碍禅师
 waiuld 挖出来
 waiup 挖除
 waiz 挖成
@@ -396788,8 +396376,6 @@ wdikx 外尘
 wdiu 外出
 wdiubc 外出包
 wdiufu 外出服
-wdiui 惟迪禅师
-wdiui 无德禅师
 wdiuxy 外出学
 wdiz 外城
 wdizp 外乘
@@ -397508,7 +397094,6 @@ wffuk 五分法身
 wfgfu 枉费工夫
 wfhqn 误付洪乔
 wfhyu 碔砆混玉
-wfisi 万佛禅寺
 wfiue 枉费唇舌
 wfiuz 物腐虫生
 wfivi 望风承旨
@@ -400607,7 +400192,6 @@ whggc 五花官诰
 whgyy 问桓公曰
 whgzd 危乎高哉
 whiqm 为好成歉
-whiui 无幻禅师
 whjli 违害就利
 whjxl 王侯将相
 whjyy 文惠君曰
@@ -401226,8 +400810,6 @@ wjis 万重
 wjislg 万重浪
 wjisuj 万重山
 wjiu 碗橱
-wjiui 无尽禅师
-wjiui 无际禅师
 wjiuk 玩出
 wjiuld 玩出来
 wjiuuu 剜出术
@@ -402832,7 +402414,6 @@ wkis 蚊虫
 wkiscb 文冲村
 wkisjp 文冲街
 wkiu 问出
-wkiui 惟宽禅师
 wkiuk 闻出
 wkiz 文成
 wkizdi 文成帝
@@ -404011,7 +403592,6 @@ wmhxh 万马回旋
 wmhzd 吾麋何在
 wmidi 我们长地
 wmihd 为民除害
-wmiui 无明禅师
 wmizc 蛙鸣蝉噪
 wmjjf 维摩诘经
 wmjlm 物美价廉
@@ -405981,7 +405561,6 @@ wqhan 雾气海岸
 wqhan 雾气湖岸
 wqhge 无情画舸
 wqiqh 委曲成全
-wqiui 惟清禅师
 wqiyh 五气朝元
 wqjhv 文期酒会
 wqjui 偎乾就湿
@@ -406071,7 +405650,6 @@ wrhxi 委肉虎蹊
 wrifz 蔚然成风
 wriil 剜肉成疮
 wriui 万人传实
-wriui 万如禅师
 wrive 为人臣者
 wrjla 味如嚼蜡
 wrjlw 味如鸡肋
@@ -406176,7 +405754,6 @@ wshqm 握素怀铅
 wsibo 握粟出卜
 wsilf 王速出令
 wsimf 无所成名
-wsiui 文邃禅师
 wsjdj 无所忌惮
 wsjhg 外四加行
 wsjhv 无所忌讳
@@ -407667,8 +407244,6 @@ wuiu 无处
 wuiucd 吴楚材
 wuiudm 无触点
 wuiufj 吴楚帆
-wuiui 惟善禅师
-wuiui 惟胜禅师
 wuiuj 误触
 wuiuk 悟出
 wuiuk 舞出
@@ -411319,11 +410894,6 @@ wvhtf 往渚还汀
 wvhyr 为诸侯忧
 wvipm 望征唱片
 wvirj 望之畅然
-wviui 惟政禅师
-wviui 惟正禅师
-wviui 文准禅师
-wviui 无住禅师
-wviui 无准禅师
 wviyj 未之尝言
 wvjgg 无肢金刚
 wvjhg 无住加行
@@ -412606,8 +412176,6 @@ wwiudc 未出道
 wwiufa 味触法
 wwiugs 卫出公
 wwiui 文武差事
-wwiui 无闻禅师
-wwiui 物外禅师
 wwiuk 围出
 wwiuku 未出库
 wwiuld 未出来
@@ -415554,8 +415122,6 @@ wxhan 望乡海岸
 wxidj 卧薪尝胆
 wxiiu 文行出处
 wxiui 吴兴陈氏
-wxiui 悟新禅师
-wxiui 文喜禅师
 wxiuk 五相成身
 wxiuk 卧薪尝糁
 wxiyr 微显阐幽
@@ -415719,13 +415285,6 @@ wyima 乌焉成马
 wyimr 未雨绸缪
 wyiqb 武艺超群
 wyiqf 望影揣情
-wyiui 惟俨禅师
-wyiui 文偃禅师
-wyiui 文悦禅师
-wyiui 文益禅师
-wyiui 无业禅师
-wyiui 无异禅师
-wyiui 无殷禅师
 wyiyu 巫云楚雨
 wyjbx 我有嘉宾
 wyjih 望眼将穿
@@ -415945,7 +415504,6 @@ wzhug 苇宗和尚
 wzhyi 我则悍矣
 wzi 瓮城
 wzils 望子成龙
-wziui 惟则禅师
 wziuu 惟兹臣庶
 wziyu 五字成语
 wziz 瓮城
@@ -416793,7 +416351,6 @@ xcejx 循次而进
 xcgss 兴词构讼
 xcguo 虚词诡说
 xcigk 削草除根
-xciui 晓聪禅师
 xcjdi 心存芥蒂
 xcjuf 呷醋节帅
 xcjui 心存济世
@@ -416836,8 +416393,6 @@ xdgwk 犀顶龟文
 xdhih 薛道衡传
 xdhwk 先断后闻
 xdiru 小德出入
-xdiui 先睹禅师
-xdiui 行端禅师
 xdiuu 悬石程书
 xdjcd 悬灯结彩
 xdjig 小肚鸡肠
@@ -419190,7 +418745,6 @@ xgfzu 析圭分组
 xggdj 析肝刿胆
 xggmx 小国寡民
 xghsi 先公后私
-xgiui 雪光禅师
 xgjdi 寻根究底
 xgjlc 宵旰焦劳
 xgjmw 孝公既没
@@ -421555,7 +421109,6 @@ xiiim 西驰
 xiiimo 系翅膜
 xiiin 㶉𫛶
 xiij 析产
-xiijsi 西禅寺
 xiik 洗尘
 xiikcb 西陈村
 xiikd 西沉
@@ -424092,8 +423645,6 @@ xjhwj 相见恨晚
 xjhxi 小径红稀
 xjhyx 行经华阴
 xjigu 熊经鸱顾
-xjiui 休静禅师
-xjiui 宣鉴禅师
 xjixn 胁肩谄笑
 xjjdu 虚极静笃
 xjjiu 息迹静处
@@ -427051,6 +426602,7 @@ xljxbm 镶金边
 xljxcd 香堇菜
 xljxce 向近侧
 xljxdd 橡筋带
+xljxde 详尽地
 xljxjp 香锦街
 xljxl 想进
 xljxld 想进来
@@ -427636,8 +427188,8 @@ xlqmpc 向前跑
 xlqmpm 镶嵌片
 xlqmqu 向前去
 xlqmr 相欠
-xlqms 相嵌
 xlqms 镶嵌
+xlqms 相嵌
 xlqmtu 镶嵌图
 xlqmuu 香茜属
 xlqmve 镶嵌着
@@ -427910,8 +427462,8 @@ xltsd 杏脸桃腮
 xltsgo 想通过
 xltshd 湘通海
 xltsk 想同
-xltsl 想通
 xltsl 相通
+xltsl 想通
 xltsle 想通了
 xltspm 香通片
 xltsui 相同时
@@ -432751,7 +432303,6 @@ xniufa 消除法
 xniufg 小厨房
 xniugq 小畜卦
 xniuhq 笑出花
-xniui 小南禅师
 xniuji 消除剂
 xniuk 笑出
 xniuk 销出
@@ -437150,11 +436701,12 @@ xpysjn 鞋用胶
 xpysp 鞋用
 xpyss 谢永
 xpysxi 谢永熙
-xpyu 血雨
+xpyu 写于
 xpyub 血瘀
 xpyud 血淤
 xpyuda 谢裕大
 xpyugo 谢裕国
+xpyuh 血雨
 xpyuh 血玉
 xpyujp 谢宇杰
 xpyuju 写语句
@@ -437164,7 +436716,6 @@ xpyup 谐鱼
 xpyupg 斜玉旁
 xpyuq 泄欲
 xpyuqs 谢玉琼
-xpyuv 写于
 xpyuww 谢宇威
 xpyuxx 谢育新
 xpyuxx 谢雨欣
@@ -437260,7 +436811,6 @@ xqghr 想前顾后
 xqhjp 小桥横截
 xqhqh 下潜黄泉
 xqhqi 萧墙祸起
-xqiui 希迁禅师
 xqivi 心且成之
 xqiyy 寻求超越
 xqjhe 相去几何
@@ -437638,7 +437188,6 @@ xsijiu 雄蟾蜍
 xsikn 胸衬
 xsil 胸窗
 xsiss 雄虫
-xsiui 玄素禅师
 xsiui 相思除是
 xsiyh 雄宿朝垣
 xsizji 熊成基
@@ -438360,8 +437909,6 @@ xtijx 修忏
 xtijyb 袖缠云
 xtisjf 溴虫腈
 xtiu 嗅出
-xtiui 仙天禅师
-xtiui 雪庭禅师
 xtiuk 修出
 xtiuk 秀出
 xtixf 熏陶成性
@@ -440982,7 +440529,6 @@ xwhvs 秀外慧中
 xwhyi 心物合一
 xwifu 胸无城府
 xwiui 学无常师
-xwiui 行伟禅师
 xwiuk 行五出身
 xwivu 胸无成竹
 xwiyi 析微察异
@@ -441959,8 +441505,6 @@ xxiser 新宠儿
 xxiu 新出
 xxiubj 新出版
 xxiui 新硎初试
-xxiui 行修禅师
-xxiui 象先禅师
 xxiuld 新出来
 xxiulu 新出路
 xxiupx 新出品
@@ -444544,10 +444088,6 @@ xyish 胸有成算
 xyisu 习以成俗
 xyisu 相沿成俗
 xyiu 削除
-xyiui 希运禅师
-xyiui 笑岩禅师
-xyiui 行因禅师
-xyiui 雪岩禅师
 xyiup 学处
 xyivi 信以成之
 xyivi 先意承志
@@ -446205,10 +445745,6 @@ yailg 压床
 yais 蚜虫
 yaiss 牙虫
 yaiu 押出
-yaiui 元安禅师
-yaiui 应庵禅师
-yaiui 永安禅师
-yaiui 遇安禅师
 yaiuk 压出
 yaiuk 轧出
 yaiuqi 压出器
@@ -449151,9 +448687,6 @@ yciu 摇出
 yciufa 要出发
 yciug 以此处上
 yciuho 要出货
-yciui 义存禅师
-yciui 永慈禅师
-yciui 蕴聪禅师
 yciuid 要出差
 yciujk 要出嫁
 yciuk 舀出
@@ -450301,13 +449834,13 @@ ycyhd 药源
 ycyhjm 要原件
 ycyhl 要远
 ycyhxf 药源性
-ycyi 徭役
+ycyi 妖异
 ycyia 阳错阴差
 ycyia 阴错阳差
 ycyibw 要一杯
 ycyid 要义
+ycyif 徭役
 ycyige 要一个
-ycyih 妖异
 ycyijk 姚以价
 ycyijx 约一斤
 ycyikr 咬一口
@@ -450508,7 +450041,6 @@ ydhna 一地胡拿
 ydhvl 一代红妆
 ydhzi 焉得虎子
 ydiqt 月旦春秋
-ydiui 缘德禅师
 ydixy 饮胆尝血
 ydiyi 因德称义
 ydjbo 一代巨擘
@@ -453460,7 +452992,6 @@ yfiiv 鹰翅
 yfiji 忧愤成疾
 yfijn 移风崇教
 yfijt 营产
-yfijui 英禅师
 yfik 映衬
 yfikve 映衬着
 yfikxk 映衬下
@@ -453474,16 +453005,12 @@ yfir 应酬
 yfirfw 应酬费
 yfirhq 应酬话
 yfis 硬冲
-yfisi 云福禅寺
 yfiss 蝇虫
 yfisv 硬充
 yfitd 一反常态
 yfitm 一飞冲天
 yfiu 映出
 yfiui 一佛出世
-yfiui 云峰禅师
-yfiui 仪丰禅师
-yfiui 隐峰禅师
 yfiuk 迎出
 yfiyi 越凫楚乙
 yfiz 影城
@@ -455687,8 +455214,6 @@ ygisui 养虫室
 ygiswu 养宠物
 ygisxn 杨冲霄
 ygiu 养出
-ygiui 云谷禅师
-ygiui 元圭禅师
 ygiup 痒处
 ygiuru 羊初乳
 ygiut 养畜
@@ -458118,8 +457643,6 @@ yhiss 元崇
 yhiu 远处
 yhiua 猿鹤虫沙
 yhiue 养虺成蛇
-yhiui 一行禅师
-yhiui 义怀禅师
 yhiuk 愿出
 yhiuk 源出
 yhiuk 远出
@@ -461984,8 +461507,6 @@ yiiubu 已初步
 yiiufa 一出发
 yiiufj 已触犯
 yiiugs 逸出功
-yiiui 元长禅师
-yiiui 禺川禅师
 yiiuig 一出场
 yiiuj 一触
 yiiuju 已出具
@@ -464569,8 +464090,8 @@ yitsxm 依通县
 yitsxy 一同学
 yitsy 乙酮
 yitsyg 以同样
-yitu 意图
 yitu 亦
+yitu 意图
 yitubc 易涂宝
 yitubu 易涂布
 yitud 一涂
@@ -464786,6 +464307,7 @@ yiuiui 意式诗
 yiuiv 以示
 yiuive 遗失者
 yiuivs 仪式中
+yiuivs 意识中
 yiuiwj 一十万
 yiuiwj 壹拾万
 yiuiwu 一十五
@@ -464992,9 +464514,8 @@ yiuuvi 艺术纸
 yiuuvj 艺术展
 yiuuvs 一书中
 yiuuwg 艺术网
-yiuuxf 依数性
-yiuuxf 艺术型
 yiuuxf 艺术性
+yiuuxf 艺术型
 yiuuxi 艺术系
 yiuuxm 艺术线
 yiuuxy 艺术学
@@ -465761,9 +465282,9 @@ yiww 以为
 yiwwan 怡维安
 yiwwd 亦为
 yiwwd 已为
+yiwwd 译为
 yiwwd 意为
 yiwwd 疑为
-yiwwd 译为
 yiwwd 意出望外
 yiwwda 异味大
 yiwwgc 益胃膏
@@ -467649,10 +467170,6 @@ yjiudi 演出地
 yjiudv 演出队
 yjiufg 演出方
 yjiufu 演出服
-yjiui 元净禅师
-yjiui 印简禅师
-yjiui 圆觉禅师
-yjiui 月江禅师
 yjiuig 演出场
 yjiujl 演出奖
 yjiujp 演出节
@@ -470055,8 +469572,6 @@ ylidg 一力承当
 ylilf 玉露初零
 ylilu 阳梁昌禄
 yliqb 轶类超群
-yliui 元琏禅师
-yliui 月林禅师
 yliww 元龙臭味
 yljgq 因陋就寡
 yljgs 月林镜公
@@ -470309,7 +469824,6 @@ ymihv 幽梦初回
 ymijl 饮马长江
 ymijm 羊毛衬肩
 ymitm 仰面朝天
-ymiui 原妙禅师
 ymjdu 月迷津渡
 ymjjx 勇猛精进
 ymjlb 语妙绝伦
@@ -470490,8 +470004,6 @@ ynfyi 一年芳意
 ynhdi 一牛吼地
 ynhib 有女怀春
 ynhui 一年寒食
-ynisi 永宁禅寺
-yniui 永宁禅师
 ynixl 遇难成祥
 ynjbf 阴凝坚冰
 ynjfu 妖牛脚夫
@@ -470683,11 +470195,8 @@ yqhuz 逸趣横生
 yqhyh 月桥花院
 yqifw 衣轻乘肥
 yqili 延期处理
-yqisi 涌泉禅寺
 yqitg 燕雀处堂
 yqitm 怨气冲天
-yqiui 一清禅师
-yqiui 杨岐禅师
 yqiwk 有切尝闻
 yqiwu 燕雀处屋
 yqjij 一切皆禅
@@ -470705,7 +470214,6 @@ yqjye 与其进也
 yqjyi 一切即一
 yqkiu 诱秦诓楚
 yqkpx 逾墙窥蠙
-yqkxf 缘起空性
 yqkxi 逾墙窥隙
 yqkyf 益谦亏盈
 yqlbd 萦青缭白
@@ -472195,7 +471703,6 @@ yriiua 油翅鲨
 yriixu 有持续
 yrij 有产
 yrijpx 有产品
-yrijui 猷禅师
 yrijve 有产者
 yrikw 尤琛
 yrild 优创
@@ -475868,7 +475375,6 @@ ysild 勇创
 ysild 永创
 ysinj 一索成男
 ysiu 用处
-ysiui 印肃禅师
 ysiuk 涌出
 ysiuk 用出
 ysiuld 涌出来
@@ -476707,9 +476213,6 @@ ythuz 逸态横生
 ythve 与天和者
 ythyh 猿啼鹤怨
 ytifa 圆通忏法
-ytiui 云亭禅师
-ytiui 圆通禅师
-ytiui 悦堂禅师
 ytiuo 义堂昌硕
 ytixn 仰天长啸
 ytiyb 应天承运
@@ -477979,7 +477482,6 @@ yuisxl 雨冲乡
 yuisye 预充液
 yuiu 欲出
 yuiuc 御厨
-yuiui 延寿禅师
 yuiuk 语出
 yuiuli 预处理
 yuiup 寓处
@@ -481111,11 +480613,6 @@ yvili 言之成理
 yvimf 一战成名
 yvirj 犹之畅然
 yvitm 一柱承天
-yviui 圆智禅师
-yviui 圆照禅师
-yviui 幼璋禅师
-yviui 延沼禅师
-yviui 玉芝禅师
 yvive 由中出者
 yviyi 以铢称镒
 yvjdd 一真绝待
@@ -481403,7 +480900,6 @@ ywhyx 约为婚姻
 ywhzd 於我何哉
 ywiju 因为长句
 ywipf 遇物持平
-ywiui 圆悟禅师
 ywiuo 异闻传说
 ywiwk 偃武崇文
 ywiwu 一无长物
@@ -482338,11 +481834,6 @@ yxisww 茚虫威
 yxiu 引出
 yxiudh 引出端
 yxiudm 银触点
-yxiui 一心禅师
-yxiui 义玄禅师
-yxiui 元熙禅师
-yxiui 圆信禅师
-yxiui 遇贤禅师
 yxiuk 印出
 yxiuk 吟出
 yxiuld 印出来
@@ -485851,9 +485342,7 @@ yzhzd 遗踪何在
 yzhzsi 元亨寺
 yzhzxm 袁焕仙
 yziiz 一字长城
-yzijui 原禅师
 yzimk 也则愁闷
-yziui 圆泽禅师
 yziuu 雁足传书
 yziyr 养尊处优
 yzizsi 园城寺
@@ -486443,7 +485932,6 @@ zbirk 择不处仁
 zbis 尊崇
 zbist 尊宠
 zbitg 坐不垂堂
-zbiui 宗本禅师
 zbixi 坐不重席
 zbiz 尊称
 zbj 𨱔
@@ -488112,7 +487600,6 @@ zdiu 再出
 zdiufa 在出发
 zdiufg 在厨房
 zdiuge 再出个
-zdiui 祖灯禅师
 zdiui 造端倡始
 zdiuid 在出差
 zdiuk 载出
@@ -490253,7 +489740,6 @@ zgigpu 藏菖蒲
 zgih 藏传
 zgir 脏臭
 zgiui 子贡崇师
-zgiui 宗杲禅师
 zgj 藏军
 zgjb 藏军
 zgjf 臧晶
@@ -493390,7 +492876,6 @@ zlguz 自力更生
 zlgvi 子路共之
 zlhwj 葬礼护腕
 zlhzc 灾梨祸枣
-zliui 宗泐禅师
 zlixi 醉连春夕
 zljwk 赠刘景文
 zljyf 子路结缨
@@ -493438,9 +492923,6 @@ zmgyi 自牧归荑
 zmhrj 赠孟浩然
 zmhts 宗庙会同
 zmhwk 宗门或问
-zmiui 宗密禅师
-zmiui 宗鍪禅师
-zmiui 祖铭禅师
 zmixf 缁门崇行
 zmjxb 缁门警训
 zmkhq 走马看花
@@ -494844,7 +494326,6 @@ zqdqi 增强钝器
 zqgmk 贼去关门
 zqhyy 尊前花月
 zqijm 尊前重见
-zqiui 祖钦禅师
 zqjli 自取咎戾
 zqmhl 紫曲门荒
 zqmwg 自取灭亡
@@ -497730,7 +497211,6 @@ zvisgc 最崇高
 zviu 最初
 zviucd 最出彩
 zviuge 最出格
-zviui 宗智禅师
 zviumf 最出名
 zviuse 最出色
 zviutn 最出挑
@@ -498674,9 +498154,6 @@ zyhvi 则又坏之
 zyhvs 造谣惑众
 zyice 坐运筹策
 zyiju 躁言丑句
-zyiui 祖元禅师
-zyiui 自严禅师
-zyiui 自缘禅师
 zyiyf 早雁初莺
 zyjgo 造因结果
 zyjhv 遭遇际会
