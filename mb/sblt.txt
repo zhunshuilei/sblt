@@ -13158,6 +13158,7 @@ bflnk 不分老嫩
 bflozc 柄裸藻
 bflp 并列
 bflpju 并列句
+bflpxf 并列性
 bflpy 冰裂
 bflqi 白费力气
 bflqm 白发郎潜
@@ -15900,6 +15901,7 @@ biqunm 比去年
 biquv 逼取
 biquxm 闭曲线
 biquz 必趋
+biqww 不成其为
 biqx 吡嗪
 biqxjf 吡嗪肼
 biqydn 臂雀鲷
@@ -21283,6 +21285,7 @@ bmvya 半面之雅
 bmvyy 秉旄仗钺
 bmvz 辩证
 bmvzbm 边整边
+bmvzde 辩证地
 bmvzfa 辩证法
 bmvzlb 辩正论
 bmvzv 逋慢之罪
@@ -51348,6 +51351,7 @@ ddxmrs 戴宪荣
 ddxmuj 岱仙山
 ddxmvg 代县长
 ddxmw 带线
+ddxmw 代现
 ddxmww 带线鳚
 ddxn 代销
 ddxnbf 呆小病
@@ -60896,6 +60900,7 @@ djzijb 担子菌
 djziji 弹子机
 djzijp 单字节
 djzila 掸子蜡
+djzilb 单子论
 djzili 单子里
 djzimu 单字母
 djzin 丹姿
@@ -98389,6 +98394,7 @@ genft 格宁
 geng 革囊
 gengd 过而能改
 genisi 哥尼斯
+genisi 格尼斯
 genm 各年
 genmdu 各年度
 genmji 各年级
@@ -111006,12 +111012,12 @@ gsyry 功友
 gsyry 工友
 gsyryb 公有云
 gsyryu 公有域
-gsys 公用
+gsys 共用
 gsysdm 供用电
 gsyshu 供用户
 gsysju 公用局
-gsysp 共用
 gsysp 功用
+gsysp 公用
 gsysql 工用枪
 gsysti 共用体
 gsyswg 公用网
@@ -112206,6 +112212,7 @@ gulibo 孤立波
 gulici 孤立词
 gulid 孤立
 gulid 股利
+gulide 孤立地
 gulifw 鼓粒肥
 gulihq 孤立化
 guliji 古利吉
@@ -120418,6 +120425,7 @@ hebqh 怀恶不悛
 hebqh 怙恶不悛
 hebqh 讳恶不悛
 hebqt 护鹅比丘
+hebte 赫尔巴特
 hebts 和而不同
 hebts 好恶不同
 hebu 何不
@@ -128267,6 +128275,7 @@ hlkhu 画龙刻鹄
 hlkj 黄侃
 hlkjm 潢潦可荐
 hlkjr 皇侃
+hlklt 赫拉克利特
 hlkoyu 黄蛞蝓
 hlkryu 黄口魣
 hlks 惶恐
@@ -181931,6 +181940,7 @@ jnxibc 交细胞
 jnxibc 胶细胞
 jnxicb 蕉溪村
 jnxid 酵洗
+jnxig 教席
 jnxih 浇熄
 jnxih 较稀
 jnxij 焦锡
@@ -194519,8 +194529,8 @@ jywqt 集腋为裘
 jywqx 举眼无亲
 jywso 寄颜无所
 jywu 觉悟
-jywuh 决无
 jywuh 绝无
+jywuh 决无
 jywuk 觉吾
 jywuu 江云渭树
 jywuuu 觉悟树
@@ -216349,6 +216359,7 @@ lixl 理想
 lixlbi 理想币
 lixlbn 立项表
 lixld 李湘
+lixlde 理想地
 lixldm 理想点
 lixlfw 立项费
 lixlfz 李祥凤
@@ -219393,6 +219404,7 @@ llqn 梁桥
 llqnbd 梁翘柏
 llqqf 冷冷清清
 llqql 踉踉跄跄
+llqqu 来来去去
 llqqy 荦荦确确
 llqt 梁丘
 llqthe 梁丘贺
@@ -251476,9 +251488,8 @@ mwsk 梅森
 mwskm 美森
 mwsknd 美森耐
 mwskuu 梅森数
-mwso 没锁
-mwsoj 每所
-mwsoj 煤锁
+mwso 每所
+mwsoj 没锁
 mwsoka 美索卡
 mwsotb 梅所屯
 mwsrdc 没搜到
@@ -274007,6 +274018,7 @@ pubmdi 普遍低
 pubmgc 普遍高
 pubmhq 普遍化
 pubml 埔边
+pubmve 普遍者
 pubmvs 普遍种
 pubmxf 普遍性
 pubn 谱表
@@ -288072,6 +288084,7 @@ qmllmf 前两名
 qmllnm 前两年
 qmllt 浅亮
 qmlltm 前两天
+qmllve 前两者
 qmllvg 前两张
 qmllvr 前两周
 qmllye 前两页
@@ -289482,6 +289495,7 @@ qmzcq 前早
 qmzd 潜在
 qmzdc 千载
 qmzdc 钱载
+qmzdde 潜在地
 qmzdm 浅栽
 qmzdmw 潜在酶
 qmzdt 嵌在
@@ -301607,8 +301621,8 @@ rshqjp 榕华街
 rshqle 融化了
 rshqlu 熔化炉
 rshqqu 熔化区
-rshqr 溶化
 rshqr 熔化
+rshqr 溶化
 rshqre 熔化热
 rshqs 容华
 rshqs 荣华
@@ -334706,9 +334720,8 @@ tsviui 同志式
 tsviui 通知时
 tsviuo 通知说
 tsviuu 通知书
-tsvive 统治者
 tsvive 统治着
-tsvive 通知者
+tsvive 统治者
 tsviw 筒纸
 tsviw 铜纸
 tsviwo 通知我
@@ -347331,7 +347344,6 @@ uijmgh 时间观
 uijmgj 时间感
 uijmgr 室间沟
 uijmhd 时间海
-uijmhq 施剑华
 uijmhq 石碱花
 uijmhr 时间后
 uijmia 时间差
@@ -358329,8 +358341,8 @@ urd 首
 urda 手大
 urdaf 手打
 urdaji 受打击
-urdc 受到
-urdcd 收到
+urdc 收到
+urdcd 受到
 urdcd 守到
 urdcd 瘦到
 urdcfa 受到法
@@ -358343,7 +358355,6 @@ urdcjk 收到家
 urdckv 手岛葵
 urdckv 手嶌葵
 urdcl 首道
-urdcle 收到了
 urdcma 收到吗
 urdcqm 收到钱
 urdcrk 守岛人
@@ -361801,6 +361812,7 @@ uummm 树棉
 uummm 梳棉
 uummm 舒棉
 uummm 舒眠
+uummp 生生灭灭
 uummpm 舒眠片
 uummyu 书面语
 uumn 树苗
@@ -375410,8 +375422,8 @@ vhurt 专守
 vhurxf 转艏性
 vhurxf 转首性
 vhuu 专属
-vhuul 专述
 vhuul 撰述
+vhuul 专述
 vhuul 转述
 vhuule 转述了
 vhuup 转数
@@ -378308,8 +378320,8 @@ vinzre 只能惹
 vinzrg 只能让
 vinzsh 只能算
 vinzuo 只能说
-vinzv 智能
 vinzv 职能
+vinzv 智能
 vinzv 之能
 vinzv 知能
 vinzwg 智能网
@@ -379501,8 +379513,8 @@ viwuzc 植物皂
 viwvs 知臣为忠
 viww 只为
 viwwb 肢痿
-viwwd 之为
 viwwd 至为
+viwwd 之为
 viwwd 值为
 viwwd 指为
 viwwgh 知味观
@@ -391709,8 +391721,8 @@ vuwox 筑窝
 vuwoxl 朱倭乡
 vuwu 筑屋
 vuwubc 贮物胞
-vuwun 主物
 vuwun 煮物
+vuwun 主物
 vuwunz 猪悟能
 vuwuqh 主物权
 vuwus 主屋
@@ -397013,7 +397025,9 @@ wdzch 外燥
 wdzco 无地自厝
 wdzcuz 外噪声
 wdzd 外在
+wdzdhq 外在化
 wdzdmw 外在美
+wdzdxf 外在性
 wdzdyu 外在于
 wdzi 外资
 wdziee 外资额
@@ -412804,6 +412818,7 @@ wwliui 维立士
 wwliuo 微粒说
 wwliwu 微粒物
 wwlixb 伟利讯
+wwlixf 唯理性
 wwliyr 为理由
 wwliys 未利用
 wwliz 伟力
@@ -422709,19 +422724,14 @@ xiuvqi 吸水器
 xiuvs 习水
 xiuvs 嬉水
 xiuvs 戏水
-xiuvs 洗水
-xiuvs 浠水
 xiuvs 溪水
-xiuvs 稀水
 xiuvs 细水
-xiuvs 锡水
 xiuvts 洗水桶
 xiuvui 吸水势
 xiuvuz 吸水绳
 xiuvvi 吸水纸
 xiuvxf 吸水性
 xiuvxl 吸水箱
-xiuvxm 习水县
 xiuvxm 浠水县
 xiuvya 吸水压
 xiuwg 心驰神往
@@ -425046,13 +425056,13 @@ xkurh 夏熟
 xkurp 夏收
 xkurtm 夏寿田
 xkutm 心旷神恬
-xkuu 下属
+xkuu 下述
 xkuufg 夏树芳
 xkuug 下戍
 xkuuh 夏熟
-xkuul 下述
 xkuum 下树
 xkuum 夏树
+xkuus 下属
 xkuuuk 夏书绅
 xkuuz 下书
 xkuv 下水
@@ -425392,7 +425402,7 @@ xkyhjm 下原尖
 xkyhjp 下元节
 xkyhk 霞园
 xkyhw 下缘
-xkyi 侠义
+xkyi 下一
 xkyibi 下一笔
 xkyibu 下一步
 xkyicc 虾衣草
@@ -425401,11 +425411,11 @@ xkyicz 下一层
 xkyid 狭义
 xkyid 下溢
 xkyid 夏衣
+xkyid 侠义
 xkyidd 下一代
 xkyidg 下一档
 xkyidm 下一点
 xkyige 下一个
-xkyih 下一
 xkyih 下移
 xkyihq 虾衣花
 xkyihv 下一回
@@ -428100,6 +428110,7 @@ xlyez 想也
 xlyf 相应
 xlyfb 想赢
 xlyfbn 响应表
+xlyfde 相应地
 xlyfdu 响应度
 xlyffa 相应法
 xlyfg 响应
@@ -430272,6 +430283,7 @@ xmvhye 限专业
 xmvi 限制
 xmvibj 限制版
 xmvici 限制词
+xmvid 宪制
 xmvid 仙治
 xmvid 县治
 xmvid 鲜汁
@@ -432534,8 +432546,8 @@ xnjpfa 消解法
 xnjpgh 消解罐
 xnjph 小节
 xnjphc 小节号
-xnjpj 小解
 xnjpj 消解
+xnjpj 小解
 xnjpjp 小姐姐
 xnjpjp 小结节
 xnjpl 小劫
@@ -461501,7 +461513,7 @@ yiiss 螠虫
 yiisu 鱼传尺素
 yiisu 鱼肠尺素
 yiisvi 已重置
-yiiu 溢出
+yiiu 移除
 yiiubj 已出版
 yiiubu 已初步
 yiiufa 一出发
@@ -461517,6 +461529,7 @@ yiiuk 弈出
 yiiuk 移出
 yiiuk 译出
 yiiuk 逸出
+yiiuk 溢出
 yiiukr 一出口
 yiiukr 以出口
 yiiuku 已出库
@@ -461530,7 +461543,6 @@ yiiumk 一出门
 yiiumk 衣橱门
 yiiup 益处
 yiiup 一处
-yiiup 移除
 yiiuqu 一出去
 yiiuqu 溢出区
 yiiuqu 移出去
@@ -464090,8 +464102,8 @@ yitsxm 依通县
 yitsxy 一同学
 yitsy 乙酮
 yitsyg 以同样
-yitu 亦
 yitu 意图
+yitu 亦
 yitubc 易涂宝
 yitubu 易涂布
 yitud 一涂
@@ -464503,7 +464515,6 @@ yiuut 义塾
 yiuutf 艺术厅
 yiuuth 艺术团
 yiuuu 异鼠
-yiuuui 异熟识
 yiuuui 艺术史
 yiuuuu 一束束
 yiuuuz 异熟生
@@ -464682,8 +464693,8 @@ yivhuk 一转身
 yivhur 一转手
 yivhye 以专业
 yivhyj 一转眼
-yivi 一直
 yivi 翼
+yivi 一直
 yivian 一直按
 yivib 异质
 yiviba 一直把
@@ -464754,6 +464765,7 @@ yivik 已知
 yivika 一直卡
 yivikh 一指宽
 yiviku 一直苦
+yivilb 意志论
 yivild 一之濑
 yivile 一致了
 yivile 抑制了
@@ -465311,8 +465323,8 @@ yiwwo 运筹帷幄
 yiwwqb 一维群
 yiwwqi 以为期
 yiwwqi 移位器
-yiwwr 依偎
 yiwwr 一位
+yiwwr 依偎
 yiwwr 异位
 yiwwr 易位
 yiwwr 移位
@@ -466630,8 +466642,8 @@ yjdsds 严冬冬
 yjdsmd 眼动脉
 yjdsxl 岩东乡
 yjdtr 冤家对头
-yjdu 沿
 yjdu 研读
+yjdu 沿
 yjdud 盐渎
 yjdug 盐度
 yjduhe 严独鹤
@@ -471833,8 +471845,8 @@ yrjihc 有记号
 yrjihe 有机盒
 yrjihe 酉几何
 yrjihf 有几坏
-yrjihq 有机化
 yrjihq 有计划
+yrjihq 有机化
 yrjihv 有机会
 yrjihv 邮寄回
 yrjiia 有机茶
@@ -475334,6 +475346,7 @@ yshvaa 用汇额
 yshvc 永辉
 yshvic 永辉超
 yshz 永恒
+yshzde 永恒地
 yshzve 永恒者
 yshzxf 永恒性
 yshzzu 永恒族
@@ -495499,6 +495512,7 @@ zsmxp 宗敏
 zsn 总能
 zsnjmm 总难免
 zsnjs 棕南
+zsnm 总念
 zsnmm 在所难免
 zsnpuu 总蘖数
 zsnwcb 总内存
@@ -497226,6 +497240,7 @@ zvjfxi 最惊喜
 zvjfxi 最精细
 zvji 最挤
 zvjibk 最基本
+zvjidh 最极端
 zvjihv 最忌讳
 zvjiii 醉鸡翅
 zvjimp 最寂灭
@@ -497429,6 +497444,7 @@ zvnp 罪孽
 zvns 最浓
 zvnt 最牛
 zvnwbu 最内部
+zvnwzd 最内在
 zvnz 最能
 zvnzgr 最能够
 zvp 最怕
@@ -497582,6 +497598,7 @@ zvuiq 最是
 zvuiug 最时尚
 zvuiyi 最适宜
 zvuiys 最实用
+zvuizd 最实在
 zvuj 最善
 zvujig 最擅长
 zvujll 最善良
