@@ -845,6 +845,7 @@ adhuc 暗滴花梢
 adhxl 暗淡幻象
 adicg 暗度陈仓
 adjvk 暗度金针
+adksi 阿迪克斯
 adlde 阿德拉德
 adlgo 案达罗国
 adlxf 案牍劳形
@@ -2317,7 +2318,6 @@ albjm 哀梨并剪
 alcyg 爱礼存羊
 alcyr 爱老慈幼
 aldzb 鳌里夺尊
-alfui 安廪法师
 algna 爱留根纳
 alhuc 安老怀少
 alhyh 安乐行院
@@ -2911,7 +2911,6 @@ anjit 岸基
 anjit 氨基
 anjit 胺基
 anjit 铵基
-anjit 鞍基
 anjitg 氨基糖
 anjits 氨基酮
 anjiuu 暗计数
@@ -7472,6 +7471,7 @@ bcernd 包二奶
 bcernf 保儿宁
 bcerp 鸨儿
 bcersk 鲍尔森
+bcersk 保尔森
 bcerx 保尔
 bcerx 宝尔
 bcerx 鲍尔
@@ -7515,8 +7515,6 @@ bcfor 报佛
 bcfu 报复
 bcfub 抱负
 bcfudm 包覆垫
-bcfui 必才法师
-bcfui 辩才法师
 bcfuij 刨腹产
 bcfuir 报父仇
 bcfuji 包覆机
@@ -10183,7 +10181,6 @@ bdfug 白府
 bdfugj 百扶苷
 bdfui 捭
 bdfui 不得复使
-bdfui 本道法师
 bdfuih 百芙川
 bdfulb 百芙伦
 bdfule 拜复乐
@@ -14001,7 +13998,6 @@ bgfo 搒
 bgfor 傍佛
 bgfu 帮扶
 bgfui 卑宫菲食
-bgfui 本光法师
 bgfur 帮付
 bgfuw 绑缚
 bgfw 绑匪
@@ -14531,8 +14527,6 @@ bhepn 不寒而慓
 bhesj 不欢而散
 bhflm 并会赋敛
 bhfmf 白黑分明
-bhfui 本慧法师
-bhfui 本焕法师
 bhfuk 变化法身
 bhfvg 庇护法杖
 bhfyg 跋扈飞扬
@@ -16168,6 +16162,7 @@ biuiji 铋试剂
 biuil 比适
 biuil 笔势
 biuilm 闭式链
+biuina 毕施纳
 biuini 鄙视你
 biuipi 彼氏魮
 biuiq 彼时
@@ -17167,8 +17162,6 @@ bjfubf 斑腐病
 bjfud 半浮
 bjfud 班副
 bjfude 班福德
-bjfui 本寂法师
-bjfui 本际法师
 bjfuj 板斧
 bjful 饱经风霜
 bjfuv 班服
@@ -19680,7 +19673,6 @@ blfmk 别类分门
 blfmz 鄙吝复萌
 blftr 不劣方头
 blftu 波罗浮屠
-blfui 宝亮法师
 blful 饱历风霜
 blfuu 不良法术
 blfvi 拨乱反治
@@ -21773,7 +21765,6 @@ bnfsi 卜尼法斯
 bnfta 博那佛塔
 bnfu 飑
 bnfubf 表腐病
-bnfui 遍能法师
 bnfuvi 表复制
 bnfw 膘肥
 bnfz 飙风
@@ -25541,7 +25532,6 @@ bufufj 不复返
 bufufk 不浮粉
 bufuhe 不符合
 bufuhv 不复回
-bufui 白圣法师
 bufuj 步幅
 bufujm 不复见
 bufuk 不识法身
@@ -27391,6 +27381,7 @@ bunztv 不能退
 bunzu 不涉你足
 bunzuc 不能少
 bunzui 不能使
+bunzui 不能是
 bunzuj 不能删
 bunzuo 不能说
 bunzur 不能收
@@ -30508,7 +30499,6 @@ bwfte 百万伏特
 bwfu 背负
 bwfubf 北府兵
 bwfue 背夫
-bwfui 本无法师
 bwfuig 被服厂
 bwfuji 贝复济
 bwfujk 被附加
@@ -31495,6 +31485,7 @@ bwnhdc 被暖到
 bwnhr 不为牛后
 bwni 被你
 bwnier 贝尼尔
+bwnike 贝尼克
 bwnil 悖逆
 bwnimk 被你们
 bwnivz 被逆转
@@ -32719,7 +32710,6 @@ bxfklu 缤纷路
 bxfkxs 缤纷熊
 bxfrk 婢学夫人
 bxfu 宾服
-bxfui 保贤法师
 bxgbk 不惜工本
 bxgdc 兵行诡道
 bxge 宾格
@@ -33103,8 +33093,6 @@ byfig 别有肺肠
 byfqu 别有风趣
 byfrk 布衣赴任
 byfui 不要拂拭
-byfui 宝印法师
-byfui 本圆法师
 byfuk 百艺防身
 byfuo 不由分说
 byfvi 别有风致
@@ -33451,7 +33439,6 @@ bzfg 泵房
 bzfik 奔走风尘
 bzfrk 婢作夫人
 bzfu 崩服
-bzfui 斌宗法师
 bzfw 迸飞
 bzfwd 崩沸
 bzfyf 奔走逢迎
@@ -33719,7 +33706,6 @@ cadn 擦掉
 caf 擦粉
 cafgud 擦防晒
 cafk 擦粉
-cafui 草庵法师
 cag 擦干
 cagj 擦干
 cagjjf 擦干净
@@ -34211,8 +34197,8 @@ cbz 存在
 cbzd 存在
 cbzdbn 存在表
 cbzdjk 存在家
-cbzdve 存在着
 cbzdve 存在者
+cbzdve 存在着
 cbzdwu 存在物
 cbzdxf 存在性
 cbzdyu 存在于
@@ -34359,6 +34345,7 @@ cceebw 曹娥碑
 cceejl 曹娥江
 ccenqi 曹恩齐
 ccer 草儿
+ccerbo 曹尔博
 ccerp 槽儿
 ccerx 草尔
 ccf 操
@@ -37771,7 +37758,6 @@ chffu 苍黄反复
 chfg 窜访
 chfj 窜犯
 chfu 攒
-chfui 慈航法师
 chfzd 惨祸飞灾
 chg 篡改
 chgd 篡改
@@ -41228,7 +41214,6 @@ cufk 粗粉
 cufkji 粗粉剂
 cufkm 醋粉
 cufu 粗浮
-cufui 从谂法师
 cufvu 彩绳芳柱
 cufw 粗肥
 cufwgk 粗榧根
@@ -41774,7 +41759,6 @@ cvdpc 翠蝶
 cvdrfu 脆豆腐
 cvds 催动
 cvdug 脆度
-cvdui 慈舟大师
 cvdum 崔杜
 cvdum 崔毒
 cvdye 粗枝大叶
@@ -41790,7 +41774,6 @@ cvfaig 崔发昌
 cvfjgv 崔杋圭
 cvfk 翠芬
 cvfo 崔佛
-cvfui 慈舟法师
 cvfujb 崔府君
 cvfur 催伏
 cvfur 摧伏
@@ -42344,7 +42327,6 @@ cxbmw 寸心不昧
 cxcry 曾西蹴然曰
 cxdmc 材雄德茂
 cxdqi 粗心大气
-cxdui 曹溪大师
 cxdyi 粗心大意
 cxdyy 藏小大有宜
 cxflw 翠绡封泪
@@ -42443,7 +42425,6 @@ cyeui 粗衣恶食
 cyevs 从一而终
 cyfcs 草偃风从
 cyfji 苍蝇附骥
-cyfui 从悦法师
 cyfxf 草偃风行
 cygby 此有故彼有
 cyggb 财源滚滚
@@ -43590,7 +43571,6 @@ dadug 大度
 daduhe 大渡河
 daduhj 大肚汉
 daduhv 大都会
-dadui 道安大师
 dadujh 大杜鹃
 dadukr 大渡口
 dadulu 打嘟噜
@@ -43767,7 +43747,6 @@ dafugo 大福果
 dafugu 大腹贾
 dafuhc 大富豪
 dafuhr 答复后
-dafui 道安法师
 dafuj 大幅
 dafuj 大斧
 dafukg 大扶康
@@ -48005,9 +47984,6 @@ dbfjy 盾反
 dbfqm 道被飞潜
 dbfu 蹲伏
 dbfufw 钝腹鲱
-dbfui 大悲法师
-dbfui 道昺法师
-dbfui 道标法师
 dbfuj 钝斧
 dbfuji 顿服剂
 dbfuv 顿服
@@ -48374,6 +48350,7 @@ dbxn 顿消
 dbxp 顿歇
 dbxpc 东奔西跑
 dbxtc 东奔西逃
+dbxts 大不相同
 dbxuz 刀笔先生
 dbxve 德不形者
 dbxvl 东奔西撞
@@ -48508,8 +48485,8 @@ dcbude 到不得
 dcbude 道不得
 dcbuhv 倒不会
 dcbuiu 倒不出
-dcbuiu 导不出
 dcbuiu 道不出
+dcbuiu 导不出
 dcbuln 到不了
 dcbuln 导不了
 dcbumf 道不明
@@ -50385,7 +50362,6 @@ ddfu 大夫
 ddfue 戴夫
 ddfugu 戴复古
 ddfuhc 带符号
-ddfui 大达法师
 ddfukh 代付款
 ddfuln 殆复廖
 ddfup 代父
@@ -51254,8 +51230,8 @@ ddwbo 地大物博
 ddwd 带歪
 ddwdle 带歪了
 ddwfu 地大物阜
-ddwg 大王
-ddwgf 带往
+ddwg 带往
+ddwgh 大王
 ddwguu 戴望舒
 ddwgvj 代网站
 ddwgw 呆望
@@ -52458,12 +52434,12 @@ dfdjww 订单为
 dfdlg 大风大浪
 dfdlh 倒凤颠鸾
 dfdlu 大俸大禄
-dfdm 定点
+dfdm 顶点
 dfdmer 丁点儿
 dfdmfa 定点法
 dfdmg 丁店
-dfdmh 顶点
 dfdmh 丁点
+dfdmh 定点
 dfdmig 定点厂
 dfdmji 顶点集
 dfdmuu 定点数
@@ -53926,7 +53902,6 @@ dgfpf 断梗浮萍
 dgfpz 断梗飞蓬
 dgfr 当否
 dgfu 荡妇
-dgfui 德光法师
 dgfuqx 当父亲
 dgfw 党费
 dgfwv 凼肥
@@ -54697,8 +54672,6 @@ dhfkxi 段分析
 dhftg 蹈火赴汤
 dhfugd 段覆盖
 dhfuh 端甫
-dhfui 度寰法师
-dhfui 道恒法师
 dhfujf 短匐茎
 dhfujp 端跗节
 dhfupm 端腹片
@@ -55963,7 +55936,6 @@ didsyi 地动仪
 didu 低度
 didu 涤
 didug 滴度
-didui 道绰大师
 didujt 低度酒
 didum 低毒
 didup 帝都
@@ -56172,9 +56144,6 @@ difu 地府
 difubf 蒂腐病
 difud 低副
 difue 迪夫
-difui 东初法师
-difui 道成法师
-difui 道绰法师
 difuj 地幅
 difuld 蒂芙莱
 difumi 地氟醚
@@ -60905,8 +60874,8 @@ djziui 弹子石
 djziw 淡紫
 djzixn 胆子小
 djziye 单子叶
-djziz 单字
 djziz 单子
+djziz 单字
 djziz 担子
 djziz 掸子
 djzju 待机再举
@@ -60949,7 +60918,6 @@ dkdyi 大快朵颐
 dkeiu 夺眶而出
 dkeui 多口阿师
 dkfe 扽
-dkfui 道楷法师
 dkgdr 大开狗窦
 dkgzu 杜口裹足
 dkhhc 对客挥毫
@@ -66281,8 +66249,6 @@ drfugo 豆腐锅
 drfugz 豆腐羹
 drfuhe 豆腐盒
 drfuhq 豆腐花
-drfui 定然法师
-drfui 德融法师
 drfuid 豆腐柴
 drfuji 豆腐机
 drfujl 豆腐浆
@@ -69508,7 +69474,6 @@ dududu 嘟嘟嘟
 dudufu 都督府
 dudug 杜度
 dudui 当世得失
-dudui 道生大师
 duduie 嘟嘟车
 dudulm 嘟嘟莲
 dudum 都督
@@ -69563,10 +69528,6 @@ dufue 独夫
 dufue 杜夫
 dufuf 督抚
 dufug 督府
-dufui 大山法师
-dufui 德韶法师
-dufui 杜顺法师
-dufui 道生法师
 dufuj 独幅
 dufujk 杜富佳
 dufulx 毒氟磷
@@ -71973,7 +71934,6 @@ dwdyi 多闻第一
 dwe 嘚儿
 dwer 嘚儿
 dwfmf 敌我分明
-dwfui 道悟法师
 dwfwig 得非常
 dwg 得够
 dwgjxp 得感谢
@@ -72160,11 +72120,6 @@ dxeyi 度形而衣
 dxfji 倒心伏计
 dxftc 断袖分桃
 dxfts 大小粪桶
-dxfui 倓虚法师
-dxfui 大兴法师
-dxfui 大醒法师
-dxfui 定西法师
-dxfui 道信法师
 dxfve 蹈袭覆辙
 dxfvz 断线风筝
 dxfww 杜隙防微
@@ -72391,7 +72346,6 @@ dydlf 打牙打令
 dydlx 对语东邻
 dydnj 多易多难
 dydug 颠衣到裳
-dydui 钓鱼大师
 dydyu 多言多语
 dydzv 打牙逗嘴
 dyepu 德洋恩普
@@ -72399,11 +72353,6 @@ dyfci 等因奉此
 dyfiz 多言繁称
 dyflb 大雅扶轮
 dyfpc 冬夜法袍
-dyfui 大佑法师
-dyfui 大勇法师
-dyfui 大愚法师
-dyfui 道源法师
-dyfui 道膺法师
 dyfxf 大雁飞行
 dyfxu 东月废墟
 dyfzo 大言弗怍
@@ -73807,6 +73756,7 @@ eedfy 额顶
 eedj 鹅蛋
 eedjlm 鹅蛋脸
 eedjv 鹅胆
+eedmj 厄尔德曼
 eedn 恶调
 eedo 讹夺
 eedp 俄爹
@@ -76814,8 +76764,8 @@ fadjb 发单
 fadjg 发弹
 fadk 发嗲
 fadm 发电
-fadmb 发癫
 fadmb 法典
+fadmb 发癫
 fadmbc 发电报
 fadmbj 发电板
 fadmer 发点儿
@@ -78372,8 +78322,6 @@ fcblh 方寸不乱
 fcblu 方骖并路
 fcbse 芳草碧色
 fcdmk 伏藏大门
-fcdui 伏蔵大师
-fcdui 伏藏大师
 fcehe 肤寸而合
 fcfzv 奉辞伐罪
 fcgxy 菲才寡学
@@ -78557,7 +78505,6 @@ ffdyc 风飞电耀
 ffetj 泛泛而谈
 ffffu 反反复复
 fffmu 夫妇反目
-fffui 法舫法师
 fffyu 芬芳馥郁
 ffhho 风风火火
 ffhjy 奋飞横绝
@@ -80376,6 +80323,7 @@ fgvusb 方竹笋
 fgvuui 方柱石
 fgvuuu 放逐术
 fgvuuu 方竹属
+fgvuve 放逐者
 fgvuvg 方竹杖
 fgvuvk 放珠镇
 fgvuw 仿珠
@@ -80878,7 +80826,6 @@ fhemn 法华二妙
 fhemo 封胡遏末
 fhemu 发皇耳目
 fhflt 分花拂柳
-fhfui 方会法师
 fhfzi 反害夫子
 fhgda 发挥光大
 fhgqu 负壶灌区
@@ -81017,7 +80964,6 @@ fidyu 非崇德与
 fiesu 风尘恶俗
 fiffw 反唇腹非
 fifsv 夫唱妇随
-fifui 法宠法师
 figmu 逢场竿木
 figye 夫吹管也
 fihle 非查获了
@@ -83375,7 +83321,6 @@ fkfkx 愤愤
 fkfkxy 纷纷学
 fkfu 吩咐
 fkfubf 粉腐病
-fkfui 筏可法师
 fkfuj 分幅
 fkfuz 分赴
 fkfw 纷飞
@@ -84609,7 +84554,6 @@ fldig 飞流短长
 fldlx 弗里德里希
 fldmm 腹里地面
 fldsi 弗兰德斯
-fldui 法琳大师
 fldyi 繁礼多仪
 flejf 方里而井
 flelp 焚林而猎
@@ -84744,6 +84688,7 @@ flxvi 扶老挟稚
 flxyr 扶老携幼
 flybn 分路扬镳
 flycb 风流犹存
+flyde 弗洛伊德
 flydg 风流逸宕
 flydh 法轮应端
 flygh 方领圆冠
@@ -84955,6 +84900,7 @@ fofacg 佛法藏
 fofasz 佛法僧
 fofusg 佛扶桑
 fog 佛国
+fogete 佛格特
 fogg 佛冈
 foggxm 佛冈县
 fogl 佛光
@@ -85308,11 +85254,9 @@ frdfxf 否定性
 frdhd 福如东海
 frdjt 肥肉大酒
 frdlo 弗若多罗
-frdui 法融大师
 freci 泛然而辞
 frefj 废然而返
 frfql 繁荣富强
-frfui 复仁法师
 frfxm 赴任访贤
 frfyy 非日非月
 frghv 翻然改悔
@@ -86030,7 +85974,6 @@ fududa 幅度大
 fududa 幅度达
 fudug 幅度
 fudui 法身大士
-fudui 法顺大师
 fuduji 复读机
 fuduji 复读鸡
 fudum 服毒
@@ -86167,7 +86110,6 @@ fufub 法师法顺
 fufuf 扶扶
 fufuf 拂拂
 fufug 法师法上
-fufui 福善法师
 fufuib 妇复春
 fufujk 夫妇家
 fufukg 妇肤康
@@ -89233,6 +89175,7 @@ fuxfq 福星
 fuxfqi 服刑期
 fuxfqi 负性期
 fuxfqu 复兴区
+fuxft 赋型
 fuxfue 复兴社
 fuxfve 复兴者
 fuxfve 服刑者
@@ -89983,7 +89926,6 @@ fvcww 蜂针刺猬
 fvdlt 付之东流
 fvdlt 付诸东流
 fvdmu 夫折大木
-fvdui 法智大师
 fvdwd 付之度外
 fvdwd 付诸度外
 fvdxn 抚掌大笑
@@ -89991,8 +89933,6 @@ fvdye 非知得也
 fvfhd 筏舟烦海
 fvfhg 分知分行
 fvfjk 泛宅浮家
-fvfui 佛智法师
-fvfui 法照法师
 fvgbi 富郑公弼
 fvggg 凤振高冈
 fvgig 扶植纲常
@@ -91708,6 +91648,7 @@ fwyets 废液桶
 fwyeui 非也是
 fwyez 非也
 fwyf 飞鹰
+fwyfge 费英格
 fwyfhq 非硬化
 fwyfli 非营利
 fwyfsi 飞影思
@@ -91911,7 +91852,6 @@ fxdli 焚香顶礼
 fxdls 翻箱倒笼
 fxdqp 翻箱倒箧
 fxdui 傅翕大士
-fxdui 法显大师
 fxduu 分宵达曙
 fxdyb 风挟断云
 fxegv 拂袖而归
@@ -92106,9 +92046,6 @@ fyfks 非有非空
 fyflf 黼衣方领
 fyfmo 非言非默
 fyfmu 佛眼佛母
-fyfui 佛莹法师
-fyfui 法云法师
-fyfui 法远法师
 fyfuz 吠影吠声
 fyfuz 附影附声
 fyfxx 佛眼佛心
@@ -92483,8 +92420,8 @@ fzcshu 风从虎
 fzcu 蜂
 fzcvhq 冯翠桦
 fzd 奉
-fzda 风大
 fzda 冯
+fzda 风大
 fzdabn 冯大彪
 fzdagg 冯大刚
 fzdaqh 冯大荃
@@ -92570,7 +92507,6 @@ fzducb 丰都村
 fzdug 丰度
 fzdug 峰度
 fzdui 富则多事
-fzdui 法藏大师
 fzduiz 丰都城
 fzduiz 酆都城
 fzdum 蜂毒
@@ -92618,7 +92554,6 @@ fzfu 丰富
 fzfuai 枫芙爱
 fzfucb 丰富村
 fzfug 风府
-fzfui 法尊法师
 fzfule 丰富了
 fzfup 奉复
 fzfuxf 丰富性
@@ -93526,6 +93461,7 @@ fztdvd 缝太窄
 fztdx 峰态
 fztdxl 凤台乡
 fztdxm 凤台县
+fzte 冯特
 fztemx 冯特民
 fztf 封停
 fztff 丰挺
@@ -94424,7 +94360,6 @@ gbflb 根本法轮
 gbfnc 根本烦恼
 gbfqt 供不敷求
 gbfu 衮服
-gbfui 观本法师
 gbfw 滚沸
 gbfwv 滚肥
 gbfxx 敢布腹心
@@ -97150,6 +97085,7 @@ gdris 该日
 gdrivi 该日志
 gdrjlb 盖然论
 gdrjxf 概然性
+gdrjxf 盖然性
 gdrk 改任
 gdrke 高德瑞克
 gdrkp 该人
@@ -97829,6 +97765,7 @@ gegk 葛根
 gegkfk 葛根粉
 gegkmn 葛根庙
 gegksu 葛根素
+gegktf 哥根廷
 gegktg 葛根汤
 gegldz 镉光灯
 geglv 割光
@@ -100632,7 +100569,6 @@ ghfor 观佛
 ghfu 官府
 ghfubf 冠腐病
 ghfue 鳏夫
-ghfui 广化法师
 ghfuj 关斧
 ghfut 官符
 ghfuv 关服
@@ -101988,7 +101924,6 @@ gidru 鬼出电入
 gifju 功成弗居
 gifrk 观察法忍
 gifue 膏唇贩舌
-gifui 桂琛法师
 gifuu 孤雏腐鼠
 gigku 功成骨枯
 gigpi 孤俦寡匹
@@ -103964,7 +103899,6 @@ gkfay 根发
 gkfbg 公开诽谤
 gkfkjp 根粉蚧
 gkfubf 根腐病
-gkfui 观空法师
 gkfumj 根腐瞒
 gkfumu 跟父母
 gkfun 根福
@@ -104025,6 +103959,7 @@ gkji 根基
 gkjip 根际
 gkjiuz 根寄生
 gkjive 跟记者
+gkjiyu 根基于
 gkjk 跟家
 gkjkfg 跟甲方
 gkjm 跟腱
@@ -104499,7 +104434,6 @@ gldsyu 广东语
 gldu 广度
 gldufa 光度法
 gldug 光度
-gldui 广陵大师
 glduji 光度级
 glduji 光度计
 gldull 光度量
@@ -107680,8 +107614,6 @@ gqfkji 刮粪机
 gqfmu 攻其父母
 gqfu 寡妇
 gqfucb 寡妇村
-gqfui 广洽法师
-gqfui 广钦法师
 gqfuj 挂幅
 gqfvk 归全反真
 gqfvz 官清法正
@@ -108320,7 +108252,6 @@ grfkll 够分量
 grfksi 狗粉丝
 grfli 骨肉分离
 grfubf 沟腐病
-grfui 广仁法师
 grfw 狗吠
 grfwqz 狗非犬
 grfwuz 狗吠声
@@ -111189,12 +111120,10 @@ gtdlb 高谈大论
 gtdli 孤特独立
 gtdma 高头大马
 gtdua 高堂大厦
-gtdui 贡唐大师
 gtdvs 广庭大众
 gtdxp 高亭大榭
 gtfhh 故态复还
 gtfmz 故态复萌
-gtfui 根通法师
 gtfuu 孤豚腐鼠
 gtfxp 古台芳榭
 gtfzo 故态复作
@@ -113540,7 +113469,6 @@ gvdsdm 桂东电
 gvdsxm 桂东县
 gvdtf 广众大庭
 gvdu 轨度
-gvdui 广真大师
 gvdv 归队
 gvdye 古之道也
 gvdzb 贵登
@@ -115169,8 +115097,6 @@ gyfbw 弓影浮杯
 gyfji 贯颐奋戟
 gyfli 关龠蕃篱
 gyfsj 观隅反三
-gyfui 广义法师
-gyfui 果一法师
 gyfuo 诡言浮说
 gyfxx 皈依发心
 gyfyj 过眼浮烟
@@ -116521,7 +116447,6 @@ hbfky 混酚
 hbfmf 黑白分明
 hbfr 婚否
 hbfti 魂不附体
-hbfui 慧辩法师
 hbfvs 祸不反踵
 hbfw 魂飞
 hbfwz 婚飞
@@ -118749,8 +118674,6 @@ hdfk 还分
 hdfmz 画栋飞甍
 hdfsu 好丹非素
 hdfu 还付
-hdfui 弘道法师
-hdfui 海灯法师
 hdfuls 海呋龙
 hdfut 海富
 hdfute 海福特
@@ -118781,6 +118704,7 @@ hdgeke 海蛤壳
 hdgelw 海格雷
 hdgem 海格
 hdgeq 嗨歌
+hdger 海德格尔
 hdgf 骇怪
 hdgfx 海怪
 hdgfx 还怪
@@ -119058,6 +118982,7 @@ hdkclv 还考虑
 hdkdh 海开
 hdkdhv 还开会
 hdke 还可
+hdkeer 海克尔
 hdkenz 还可能
 hdket 骇客
 hdkeyi 还可以
@@ -122901,8 +122826,6 @@ hffg 槐房
 hffgt 淮坊
 hffkzi 坏分子
 hffmm 和风拂面
-hffui 慧峰法师
-hffui 海法法师
 hfg 怀古
 hfghjp 踝关节
 hfgiz 弘法过程
@@ -123349,9 +123272,6 @@ hgf 杭纺
 hgfay 杭发
 hgfg 杭纺
 hgfri 挥戈返日
-hgfui 惠光法师
-hgfui 慧光法师
-hgfui 慧观法师
 hgfut 杭富
 hgfvc 回光返照
 hgfz 行风
@@ -123952,7 +123872,6 @@ hhfqt 黄河防秋
 hhfu 换肤
 hhfubf 环腐病
 hhfue 换夫
-hhfui 恒海法师
 hhfuj 换幅
 hhfup 环复
 hhfuul 换肤霜
@@ -124983,6 +124902,7 @@ hhys 换用
 hhysmu 焕镛木
 hhyu 欢愉
 hhyua 恒河一沙
+hhyude 欢愉地
 hhyudj 鲩鱼胆
 hhyuh 环与
 hhyuk 换喻
@@ -125049,11 +124969,6 @@ hifnj 会昌法难
 hifpu 还淳返朴
 hifpu 还醇返朴
 hifsu 还淳反素
-hifui 宏船法师
-hifui 慧乘法师
-hifui 慧成法师
-hifui 慧持法师
-hifui 慧超法师
 higfz 护巢工蜂
 hihdh 或长或短
 hihlv 鸿俦鹤侣
@@ -125305,7 +125220,6 @@ hjdsp 寒冬
 hjdsuz 汉东省
 hjdu 含毒
 hjdu 浛
-hjdui 慧皎大师
 hjdum 寒毒
 hjdyx 诲奸导淫
 hjdzan 韩登安
@@ -125332,10 +125246,6 @@ hjfu 函复
 hjfub 憾负
 hjfub 汉赋
 hjfude 韩福德
-hjfui 幻居法师
-hjfui 弘济法师
-hjfui 慧寂法师
-hjfui 慧集法师
 hjfuj 汉斧
 hjfuju 韩复榘
 hjfuld 汉弗莱
@@ -126734,7 +126644,6 @@ hkdsde 很懂得
 hkdsrk 很动人
 hkdstf 很动听
 hkdu 狠毒
-hkdui 慧宽大师
 hkduie 很堵车
 hkdum 很毒
 hkdv 很对
@@ -127688,8 +127597,6 @@ hlfkt 荒坟
 hlfu 皇甫
 hlfubf 黄腐病
 hlfudp 黄腹鲽
-hlfui 怀琏法师
-hlfui 浩霖法师
 hlfulx 黄福林
 hlfumi 皇甫谧
 hlfumj 黄富满
@@ -129529,7 +129436,6 @@ hmdji 昏迷打击
 hmdkg 昏迷抵抗
 hmdlu 厚膜电路
 hmdmu 横眉瞪目
-hmdui 慧明大师
 hmdxy 黑木洞穴
 hmdyj 横眉瞪眼
 hmdyj 欢眉大眼
@@ -129538,7 +129444,6 @@ hmdzv 花马吊嘴
 hmedb 汉密尔顿
 hmeiz 好谋而成
 hmfke 毫毛斧柯
-hmfui 慧旻法师
 hmfvi 胡母辅之
 hmgdc 狐鸣狗盗
 hmgdr 衡门圭窦
@@ -129668,9 +129573,7 @@ hndfw 海内鼎沸
 hndgz 火耨刀耕
 hndjk 好男当家
 hndrj 海内淡然
-hndui 慧能大师
 hnfqi 患难夫妻
-hnfui 慧南法师
 hnhma 呼牛呼马
 hnhma 呼牛唤马
 hnhxl 和暖和香
@@ -133095,8 +132998,8 @@ hqxyig 化学厂
 hqxyig 滑雪场
 hqxyji 化学剂
 hqxyji 滑雪屐
-hqxyjk 化学价
 hqxyjk 化学家
+hqxyjk 化学价
 hqxyjl 化学奖
 hqxyjm 化学键
 hqxyjp 化学界
@@ -133620,8 +133523,6 @@ hrdsji 后动肌
 hrdu 厚度
 hrdubn 厚度表
 hrdugv 厚度规
-hrdui 弘忍大师
-hrdui 慧日大师
 hrduji 厚度计
 hrdujx 厚度仅
 hrduww 厚度为
@@ -133682,9 +133583,6 @@ hrfue 后夫
 hrfufw 后付费
 hrfug 侯府
 hrfuhe 后负荷
-hrfui 怀让法师
-hrfui 慧日法师
-hrfui 海仁法师
 hrfuj 后幅
 hrfuji 后腹脊
 hrfujm 后跗腱
@@ -135046,8 +134944,6 @@ hsdsxf 轰动性
 hsdu 洪都
 hsdudr 红肚兜
 hsduhg 洪都航
-hsdui 怀素大师
-hsdui 慧思大师
 hsduji 洪都鸡
 hsdup 红都
 hsduvs 红杜仲
@@ -135098,8 +134994,6 @@ hsfubd 红腹白
 hsfubf 红腐病
 hsfucb 洪福村
 hsfugv 红腹鱥
-hsfui 慧三法师
-hsfui 慧僧法师
 hsfulu 宏福路
 hsfunv 红拂女
 hsfusi 弘福寺
@@ -136540,7 +136434,6 @@ htdxn 哄堂大笑
 htdyr 火天大有
 hteku 号天而哭
 htfjl 画土分疆
-htfui 蕙庭法师
 htfuu 回天乏术
 htfyu 胡啼番语
 htgci 黄台瓜辞
@@ -136925,7 +136818,6 @@ hudu 弧度
 hudu 斛
 hudua 淴
 hudufa 弧度法
-hudui 憨山大师
 huduku 护肚裤
 huduo 好说歹说
 hudup 虎都
@@ -136997,8 +136889,6 @@ hufudm 护肤店
 hufufk 护肤粉
 hufugo 胡富国
 hufugr 壶腹沟
-hufui 华山法师
-hufui 怀深法师
 hufui 横槊赋诗
 hufuik 胡孚琛
 hufuji 壶腹嵴
@@ -139125,7 +139015,6 @@ hvdsxm 会东县
 hvdsxm 惠东县
 hvdu 灰度
 hvdu 浍
-hvdui 慧沼大师
 hvduia 辉度差
 hvduiu 会读出
 hvduji 灰度级
@@ -139209,7 +139098,6 @@ hvfug 回府
 hvfugw 回复给
 hvfuhr 回复后
 hvfuhr 恢复后
-hvfui 慧忠法师
 hvfuiz 恢复成
 hvfujm 回福建
 hvfujp 恢复戒
@@ -141414,7 +141302,6 @@ hwfkm 黑粪
 hwfkui 黑粉虱
 hwfub 黑负
 hwfubf 黑腐病
-hwfui 慧文法师
 hwfuib 黑腹蝽
 hwfunm 黑副鲶
 hwfuou 黑浮鸥
@@ -142481,7 +142368,6 @@ hydhk 好勇斗狠
 hydjn 含牙带角
 hydjn 含牙戴角
 hydui 会议大使
-hydui 慧远大师
 hydui 海云大士
 hyduv 涸鱼得水
 hydvi 何以待之
@@ -145422,7 +145308,6 @@ icfkyu 炒粉鱼
 icfkzi 超分子
 icfu 朝服
 icfuhe 超负荷
-icfui 常聪法师
 icfuue 超辐射
 icfuuu 超复数
 icfuw 超覆
@@ -146003,6 +145888,7 @@ ictmzi 朝天紫
 ictny 超调
 icto 超脱
 ictoxf 超脱性
+ictoyu 超脱于
 ictpb 抄贴
 ictpj 抄帖
 ictqi 出词吐气
@@ -147431,7 +147317,6 @@ iffhd 乘桴浮海
 iffjv 踹翻
 iffrk 春风风人
 iffrs 初发芙蓉
-iffui 成佛法师
 iffyg 沉浮俯仰
 ifgdf 传法灌顶
 ifghh 惩罚光环
@@ -147873,9 +147758,6 @@ igfu 偿付
 igfucb 长富村
 igfucb 长福村
 igfugs 长富宫
-igfui 传贯法师
-igfui 澄观法师
-igfui 纯果法师
 igfuj 长幅
 igfujf 长匐茎
 igfulu 长福路
@@ -149725,7 +149607,6 @@ ihdszu 传动组
 ihdu 传毒
 ihduho 川独活
 ihdui 搀行夺市
-ihdui 超化大师
 ihduo 长话短说
 ihdv 船队
 ihdvc 穿对
@@ -150956,7 +150837,6 @@ iifor 持佛
 iifrdf 持否定
 iiftm 初禅梵天
 iifubf 赤腐病
-iifui 传禅法师
 iifuj 尺幅
 iifuj 持斧
 iifulf 赤茯苓
@@ -151977,6 +151857,7 @@ iixuig 尺许长
 iixule 持续了
 iixuts 持续痛
 iixuui 持续式
+iixuve 持续着
 iixuxf 持续性
 iixuy 尺许
 iixuzd 持续在
@@ -152225,7 +152106,6 @@ ijdrve 颤抖着
 ijds 颤动
 ijdsve 颤动着
 ijdsxm 颤动线
-ijdui 超觉大师
 ijdusu 蟾毒素
 ijduxf 产毒性
 ijdv 掺兑
@@ -153113,8 +152993,6 @@ ikfk 尘粉
 ikfklj 陈芬兰
 ikfour 陈佛手
 ikfu 沉浮
-ikfui 尘空法师
-ikfui 常凯法师
 ikfuik 陈黻宸
 ikfuiz 陈复澄
 ikfuj 晨凫
@@ -155063,6 +154941,7 @@ ilsdc 豺狼塞道
 ilsix 创思
 ilslu 豺狼塞路
 ilsoj 窗锁
+ilstl 查拉斯图特拉
 ilt 床头
 ilta 床榻
 iltc 窗套
@@ -155346,7 +155225,6 @@ imfcr 车马辐辏
 imfer 长目飞耳
 imfgv 长命富贵
 imfqi 柴米夫妻
-imfui 昌明法师
 imgqp 椎埋狗窃
 imgtp 纯绵裹铁
 imgvk 纯绵裹针
@@ -156634,7 +156512,6 @@ isfsi 察三访四
 isfu 重复
 isfue 宠夫
 isfuhg 重复行
-isfui 持松法师
 isfujf 重复镜
 isfulv 重复率
 isfumw 重复美
@@ -157948,7 +157825,6 @@ iufmu 重生父母
 iufqi 扯顺风旗
 iufrs 出水芙蓉
 iufu 出伏
-iufui 长水法师
 iufui 长蛇封豕
 iufuq 除氟
 iufur 初伏
@@ -159875,8 +159751,6 @@ ivpo 吹破
 ivpz 吹捧
 ivq 吹气
 ivqf 垂青
-ivqgu 重张旗鼓
-ivqgu 重振旗鼓
 ivqgu 重整旗鼓
 ivqi 吹起
 ivqid 垂泣
@@ -160201,7 +160075,6 @@ ixeru 趁虚而入
 ixetc 乘隙而逃
 ixfgo 赤心奉国
 ixfjn 朝鲜佛教
-ixfui 崇信法师
 ixggz 赤心耿耿
 ixgmu 怵心刿目
 ixgsv 戳心灌髓
@@ -160348,8 +160221,6 @@ iyevi 差异而致
 iyfbc 茶余饭饱
 iyfci 陈言肤词
 iyfhr 茶余饭后
-iyfui 乘义法师
-iyfui 楚圆法师
 iyfyu 陈言腐语
 iygda 阐扬光大
 iygld 春已归来
@@ -162269,7 +162140,6 @@ jadmj 倨傲怠慢
 jaduu 据鞍读书
 jafgu 建安风骨
 jafts 灸艾分痛
-jafui 静蔼法师
 jagmm 据鞍顾眄
 jaibi 君暗臣蔽
 jaivi 久安长治
@@ -163216,11 +163086,9 @@ jcbdg 举措不当
 jcbdg 举错必当
 jcbrk 精彩逼人
 jcddf 九次第定
-jcdui 吉藏大师
 jcdxf 金错刀行
 jcdzo 举措动作
 jcesi 尽辞而死
-jcfui 景岑法师
 jcfyi 惊才风逸
 jcghv 金灿光辉
 jcgir 交错觥筹
@@ -166307,7 +166175,6 @@ jgfnz 矜功伐能
 jgfqi 矜功负气
 jgfsi 金刚峰寺
 jgfuc 绝甘分少
-jgfui 觉光法师
 jgfuj 矜功伐善
 jgfuk 齑骨粉身
 jgfuz 矜功负胜
@@ -166582,10 +166449,6 @@ jhfjn 江户佛教
 jhfk 卷粉
 jhfmk 角户分门
 jhfu 卷腹
-jhfui 净慧法师
-jhfui 净海法师
-jhfui 戒慧法师
-jhfui 觉慧法师
 jhfun 卷福
 jhfvr 济河焚舟
 jhfw 圈肥
@@ -168581,7 +168444,6 @@ jiizg 几成
 jiizg 即成
 jiizg 挤成
 jiizg 既成
-jiizg 汲成
 jiizg 记成
 jiizg 集成
 jiizh 计程
@@ -175236,7 +175098,6 @@ jlfnj 嘉禄法难
 jlfu 降幅
 jlfuda 降幅达
 jlfuf 姜抚
-jlfui 觉力法师
 jlfun 降福
 jlfuww 降幅为
 jlfuz 将赴
@@ -180210,7 +180071,6 @@ jnfudc 交付到
 jnfue 脚夫
 jnfue 轿夫
 jnfugw 交付给
-jnfui 居讷法师
 jnfujm 交付件
 jnfule 交付了
 jnfull 交付量
@@ -184908,8 +184768,6 @@ jqezr 皆弃而走
 jqfic 鸡栖凤巢
 jqfnj 捐躯赴难
 jqfts 金漆饭桶
-jqfui 济群法师
-jqfui 静权法师
 jqfui 鸡栖凤食
 jqfvi 近亲繁殖
 jqfyc 桀犬吠尧
@@ -185721,7 +185579,6 @@ jtfoui 九佛事
 jtfu 舅父
 jtfud 九副
 jtfui 急兔反噬
-jtfui 济涛法师
 jtfulu 久福路
 jtfun 久福
 jtfuni 就服你
@@ -187974,11 +187831,6 @@ jufu 拘
 jufua 掬
 jufud 具副
 jufude 聚福德
-jufui 戒山法师
-jufui 晋水法师
-jufui 荆山法师
-jufui 觉生法师
-jufui 警韶法师
 jufuiz 聚福城
 jufuj 巨幅
 jufuj 巨斧
@@ -189755,7 +189607,6 @@ jvdmr 借箸代谋
 jvdnm 举止动念
 jvdrk 金针度人
 jvdui 击钟鼎食
-jvdui 金洲大师
 jvdyh 锦筝弹怨
 jvedr 鸡争鹅斗
 jveld 接踵而来
@@ -190673,10 +190524,6 @@ jxfouj 金佛山
 jxfufu 金芙芙
 jxfui 即席赋诗
 jxfui 简贤附势
-jxfui 纪修法师
-jxfui 见性法师
-jxfui 觉醒法师
-jxfui 警玄法师
 jxfuig 晋福长
 jxfuj 斤斧
 jxfuj 金斧
@@ -193715,6 +193562,7 @@ jxyutg 金钰堂
 jxyutv 进与退
 jxyutz 金鱼藤
 jxyuv 浸于
+jxyuve 禁欲者
 jxyuvr 金宇宙
 jxyuvz 金与正
 jxyuwz 金鱼翁
@@ -193992,8 +193840,6 @@ jydrig 角斗场
 jydrjk 决斗家
 jydrui 角斗士
 jyduh 攫黩
-jydui 净源大师
-jydui 景云大师
 jyduu 教亦多术
 jydv 绝对
 jydvbu 绝对不
@@ -194043,8 +193889,6 @@ jyfmf 静曰复命
 jyfrk 哿矣富人
 jyfsj 举一反三
 jyfsj 举隅反三
-jyfui 净严法师
-jyfui 净源法师
 jyfui 见噎废食
 jyfvi 将欲废之
 jyfw 绝非
@@ -194706,7 +194550,6 @@ jzfave 卷发者
 jzfbc 酒足饭饱
 jzfbc 酒醉饭饱
 jzfsr 竭泽焚薮
-jzfui 巨赞法师
 jzfvs 尽在腹中
 jzfyi 君子犯义
 jzgmu 九子鬼母
@@ -195377,8 +195220,8 @@ kaxhna 卡轩娜
 kaxi 卡西
 kaxiao 卡西奥
 kaxidi 卡西迪
-kaxier 卡希尔
 kaxier 卡西尔
+kaxier 卡希尔
 kaxih 咖西
 kaxiou 卡西欧
 kaxiss 卡西松
@@ -195825,7 +195668,6 @@ kcdmyi 考点一
 kcdouc 考多少
 kcdr 靠抖
 kcdrfu 烤豆腐
-kcdui 康仓大师
 kcensi 考恩斯
 kcerjm 考二建
 kcf 拷
@@ -197475,6 +197317,7 @@ kebdww 克百威
 kebfdv 可并堆
 kebgbc 壳棒孢
 kebgp 可邦
+kebhe 科尔巴赫
 kebi 可比
 kebih 克比
 kebih 科比
@@ -198026,8 +197869,8 @@ kehvur 可回首
 kehvw 刻绘
 kehvx 科惠
 kehvyi 可回忆
+kehz 柯亨
 kehzji 颏横肌
-kehzt 柯亨
 kehzx 科恒
 kei 客车
 keia 可查
@@ -200656,7 +200499,6 @@ kgfud 抗浮
 kgfude 康复得
 kgfudf 康复定
 kgfudf 康肤酊
-kgfui 可观法师
 kgfuib 康复春
 kgfuji 抗腐剂
 kgfuke 康复科
@@ -201334,7 +201176,6 @@ khfj 宽泛
 khfjww 宽范围
 khfktn 宽粉条
 khfu 宽幅
-khfui 空海法师
 khg 髋
 khgc 宽高
 khghjp 髋关节
@@ -201759,7 +201600,6 @@ kjdsle 看懂了
 kjdswu 看动物
 kjdsxi 看东西
 kjdui 壸浆箪食
-kjdui 窥基大师
 kjdz 刊登
 kjdzh 看灯
 kjdzhv 看灯会
@@ -201787,7 +201627,6 @@ kjfkt 看坟
 kjfli 克己复礼
 kjfmg 口角锋芒
 kjfqf 口角风情
-kjfui 窥基法师
 kjfvz 匡救扶正
 kjfwib 堪非醇
 kjfyu 铿金霏玉
@@ -202613,8 +202452,6 @@ klfkig 矿粉厂
 klfqy 开笼放雀
 klfu 匡扶
 klfue 旷夫
-klfui 宽律法师
-klfui 宽霖法师
 klfup 匡复
 klfvz 匡乱反正
 klfw 狂吠
@@ -203328,7 +203165,6 @@ kqeeui 夸娥氏
 kqf 挎
 kqfji 康强逢吉
 kqfri 狂犬吠日
-kqfui 克勤法师
 kqfup 夸父
 kqfut 夸富
 kqfuv 跨服
@@ -205813,7 +205649,6 @@ kvevj 苦争恶战
 kvf 揆
 kvfa 匮乏
 kvfu 亏负
-kvfui 开证法师
 kvfui 旷职偾事
 kvg 戣
 kvge 暌隔
@@ -207489,8 +207324,6 @@ lbfj 轮番
 lbfk 伦芬
 lbfu 轮辐
 lbfubf 轮腐病
-lbfui 灵辨法师
-lbfui 灵辩法师
 lbfuz 论辩风生
 lbfxx 力不副心
 lbfzju 轮锋菊
@@ -209307,7 +209140,6 @@ ldfkm 铼粉
 ldfoui 莱佛士
 ldfr 来否
 ldfu 莱菔
-ldfui 乐渡法师
 ldfujm 来福建
 ldfukg 莱富康
 ldfulf 来福灵
@@ -211824,9 +211656,6 @@ lgfsv 麟肝凤髓
 lgfsv 龙肝凤髓
 lgfu 浪妇
 lgfug 论功封赏
-lgfui 乐果法师
-lgfui 乐观法师
-lgfui 隆根法师
 lgfuqf 郎福清
 lgfvi 鸾孤凤只
 lgfw 浪费
@@ -212299,7 +212128,6 @@ lhfj 乱翻
 lhfkfk 乱纷纷
 lhfkgg 乱坟岗
 lhfuhq 卵孵化
-lhfui 律航法师
 lhfuz 卵孵
 lhfvu 鸾回凤翥
 lhfw 乱飞
@@ -212900,6 +212728,7 @@ libofz 李伯锋
 libojb 李伯军
 liboji 李伯纪
 liboli 黎博利
+libomj 利伯曼
 libona 李博娜
 libonf 李博宁
 libork 李伯仁
@@ -217398,7 +217227,6 @@ ljftm 浪静风恬
 ljfto 梨俱吠陀
 ljfu 滥服
 ljfuds 蓝副鮗
-ljfui 良价法师
 ljfun 懒福
 ljfvi 麟角凤趾
 ljfwcv 蓝翡翠
@@ -218317,7 +218145,6 @@ lkbtf 帘窥壁听
 lkbue 利口便舌
 lkbuj 力可拔山
 lkcdb 理亏词遁
-lkfui 力空法师
 lkgbg 流寇棍棒
 lkggc 劳苦功高
 lkguc 鹿盔岗哨
@@ -218707,7 +218534,6 @@ llfqy 龙楼凤阙
 llfsi 陆梁放肆
 llfu 两副
 llfuh 梁甫
-llfui 隆莲法师
 llfuj 两幅
 llfulm 梁福莲
 llfum 梁栿
@@ -222235,6 +222061,7 @@ locbcb 罗村村
 locc 落草
 loccan 落草胺
 loccm 落槽
+locd 洛采
 locdjm 萝菜碱
 locdwu 骆采舞
 loci 裸辞
@@ -224105,8 +223932,6 @@ lqfbd 俪青妃白
 lqfcd 龙潜凤采
 lqfjn 琉球佛教
 lqfmf 来去分明
-lqfui 良卿法师
-lqfui 隆泉法师
 lqgbm 陵迁谷变
 lqggf 离奇古怪
 lqgmf 另请高明
@@ -224286,7 +224111,6 @@ lrfjs 漏矾
 lrfjxm 娄烦县
 lrfjy 楼烦
 lrfu 露富
-lrfui 了然法师
 lrfuq 漏氟
 lrfuu 令人发竖
 lrfuv 漏服
@@ -226227,7 +226051,6 @@ ltfubk 六氟苯
 ltfud 六副
 ltfufz 柳扶风
 ltfug 六府
-ltfui 麓亭法师
 ltfuji 刘复基
 ltfulf 刘弗陵
 ltfun 六福
@@ -231141,7 +230964,6 @@ lvdsld 吕东莱
 lvdug 氯度
 lvdugh 滤毒罐
 lvduhe 滤毒盒
-lvdui 良准大师
 lvdum 滤毒
 lvdumu 绿度母
 lvduvi 绿度值
@@ -231188,7 +231010,6 @@ lvfky 氯酚
 lvfotf 吕佛庭
 lvfqt 来轸方遒
 lvfu 旅
-lvfui 灵真法师
 lvfun 绿福
 lvfuo 捋
 lvfutf 氯氟烃
@@ -234740,11 +234561,6 @@ lyfik 绿野风尘
 lyfjk 鸾舆凤驾
 lyfmf 龙跃凤鸣
 lyfue 鳞翼风蛇
-lyfui 了元法师
-lyfui 灵源法师
-lyfui 灵祐法师
-lyfui 离欲法师
-lyfui 良玉法师
 lyful 六月飞霜
 lyfuu 理一分殊
 lyfuz 论议风生
@@ -235173,7 +234989,6 @@ lzdsvj 冷冻站
 lzdsxl 冷冻箱
 lzdsyu 冷冻鱼
 lzducc 冷毒草
-lzdui 六祖大师
 lzduj 冷镀
 lzedo 聋子耳朵
 lzf 冷饭
@@ -235678,8 +235493,8 @@ mabccz 麻包层
 mabcer 马雹儿
 mabclu 马宝璐
 mabct 妈宝
-mabct 玛宝
 mabct 马堡
+mabct 玛宝
 mabctr 麻包头
 mabdlf 马柏龄
 mabdlm 麻白鲢
@@ -237740,8 +237555,6 @@ mcfjgo 冒犯过
 mcfjve 冒犯者
 mcfu 冒富
 mcfubn 锚浮标
-mcfui 妙参法师
-mcfui 曼慈法师
 mcfwlv 毛费率
 mcfz 毛峰
 mcfzde 毛凤德
@@ -238991,7 +238804,6 @@ mdfu 埋伏
 mdfucc 麦麸草
 mdfud 脉浮
 mdfuhh 脉浮缓
-mdfui 妙灯法师
 mdfum 麦麸
 mdfuxk 埋伏下
 mdfuxu 脉浮虚
@@ -239824,6 +239636,7 @@ mdysc 埋蛹
 mdysi 目动言肆
 mdyth 满肚疑团
 mdyu 买鱼
+mdyui 名动一时
 mdyup 卖鱼
 mdyuqn 卖鱼桥
 mdyuz 卖予
@@ -239897,6 +239710,7 @@ memeda 么么哒
 memnv 卖儿卖女
 meqfz 马耳秋风
 meqhu 漠而清乎
+messi 马尔萨斯
 metfu 卖儿贴妇
 metfu 马尔托夫
 meuds 马耳射东
@@ -240054,8 +239868,6 @@ mffk 名分
 mffkh 明芬
 mffu 冥府
 mffuh 明甫
-mffui 妙峰法师
-mffui 茂峰法师
 mffum 明栿
 mffun 命妇
 mffun 明福
@@ -241099,8 +240911,6 @@ mgfiz 民国佛乘
 mgfjy 卖官贩爵
 mgfu 莽夫
 mgfude 芒福德
-mgfui 妙果法师
-mgfui 明观法师
 mgg 芒果
 mggem 芒格
 mggge 孟公瓜葛
@@ -242920,8 +242730,6 @@ mjfrk 谋及妇人
 mjfu 满腹
 mjfubf 蔓腐病
 mjfuhe 满负荷
-mjfui 妙境法师
-mjfui 妙抉法师
 mjfutu 曼富图
 mjfuv 满服
 mjfuzd 满负载
@@ -243674,7 +243482,6 @@ mkerqf 门儿清
 mkf 扪
 mkfa 门阀
 mkfg 门房
-mkfui 明开法师
 mkfuur 门扶手
 mkfw 门扉
 mkfz 门缝
@@ -244126,6 +243933,7 @@ mlsbu 弥勒三部
 mlsgu 茅庐三顾
 mlsjf 弥勒三经
 mlsuj 名落孙山
+mlsut 莫乐斯舒特
 mlsvi 闵乱思治
 mlszb 弥勒三尊
 mltqs 末路途穷
@@ -244381,7 +244189,6 @@ mmfkvl 面粉状
 mmfky 棉酚
 mmfu 免付
 mmfubf 绵腐病
-mmfui 明妙法师
 mmfuj 棉凫
 mmfuv 棉服
 mmfuv 棉腐
@@ -246551,6 +246358,7 @@ monmp 末年
 monmve 默念着
 monolo 莫诺罗
 mons 摸弄
+monu 摩奴
 monv 魔女
 monvvh 魔女传
 monw 莫内
@@ -247433,7 +247241,6 @@ mqdfu 勉求多福
 mqdji 麻雀斗鸡
 mqeli 面墙而立
 mqevi 鸣琴而治
-mqfui 妙钦法师
 mqgkb 民穷国困
 mqhmc 命轻鸿毛
 mqhuz 妙趣横生
@@ -247535,9 +247342,6 @@ mrfjm 明日复见
 mrfjp 茫然费解
 mrfjzv 谋反罪
 mrftm 面如方田
-mrfui 茂蕊法师
-mrfui 蒙润法师
-mrfui 默如法师
 mrfuli 谋福利
 mrg 某个
 mrge 某个
@@ -248228,10 +248032,6 @@ mufsg 美食服丧
 mufu 幕府
 mufubf 木腐病
 mufue 牧夫
-mufui 妙善法师
-mufui 愍生法师
-mufui 明生法师
-mufui 茗山法师
 mufujb 木腐菌
 mufurs 木芙蓉
 mufuuu 墓蝠属
@@ -249474,9 +249274,6 @@ mvdxf 明正典刑
 mvdxy 木爪洞穴
 mvffu 铭之肺腑
 mvffu 铭诸肺腑
-mvfui 妙湛法师
-mvfui 敏智法师
-mvfui 明真法师
 mvfuk 明哲防身
 mvfxu 米扎废墟
 mvgfj 明知故犯
@@ -252696,8 +252493,6 @@ mxfu 民妇
 mxfub 民负
 mxfue 民夫
 mxfufa 闽福发
-mxfui 慕西法师
-mxfui 明学法师
 mxfulu 民府路
 mxfun 闽福
 mxfur 末学肤受
@@ -253210,8 +253005,6 @@ myeub 目语额瞬
 myfbo 庙垣风波
 myfrk 摩耶夫人
 myftz 民怨沸腾
-myfui 明旸法师
-myfui 明玉法师
 myfyu 幕燕釜鱼
 myfzv 磨牙费嘴
 mygfu 民殷国富
@@ -257050,7 +256843,6 @@ nherhe 暖儿河
 nhf 暖风
 nhfad 暖法
 nhfg 暖房
-nhfui 能海法师
 nhfuv 暖肤
 nhfz 暖风
 nhfzgh 暖风管
@@ -257523,7 +257315,6 @@ nifr 逆否
 nifu 旎
 nifuda 伲福达
 nifufj 拟赋范
-nifui 纳川法师
 nifuln 拟复廖
 nifupf 尼扶平
 nifur 匿伏
@@ -259067,7 +258858,6 @@ njfu 南孚
 njfudf 喃氟啶
 njfudi 难伏地
 njfudm 南府店
-njfui 能净法师
 njfujx 南府锦
 njfuxl 南福巷
 njfw 南非
@@ -262825,6 +262615,7 @@ ntee 牛轭
 nteecc 牛轭草
 nteehu 牛轭湖
 nteek 牛呃
+ntepu 纳托尔普
 nter 牛耳
 ntercc 牛耳草
 ntercz 牛二层
@@ -262845,7 +262636,6 @@ ntfklj 纽芬兰
 ntfu 牛辅
 ntfub 逆天犯顺
 ntfubc 钮福保
-ntfui 南亭法师
 ntfwg 难逃法网
 ntfwv 牛肺
 ntfwyi 牛肺疫
@@ -266542,7 +266332,6 @@ oxlgu 呕心镂骨
 oxlxy 呕心沥血
 oxtdj 呕心吐胆
 oy 偶遇
-oydui 藕益大师
 oydyr 偶影独游
 oyee 噢耶
 oyeev 哦耶
@@ -266624,7 +266413,6 @@ paermj 帕尔曼
 paerte 帕尔特
 paf 扒
 pafu 趴伏
-pafui 普安法师
 pafulx 帕夫林
 pafuv 爬服
 pafwte 帕菲特
@@ -269918,7 +269706,6 @@ pgercc 胖儿草
 pgf 彷
 pgfkmi 旁分泌
 pgftz 攀葛附藤
-pgfui 普光法师
 pgfurk 胖妇人
 pgg 庞
 pggcm 旁睾
@@ -270395,7 +270182,6 @@ pifucb 劈斧皴
 pifucz 皮肤层
 pifue 匹夫
 pifugc 皮肤膏
-pifui 普超法师
 pifujh 皮肤卷
 pifujp 皮肤节
 pifuju 皮肤局
@@ -271346,8 +271132,6 @@ pjfkd 盘分
 pjfqi 贫贱夫妻
 pjfu 攀附
 pjfug 潘府
-pjfui 普净法师
-pjfui 普觉法师
 pjfuld 潘福来
 pjfulu 盘福路
 pjfup 盼复
@@ -272403,7 +272187,6 @@ pmfksi 骗粉丝
 pmfkzi 偏分子
 pmfu 篇幅
 pmfugd 片覆盖
-pmfui 普明法师
 pmfw 偏废
 pmfz 偏锋
 pmfzzc 偏缝藻
@@ -273756,7 +273539,6 @@ pqcji 旁敲侧击
 pqdgu 攀亲道故
 pqdso 披裘带索
 pqfer 偏其反而
-pqfui 普钦法师
 pqfxx 披裘负薪
 pqici 迫切陈辞
 pqjxm 破琴绝弦
@@ -273792,7 +273574,6 @@ prfk 剖分
 prfklm 剖分链
 prfo 掊
 prfu 剖腹
-prfui 普容法师
 prfuij 剖腹产
 prfuuu 剖腹术
 prgsij 剖宫产
@@ -274001,6 +273782,7 @@ pubjw 谱斑
 pubkd 扑奔
 pubm 普遍
 pubmcu 普遍簇
+pubmde 普遍地
 pubmdi 普遍低
 pubmgc 普遍高
 pubmhq 普遍化
@@ -274162,7 +273944,6 @@ pufkpi 扑粉皮
 pufkxi 谱分析
 pufu 匍匐
 pufucb 普福村
-pufui 浦尚法师
 pufujf 匍匐茎
 pufujx 匍伏蓳
 pufujx 葡伏堇
@@ -275101,7 +274882,6 @@ pvdba 颇章顶巴
 pvdxm 品竹调弦
 pvetd 否终而泰
 pvftd 否终复泰
-pvfui 普庄法师
 pvger 铺翟冠儿
 pvgju 帕竹噶举
 pvgql 譬之宫墙
@@ -275282,7 +275062,6 @@ pwfgru 配方乳
 pwfk 佩芬
 pwfkm 配粉
 pwfu 佩服
-pwfui 普文法师
 pwfujx 赔付金
 pwfulv 赔付率
 pwfun 培福
@@ -276423,9 +276202,6 @@ pydvu 剖鱼得珠
 pydyj 频移带眼
 pyfre 攀炎附热
 pyfrr 庖有肥肉
-pyfui 普愿法师
-pyfui 普曜法师
-pyfui 普雨法师
 pyfxx 擗踊拊心
 pygji 攀援桂技
 pyglx 沛雨甘霖
@@ -277613,7 +277389,6 @@ qddzi 强盗弟子
 qdfgv 清丁繁桂
 qdfjn 清代佛教
 qdfou 齐大非偶
-qdfui 清定法师
 qdfvj 漆灯风飐
 qdgfo 青灯古佛
 qdgge 轻动干戈
@@ -278111,7 +277886,6 @@ qffuc 青蚨
 qffue 情夫
 qffuf 轻抚
 qffuf 轻拂
-qffui 请佛法师
 qffun 情妇
 qffun 清福
 qffuqm 请付钱
@@ -280017,6 +279791,7 @@ qfxfb 庆兴
 qfxfb 情兴
 qfxfce 清行策
 qfxfd 轻刑
+qfxfde 清醒地
 qfxfg 庆幸
 qfxfgg 轻型钢
 qfxfh 青荇
@@ -283761,6 +283536,7 @@ qimuz 其母
 qimuz 气母
 qimw 凄美
 qimwdc 七美岛
+qimwer 齐美尔
 qimwgb 齐眉棍
 qimwh 气煤
 qimwm 齐眉
@@ -286129,7 +285905,6 @@ qlfkm 墙粉
 qlfkvi 强分支
 qlfpc 敲锣放炮
 qlftu 雀离浮图
-qlfui 清了法师
 qlfuli 抢福利
 qlfuue 强辐射
 qlfvi 全力赴之
@@ -286446,6 +286221,7 @@ qllmbd 炝莲白
 qllmts 强连通
 qllmv 强联
 qllp 强烈
+qllpde 强烈地
 qllpqh 枪猎犬
 qlls 强龙
 qllt 强留
@@ -291135,8 +290911,6 @@ qsen 琼恩
 qserdd 穷二代
 qsf 穷乏
 qsfa 穷乏
-qsfui 千松法师
-qsfui 契嵩法师
 qsfyh 清孙复元
 qsg 穷鬼
 qsgdh 情丝割断
@@ -294574,7 +294348,6 @@ qxfklu 勤奋路
 qxfu 揿
 qxfue 亲夫
 qxfuf 亲抚
-qxfui 清心法师
 qxfuib 秦富春
 qxfup 亲父
 qxfuui 勤拂拭
@@ -295534,8 +295307,6 @@ qyfji 秦越肥瘠
 qyfre 趋炎附热
 qyfru 求益反辱
 qyfsb 求益反损
-qyfui 清严法师
-qyfui 祇园法师
 qyfui 缺衣乏食
 qyfui 趋炎奉势
 qyfui 趋炎附势
@@ -295878,17 +295649,16 @@ qyuecc 雀舌草
 qyuedr 雀舌豆
 qyuexf 雀舌形
 qyuhe 气压山河
-qyui 确实
+qyui 却是
 qyuihh 缺失环
 qyuihv 确实会
 qyuilv 缺失率
 qyuinz 确实能
 qyuip 缺失
-qyuiq 却是
 qyuiq 确是
 qyuiql 确实强
 qyuir 却使
-qyuit 雀士
+qyuit 确实
 qyuiti 缺失体
 qyuiui 确实是
 qyuivi 缺失值
@@ -296709,7 +296479,6 @@ rdbju 任达不拘
 rdbxn 壤地褊小
 rdduu 然荻读书
 rdexf 绕道而行
-rdfui 仁德法师
 rdgta 瑞大光塔
 rdhyi 容当后议
 rdilb 入大乘论
@@ -298846,9 +298615,6 @@ rjfgt 染坊
 rjfjyf 冉繁英
 rjfr 然否
 rjfrs 人镜芙蓉
-rjfui 仁俊法师
-rjfui 如净法师
-rjfui 瑞今法师
 rjfwyu 然非与
 rjg 染缸
 rjgcmf 冉高鸣
@@ -300504,7 +300270,6 @@ rmdyh 日暮道远
 rmejy 如梦而觉
 rmewj 攘袂扼腕
 rmfjy 如梦方觉
-rmfui 如满法师
 rmfxf 如梦方醒
 rmgtm 人命关天
 rmguj 戎马关山
@@ -300566,7 +300331,6 @@ rmzbw 如芒在背
 rn 让你
 rnfhe 日暖风和
 rnftm 日暖风恬
-rnfui 若讷法师
 rnfvs 如牛负重
 rngdh 柔懦寡断
 rnhdc 人能弘道
@@ -300887,7 +300651,6 @@ rqevi 如丘而止
 rqf 挼
 rqfbk 人穷反本
 rqfhe 如泉赴壑
-rqfui 如玘法师
 rqgvs 入其彀中
 rqgwo 汝泣告我
 rqhli 入情合理
@@ -303790,7 +303553,6 @@ rwcqt 软猬刺球
 rwcsi 人为财死
 rwder 瑞文戴尔
 rwdzu 人为刀俎
-rwfui 仁闻法师
 rwfuj 如蚊负山
 rwfwo 人我法我
 rwgvg 人为故障
@@ -303855,9 +303617,6 @@ rxeyf 如响而应
 rxfru 儒乡乏儒
 rxftg 如雪逢汤
 rxftz 热血沸腾
-rxfui 如修法师
-rxfui 如学法师
-rxfui 融熙法师
 rxgda 人小鬼大
 rxgxl 人心归向
 rxhhl 人心惶惶
@@ -303966,7 +303725,6 @@ ryflt 儒雅风流
 ryfmf 然友反命
 ryfqu 饶有风趣
 ryftd 肉眼凡胎
-ryfui 如意法师
 ryfuj 如蚁附膻
 ryfuj 如蝇附羶
 ryfuz 人烟阜盛
@@ -304398,7 +304156,6 @@ safk 萨芬
 safkji 撒粪机
 safkm 撒粉
 safkqi 撒粉器
-safui 素庵法师
 safwji 撒肥机
 safwln 撒肥料
 safws 萨非
@@ -304773,6 +304530,7 @@ sbgjh 孙干
 sbgjlu 孙甘露
 sbgkqi 孙根气
 sbglda 孙光大
+sbgle 斯宾格勒
 sbglsi 孙光祀
 sbglxm 孙光宪
 sbglyu 孙光裕
@@ -305352,7 +305110,6 @@ scfg 扫房
 scfgzi 扫房子
 scfk 扫坟
 scfu 骚妇
-scfui 僧璨法师
 scfurk 嫂夫人
 scfzw 缲缝
 scg 扫过
@@ -305655,8 +305412,6 @@ sdfudf 塞夫啶
 sdfudf 赛夫丁
 sdfudf 赛福定
 sdfug 赛弗
-sdfui 三刀法师
-sdfui 隋登法师
 sdfule 赛福乐
 sdfuls 噻氟隆
 sdfumw 赛福美
@@ -305892,6 +305647,7 @@ sdmjts 噻螨酮
 sdmjvi 噻螨酯
 sdmjww 噻螨威
 sdmk 塞门
+sdmle 斯达默勒
 sdmof 赛摩
 sdmosi 赛莫司
 sdmt 色胆迷天
@@ -306581,7 +306337,6 @@ sgfu 丧服
 sgfue 丧夫
 sgfufw 丧抚费
 sgfui 碎骨粉尸
-sgfui 隋观法师
 sgfuk 碎骨粉身
 sgfup 丧父
 sgfw 桑菲
@@ -312458,7 +312213,6 @@ smdfa 三摩地法
 smdjk 岁暮到家
 smdyj 死眉瞪眼
 smefu 三命而俯
-smfui 僧旻法师
 smfyx 索命梵音
 smggd 驷马高盖
 smgie 驷马高车
@@ -312528,7 +312282,6 @@ sndve 宋倪道者
 snets 三年而通
 snewu 四年而物
 snfni 色诺芬尼
-snfui 松年法师
 snhbi 三年化碧
 snhxf 肆虐横行
 snjco 索南嘉措
@@ -313469,7 +313222,6 @@ sqbld 死求白赖
 sqbxt 死且不朽
 sqdvs 三衢道中
 sqfgu 骚情赋骨
-sqfui 松泉法师
 sqhld 死去活来
 sqiik 死气沉沉
 sqitr 丧气垂头
@@ -315009,7 +314761,6 @@ stbzo 三台八座
 stchd 桑田沧海
 stdan 三头对案
 stdhd 桑田东海
-stdui 僧统大师
 stdyu 三天打鱼
 stebo 斯提尔波
 stemm 三头二面
@@ -316579,7 +316330,6 @@ svdsjp 穗东街
 svdsl 随动
 svdsll 隋东亮
 svdsva 随动闸
-svdui 僧肇大师
 svdv 随队
 svdvi 三种大智
 svdwk 三转读文
@@ -317362,7 +317112,6 @@ syclr 搜扬侧陋
 sycto 岁月蹉跎
 sycvi 遂欲从之
 sydql 宋玉东墙
-sydui 僧祐大师
 sydvi 虽有大知
 syean 随遇而安
 syehu 三言讹虎
@@ -317373,7 +317122,6 @@ syfhv 素月分辉
 syfjp 夙夜匪解
 syfmf 死于非命
 syfnz 所以发能
-syfui 三义法师
 syfwj 桑榆非晚
 syfwj 桑隅非晚
 syfxf 三因佛性
@@ -317525,7 +317273,6 @@ szfaqf 僧法庆
 szfgh 僧房
 szfjh 僧范
 szfud 僧副
-szfui 三藏法师
 szfut 僧富
 szfuv 僧服
 szfuw 僧覆
@@ -319395,7 +319142,6 @@ tcfkm 淘粪
 tcfkui 桃粉虱
 tcfoxi 陶佛锡
 tcfu 套服
-tcfui 太沧法师
 tcfuiu 陶复初
 tcfut 桃符
 tcfux 陶馥
@@ -320016,8 +319762,9 @@ tcxiuz 陶希圣
 tcxivk 滔溪镇
 tcxiz 讨喜
 tcxk 陶下
-tcxl 桃香
+tcxl 逃向
 tcxljt 陶湘九
+tcxlp 桃香
 tcxlru 陶湘如
 tcxm 套现
 tcxmfg 陶仙坊
@@ -323683,7 +323430,6 @@ tgflf 沓冈复岭
 tgfour 糖佛手
 tgfu 唐府
 tgfug 唐弗
-tgfui 昙光法师
 tgfuib 唐富春
 tgfuib 汤富淳
 tgfuj 堂幅
@@ -325157,7 +324903,6 @@ tifss 铁窗讽诵
 tifu 体肤
 tifuc 体辐
 tifuhe 体复合
-tifui 昙崇法师
 tifup 替父
 tifw 踢飞
 tifwz 提飞
@@ -326246,7 +325991,6 @@ tjfu 贪腐
 tjfubf 炭腐病
 tjfud 昙副
 tjfug 潭府
-tjfui 桐江法师
 tjfuv 叹服
 tjfuyf 谭富英
 tjfw 谭飞
@@ -327354,13 +327098,11 @@ tlbyu 田里不鬻
 tlcji 托洛茨基
 tlcnm 投老残年
 tldhl 天老地荒
-tldui 昙鸾大师
 tldvu 探骊得珠
 tldwg 天罗地网
 tldxf 特立独行
 tleyu 同滥而浴
 tlfbi 螳螂奋臂
-tlfui 昙鸾法师
 tlfuz 谈论风生
 tlgnl 田螺姑娘
 tlhqy 螳螂黄雀
@@ -328921,6 +328663,7 @@ tmvixp 天之邪
 tmviyh 填志愿
 tmvjg 天战
 tmvk 天真
+tmvkde 天真地
 tmvkj 天镇
 tmvkj 田镇
 tmvkre 天真热
@@ -335344,7 +335087,6 @@ ttdbw 同体大悲
 ttddi 通天达地
 ttdho 探汤蹈火
 ttduc 田田多少
-ttdui 天台大师
 ttdxm 天塌地陷
 ttdyu 天堂地狱
 ttdzv 滔天大罪
@@ -335722,8 +335464,6 @@ tufkxi 凸分析
 tufqs 天上飞琼
 tufu 屠夫
 tufubd 土腐败
-tufui 昙晟法师
-tufui 昙顺法师
 tufui 腾声飞实
 tufuj 图幅
 tufulf 土茯苓
@@ -336996,7 +336736,6 @@ tvfr 退否
 tvfto 天竺佛陀
 tvfu 推服
 tvfuhv 退辅会
-tvfui 亭住法师
 tvfur 退付
 tvfuti 推覆体
 tvfw 颓废
@@ -337929,7 +337668,6 @@ txdyi 天下第一
 txdyy 天下大悦
 txfhr 谈笑封侯
 txfrc 天下方扰
-txfui 太虚法师
 txfuz 谈笑风生
 txgdj 同心共胆
 txgji 同心共济
@@ -338081,7 +337819,6 @@ tyfcc 天涯芳草
 tyffk 土雨纷纷
 tyfjf 颓垣废井
 tyfmg 腾焰飞芒
-tyfui 昙颖法师
 tyfuu 庭议焚书
 tyfuz 谈议风生
 tyfvi 颓垣废址
@@ -339781,7 +339518,6 @@ ubfjzi 顺反子
 ubfmr 上兵伐谋
 ubfti 神不附体
 ubfu 顺服
-ubfui 师备法师
 ubfui 生不逢时
 ubfun 顺福
 ubfvg 食必方丈
@@ -341091,7 +340827,6 @@ uddrqm 筛窦钳
 uddryj 筛窦炎
 uddtm 十大洞天
 uddtm 蜀道登天
-uddui 善导大师
 uddxi 说东道西
 uddzi 十大弟子
 udecg 善刀而藏
@@ -341233,6 +340968,7 @@ udqjt 孰得其久
 udqld 手到擒来
 udqmks 筛前孔
 udqpji 筛切迹
+udqso 适得其所
 udqu 筛去
 udqui 圣殿骑士
 udqui 适当其时
@@ -341826,6 +341562,7 @@ uelcui 佘老师
 ueld 射来
 uele 射了
 uelecb 摄乐村
+ueleg 舍勒
 uelez 折了
 uelez 设了
 uelf 赦令
@@ -342526,7 +342263,6 @@ uffli 神佛分离
 uffmf 是非分明
 uffmf 赏罚分明
 uffu 帅府
-uffui 师范法师
 uffuyh 帅府园
 ufg 帅哥
 ufge 帅哥
@@ -342739,10 +342475,10 @@ ufwkw 摔纹
 ufwo 帅我
 ufwuv 帅五
 ufwvg 赏罚无章
-ufww 甩尾
-ufwwf 衰微
+ufww 衰微
 ufwwh 衰萎
 ufwwn 帅威
+ufwws 甩尾
 ufwyc 善复为妖
 ufwyh 刓方为圆
 ufwyu 十风五雨
@@ -343163,7 +342899,6 @@ ugfubu 上腹部
 ugfufa 伤复发
 ugfug 上府
 ugfuhc 商符号
-ugfui 神光法师
 ugfujk 上腹甲
 ugfulx 尚福林
 ugfuqn 上浮桥
@@ -344959,7 +344694,6 @@ uhdli 山河带砺
 uhdli 沙河多丽
 uhdls 深核灯笼
 uhdpo 失魂荡魄
-uhdui 神会大师
 uhduj 涉海登山
 uhdvh 参回斗转
 uhdvh 参横斗转
@@ -344969,8 +344703,6 @@ uheuk 实化二身
 uheuk 生化二身
 uhf 拴
 uhflf 施号发令
-uhfui 善慧法师
-uhfui 圣辉法师
 uhfyy 神魂飞越
 uhg 涮锅
 uhge 涮个
@@ -346251,7 +345983,6 @@ uifuhe 使符合
 uifuhq 士夫画
 uifuhv 世妇会
 uifui 生产方式
-uifui 省常法师
 uifuj 十幅
 uifuj 石斧
 uifujp 施复捷
@@ -351347,8 +351078,8 @@ uiyslv 使用率
 uiyslv 实用率
 uiyslv 适用率
 uiyslw 实用类
-uiysp 适用
 uiysp 实用
+uiysp 适用
 uiysp 食用
 uiysp 试用
 uiyspd 实用派
@@ -351852,12 +351583,12 @@ ujdcz 钐刀
 ujdd 善待
 ujddj 疝带
 ujddwg 山大王
-ujde 善德
+ujde 善的
 ujde 潸
-ujdeb 善的
 ujdeb 山的
 ujdebi 闪得比
 ujdef 杉德
+ujdef 善德
 ujdegd 山德钙
 ujdeka 杉德卡
 ujdekg 善得康
@@ -351991,8 +351722,6 @@ ujflt 诗酒风流
 ujfour 山佛手
 ujfu 山腹
 ujfue 善夫
-ujfui 善继法师
-ujfui 绍觉法师
 ujfupf 善复平
 ujfur 善伏
 ujfur 闪付
@@ -357291,7 +357020,6 @@ undui 鼠啮蠹蚀
 unduu 十年读书
 unezi 石女儿子
 unffr 尚能饭否
-unfui 省念法师
 unghe 水牛过河
 ungug 士农工商
 ungvi 手挠顾指
@@ -357757,7 +357485,6 @@ up 水平
 upcyu 水瓶残余
 updzi 水泡豆子
 upfug 水佩风裳
-upfui 澍培法师
 upghb 摄魄钩魂
 upgpu 邵平瓜圃
 upjkr 守瓶缄口
@@ -357835,7 +357562,6 @@ uqfk 刷粉
 uqfkd 刷分
 uqfkqi 刷分器
 uqfri 蜀犬吠日
-uqfui 善契法师
 uqfum 刷麸
 uqfvg 食前方丈
 uqfxt 神奇腐朽
@@ -359492,8 +359218,8 @@ urrjm 受染
 urrjp 杀人如芥
 urrk 熟人
 urrkd 手刃
-urrkp 兽人
 urrkp 受人
+urrkp 兽人
 urrkp 授人
 urrkp 收人
 urrkp 瘦人
@@ -363332,8 +363058,6 @@ uvfub 税赋
 uvfub 谁负
 uvfubf 水腐病
 uvfud 水浮
-uvfui 善昭法师
-uvfui 士璋法师
 uvfuis 水斧虫
 uvfulm 水浮莲
 uvfulv 税负率
@@ -365299,7 +365023,6 @@ uxczi 神仙才子
 uxdhr 守先待后
 uxdjy 神仙丹诀
 uxdtc 率先遁逃
-uxdui 神秀大师
 uxdve 蛇行斗折
 uxdyb 善信大云
 uxecg 什袭而藏
@@ -365509,10 +365232,6 @@ uyeya 石药尔雅
 uyeye 食噎而谒
 uyfih 甚于防川
 uyfqm 受益匪浅
-uyfui 善因法师
-uyfui 圣一法师
-uyfui 圣印法师
-uyfui 神邕法师
 uyfvu 圣域夫诸
 uyfya 狩野芳崖
 uyfyc 十夜法要
@@ -365662,6 +365381,7 @@ uyvpf 食野之苹
 uyvui 时有终始
 uyvvi 使禹治之
 uyvvu 声誉卓著
+uyvyi 实用主义
 uyvyu 伤言扎语
 uyvzd 孰有之哉
 uyvzu 少欲知足
@@ -366048,7 +365768,6 @@ uzfucb 盛富村
 uzfud 升浮
 uzfug 省府
 uzfugj 胜负感
-uzfui 绍宗法师
 uzfuiu 胜负处
 uzfuj 升幅
 uzfulm 省妇联
@@ -367795,7 +367514,6 @@ vafkm 渣粉
 vafo 挓
 vafts 灼艾分痛
 vafu 炸服
-vafui 转岸法师
 vafut 乍富
 vafw 炸飞
 vafwig 炸肥肠
@@ -368715,7 +368433,6 @@ vcfu 照拂
 vcfu 旐
 vcfuf 招抚
 vcfuhe 赵辅和
-vcfui 智藏法师
 vcfun 兆福
 vcfun 招福
 vcfup 赵复
@@ -370138,7 +369855,6 @@ vddm 宅电
 vddmlu 窄电路
 vddn 摘掉
 vddsuz 翟东升
-vddui 支遁大师
 vddxf 专断独行
 vddz 摘登
 vde 债额
@@ -370154,9 +369870,6 @@ vdfbi 织当访婢
 vdfj 斋饭
 vdfsu 折鼎覆餗
 vdfu 窄幅
-vdfui 正大法师
-vdfui 知定法师
-vdfui 转道法师
 vdfuj 斋斧
 vdfuz 掷地赋声
 vdfwui 斋非时
@@ -371335,8 +371048,9 @@ vepuq 哲普
 vepxn 震耳咆哮
 vepzh 遮蓬
 veq 晢
-veqb 褶裙
-veqby 这群
+veqb 这群
+veqbn 褶裙
+veqbrk 这群人
 veqh 这全
 veqi 这期
 veqige 这七个
@@ -372003,7 +371717,6 @@ vfdh 拽断
 vfdmn 争分夺秒
 vfdn 拽掉
 vfds 拽动
-vfdui 铸斧大师
 vfdyu 遮风挡雨
 vfffa 知法犯法
 vffyx 摘伏发隐
@@ -372481,8 +372194,6 @@ vgftd 浊骨凡胎
 vgfu 丈夫
 vgfubg 涨幅榜
 vgfuda 涨幅达
-vgfui 智光法师
-vgfui 正果法师
 vgfuig 丈夫长
 vgfuiz 张复乘
 vgfuj 杖斧
@@ -374829,8 +374540,6 @@ vhfkji 转分机
 vhfpc 招魂法袍
 vhfqx 煮鹤焚琴
 vhfu 转赴
-vhfui 智海法师
-vhfui 震华法师
 vhfukj 专副刊
 vhfur 转付
 vhfwk 召回符文
@@ -376460,7 +376169,6 @@ vidu 泜
 vidudp 只读碟
 vidug 智度
 viduhq 制度化
-vidui 铸锤大师
 vidum 之毒
 vidum 制毒
 vidup 之都
@@ -376613,7 +376321,6 @@ vifufg 支付方
 vifug 知府
 vifugw 支付给
 vifuhc 直符号
-vifui 真禅法师
 vifuj 指幅
 vifuj 直幅
 vifuj 纸幅
@@ -378941,25 +378648,18 @@ viuipm 芝士片
 viuiq 之时
 viuiqh 指示犬
 viuiqi 指示器
-viuiqn 制式桥
 viuiqt 芝士球
 viuiqu 知识区
 viuir 指使
 viuir 只使
 viuir 支使
-viuir 致仕
 viuir 致使
 viuis 之事
 viuis 执事
-viuis 止蚀
 viuit 之士
 viuit 之实
 viuit 志士
-viuit 志室
-viuit 执实
 viuit 智实
-viuit 枳实
-viuit 知实
 viuit 芝士
 viuita 只是他
 viuita 只是她
@@ -379467,8 +379167,8 @@ viwuk 支吾
 viwuku 植物库
 viwula 植物蜡
 viwulj 置物篮
-viwun 植物
 viwun 之物
+viwun 植物
 viwun 指物
 viwun 织物
 viwun 置物
@@ -380478,9 +380178,6 @@ vjdslu 站东路
 vjdu 展读
 vjdug 展度
 vjdui 折节待士
-vjdui 正觉大师
-vjdui 真际大师
-vjdui 铸剑大师
 vjduu 折节读书
 vjdv 战队
 vjdvbc 战队包
@@ -380503,9 +380200,6 @@ vjfi 飐
 vjfj 战犯
 vjfu 战俘
 vjfu 旃
-vjfui 智觉法师
-vjfui 正觉法师
-vjfui 转解法师
 vjfuj 战斧
 vjfup 粘附
 vjfuyf 战俘营
@@ -383362,7 +383056,6 @@ vldm 装点
 vldmnc 装电脑
 vldn 撞掉
 vlds 装懂
-vldui 知礼大师
 vlduv 竹篮打水
 vlduzi 装犊子
 vldvu 中流砥柱
@@ -383383,8 +383076,6 @@ vlfjj 幢幡
 vlfjxx 庄凡心
 vlfkv 振聋发聩
 vlfkv 昭聋发聩
-vlfui 知礼法师
-vlfui 证莲法师
 vlfup 装复
 vlfuvk 庄复真
 vlfw 撞飞
@@ -384117,7 +383808,6 @@ vmfdd 妆嫫费黛
 vmfgu 众毛飞骨
 vmflb 枝末法轮
 vmfql 阵马风樯
-vmfui 竺摩法师
 vmfxf 张脉偾兴
 vmfyu 栉沐风雨
 vmgdc 正明公道
@@ -385058,7 +384748,6 @@ vrdrx 轴窦
 vrds 周董
 vrdshr 周东侯
 vrdsyu 周冬雨
-vrdui 湛然大师
 vrduqi 周度其
 vrdvik 轴对称
 vre 周二
@@ -385091,7 +384780,6 @@ vrfu 咒符
 vrfubf 轴腐病
 vrfug 州府
 vrfugo 周辅国
-vrfui 湛然法师
 vrfuiz 周福成
 vrfujb 周复俊
 vrfuk 真如法身
@@ -389033,7 +388721,6 @@ vtdhe 志同道合
 vtdnz 织田得能
 vtdzg 正统道藏
 vtejn 制听二教
-vtfui 智通法师
 vtfyy 止谈风月
 vtgdi 遮天盖地
 vtger 直土埂耳
@@ -389637,7 +389324,6 @@ vufudb 祝福盾
 vufugl 主辅光
 vufuh 朱芾
 vufuhl 朱芾煌
-vufui 正寿法师
 vufuka 猪福卡
 vufukj 朱复戡
 vufulf 猪茯苓
@@ -391412,6 +391098,7 @@ vuulbc 柱双胞
 vuulda 朱双大
 vuult 枕石漱流
 vuumo 指山说磨
+vuuo 主说
 vuuqtu 主刷图
 vuur 助手
 vuurc 祝寿
@@ -392369,8 +392056,6 @@ vvdsmd 椎动脉
 vvdsu 庄周贷粟
 vvdu 追堵
 vvdug 锥度
-vvdui 智周大师
-vvdui 智者大师
 vvdvz 政治斗争
 vvdwd 置之度外
 vvdxi 只争旦夕
@@ -392945,10 +392630,6 @@ vxeuj 止行二善
 vxfbi 张勋复辟
 vxfgs 知行分工
 vxfrk 知行分任
-vxfui 智性法师
-vxfui 照祥法师
-vxfui 重巽法师
-vxfui 重显法师
 vxgbw 众星拱北
 vxgfw 展翔高飞
 vxggz 忠心耿耿
@@ -393101,9 +392782,6 @@ vydld 周有大赉
 vydqi 志壹动气
 vydqt 至于顿丘
 vydtr 朱衣点头
-vydui 智俨大师
-vydui 智圆大师
-vydui 智顗大师
 vydui 朝衣东市
 vydvg 重岩迭嶂
 vydxl 至于帝乡
@@ -393114,11 +392792,6 @@ vyeuk 真应二身
 vyfhc 助忆符号
 vyfjn 中亚佛教
 vyfsu 枝叶扶苏
-vyfui 智琰法师
-vyfui 智谕法师
-vyfui 智越法师
-vyfui 煮云法师
-vyfui 真玉法师
 vyfuu 枝叶扶疏
 vyfuz 逐影吠声
 vygfu 招摇过巿
@@ -396060,7 +395733,6 @@ wcbfk 五彩缤纷
 wcevr 晚次鄂州
 wcflt 文采风流
 wcfqx 忘餐废寝
-wcfui 唯慈法师
 wcjve 为丛爵者
 wclfu 五藏六府
 wclui 文璨论师
@@ -396247,7 +395919,6 @@ wdfkjn 外分角
 wdfkmi 外分泌
 wdfu 外敷
 wdfuh 外稃
-wdfui 文德法师
 wdfui 无的放矢
 wdfuv 外服
 wdfuvh 外腹转
@@ -397089,7 +396760,6 @@ wfexf 闻风而兴
 wfexl 望风而降
 wfezr 望风而走
 wffls 舞凤飞龙
-wffui 皖峰法师
 wffuk 五分法身
 wfgfu 枉费工夫
 wfhqn 误付洪乔
@@ -397516,7 +397186,6 @@ wgfug 王府
 wgfugz 王复耕
 wgfuh 王甫
 wgfuhq 王富华
-wgfui 文杲法师
 wgfuib 王福春
 wgfuik 王辅臣
 wgfuj 王斧
@@ -400537,7 +400206,6 @@ wjdslu 万东路
 wjdu 弯度
 wjdu 丸
 wjdua 汍
-wjdui 惟劲大师
 wjdui 无极导师
 wjdxk 无间冬夏
 wjdyu 无间地狱
@@ -400614,7 +400282,6 @@ wjfuds 万蝠洞
 wjfue 万夫
 wjfuf 万扶
 wjfuhe 万福河
-wjfui 惟觉法师
 wjfulo 万复洛
 wjfulu 万福路
 wjfuqn 万福桥
@@ -400771,8 +400438,8 @@ wjhud 万户
 wjhug 弯弧
 wjhuhr 万户侯
 wjhv 晚会
-wjhvk 万回
 wjhvk 挽回
+wjhvk 万回
 wjhvld 晚回来
 wjhvr 玩会
 wjhvug 晚会上
@@ -405742,7 +405409,6 @@ wscva 微缩残渣
 wsdye 无所祷也
 wseve 闻斯二者
 wsfjp 无损分解
-wsfui 万松法师
 wsfwg 乌斯法王
 wsgdj 无所顾惮
 wsgji 无所顾忌
@@ -410441,11 +410107,10 @@ wuyigc 武艺高
 wuyigs 吴贻弓
 wuyigu 吴乙古
 wuyih 无一
-wuyih 五一
 wuyih 无异
+wuyih 五一
 wuyih 武艺
 wuyih 舞艺
-wuyih 芜荑
 wuyihq 吴壹华
 wuyijl 吴义江
 wuyijl 芜荑酱
@@ -410871,15 +410536,12 @@ wvcye 物之残也
 wvcye 物之粗也
 wvder 为政第二
 wvdhv 无遮大会
-wvdui 无著大师
 wvduu 谓之道枢
 wvdyf 无质独影
 wvemw 宛转蛾眉
 wveui 五浊恶世
 wvewg 武争而王
 wvfma 五指费玛
-wvfui 五种法师
-wvfui 文珠法师
 wvfuk 五种法身
 wvfvi 为之傅之
 wvfye 我丈夫也
@@ -412438,8 +412100,8 @@ wwjpf 魏捷
 wwjpfz 未解封
 wwjpgo 为结果
 wwjpgr 微结构
-wwjph 尾节
 wwjph 慰藉
+wwjph 尾节
 wwjphb 为结婚
 wwjphe 胃结核
 wwjpj 未解
@@ -415113,7 +414775,6 @@ wxfbp 妄想分别
 wxfjp 五下分结
 wxfjp 唯心法界
 wxfsu 违乡负俗
-wxfui 惟贤法师
 wxgik 舞歇歌沉
 wxglr 舞榭歌楼
 wxgtd 舞榭歌台
@@ -415310,6 +414971,7 @@ wyllo 为伊泪落
 wyllv 五音六律
 wyllw 闻音落泪
 wylse 五颜六色
+wylwd 无一例外
 wylyc 万应灵药
 wylye 无以立也
 wymjp 未有命戒
@@ -416387,7 +416049,6 @@ xddmw 想得倒美
 xddui 乡党第十
 xddvg 鞋底打掌
 xdezo 席地而坐
-xdfui 贤顿法师
 xdgur 下毒高手
 xdguv 协定关税
 xdgwk 犀顶龟文
@@ -416825,7 +416486,6 @@ xffugj 幸福感
 xffuh 杏甫
 xffuhe 行负荷
 xffuhw 杏复黑
-xffui 雪烦法师
 xffuiz 幸福城
 xffujk 幸福家
 xffulu 幸福路
@@ -418740,8 +418400,6 @@ xgdvv 悬鼓待椎
 xgdxp 新故代谢
 xgeiv 析骨而炊
 xgftu 析圭分土
-xgfui 修观法师
-xgfui 玄光法师
 xgfzu 析圭分组
 xggdj 析肝刿胆
 xggmx 小国寡民
@@ -418968,7 +418626,6 @@ xhfuf 宣抚
 xhfug 玄府
 xhfuhq 旋复花
 xhfuhq 旋覆花
-xhfui 宣化法师
 xhfuil 悬浮床
 xhfuil 悬浮窗
 xhfuji 悬浮剂
@@ -420607,9 +420264,6 @@ xifuer 媳妇儿
 xifufa 吸附法
 xifug 西府
 xifuhh 悉复欢
-xifui 学诚法师
-xifui 性澄法师
-xifui 洗尘法师
 xifuig 西服厂
 xifujf 吸附阱
 xifuji 吸附剂
@@ -423624,9 +423278,6 @@ xjeru 形就而入
 xjetc 席卷而逃
 xjfjn 西晋佛教
 xjfjn 锡金佛教
-xjfui 宣鉴法师
-xjfui 玄觉法师
-xjfui 羲寂法师
 xjgnv 西家归女
 xjhfu 玄酒瓠脯
 xjhih 薪尽火传
@@ -425882,7 +425533,6 @@ xldsyh 向东园
 xldsyj 响动岩
 xldu 响度
 xldug 向度
-xldui 降龙大师
 xlduj 夏炉冬扇
 xlduji 响度级
 xlduv 香肚
@@ -425912,6 +425562,7 @@ xldz 相等
 xldzh 香灯
 xldzji 相等集
 xldzt 想等
+xldzts 相等同
 xldzve 凶短折
 xldzyu 相等于
 xle 响儿
@@ -425973,8 +425624,6 @@ xlfufu 香馥馥
 xlfug 相府
 xlfuhe 相符合
 xlfui 心灵腐蚀
-xlfui 心理法师
-xlfui 雪浪法师
 xlfuia 香附茶
 xlfuj 像幅
 xlfuj 象幅
@@ -428775,8 +428424,6 @@ xmfub 先负
 xmfue 先夫
 xmfug 县府
 xmfugd 线覆盖
-xmfui 显明法师
-xmfui 续明法师
 xmfuj 限幅
 xmfujp 县府街
 xmfulm 县妇联
@@ -435415,7 +435062,6 @@ xpfkm 鞋粉
 xpfkzu 携粉足
 xpfu 歇伏
 xpfub 谐赋
-xpfui 心平法师
 xpfuib 谢馥春
 xpfuj 斜幅
 xpfuji 斜腹肌
@@ -437101,7 +436747,6 @@ xsfnc 小随烦恼
 xsfoxi 熊佛西
 xsfu 胸腹
 xsfubu 胸腹部
-xsfui 行思法师
 xsfumo 胸腹膜
 xsfuql 胸腹腔
 xsfuyu 胸斧鱼
@@ -440966,7 +440611,6 @@ xxdu 新都
 xxdug 信度
 xxdugo 信度国
 xxduhe 信度河
-xxdui 信行大师
 xxdum 心毒
 xxduqn 新都桥
 xxduqu 信都区
@@ -441071,10 +440715,6 @@ xxfud 心浮
 xxfuda 欣复达
 xxfuf 新抚
 xxfug 忻府
-xxfui 续修法师
-xxfui 续祥法师
-xxfui 行秀法师
-xxfui 雪相法师
 xxfukg 心复康
 xxfukg 新妇康
 xxfulx 新福林
@@ -443879,10 +443519,6 @@ xyfu 学府
 xyfubf 雪腐病
 xyfubx 薛夫彬
 xyfugd 雪覆盖
-xyfui 希运法师
-xyfui 心源法师
-xyfui 笑隐法师
-xyfui 行远法师
 xyfuiz 薛福成
 xyfulj 雪佛兰
 xyfulj 雪弗兰
@@ -445183,7 +444819,6 @@ xzcli 刑自此立
 xzcsb 孝子慈孙
 xzdafj 玄大梵
 xzdue 咸嘴淡舌
-xzdui 玄奘大师
 xzeyj 形尊而严
 xzfotu 选佛图
 xzgglb 玄纲论
@@ -445527,7 +445162,6 @@ yafu 压服
 yafubf 芽腐病
 yafue 雅夫
 yafug 衙府
-yafui 易庵法师
 yafup 亚父
 yafuw 压覆
 yafuz 押赴
@@ -447152,7 +446786,6 @@ ybfubc 孕肤宝
 ybfuc 云蝠
 ybfud 云浮
 ybfuh 运甫
-ybfui 演本法师
 ybful 陨雹飞霜
 ybfutr 云符头
 ybfuui 云浮市
@@ -448383,7 +448016,6 @@ ycdsve 摇动着
 ycdsxy 药动学
 ycdu 要读
 ycdubf 药毒病
-ycdui 圆测大师
 ycdup 妖都
 ycduqu 尧都区
 ycdv 要对
@@ -448433,10 +448065,6 @@ ycfu 徭
 ycfubu 腰腹部
 ycfucs 要服从
 ycfuhe 要符合
-ycfui 义存法师
-ycfui 应慈法师
-ycfui 永参法师
-ycfui 远参法师
 ycfuiu 要付出
 ycfuj 腰斧
 ycfukh 要付款
@@ -449134,6 +448762,7 @@ ycqfta 邀请她
 ycqftf 要倾听
 ycqfuu 邀请书
 ycqfve 邀请者
+ycqfvi 邀请至
 ycqfvj 邀请展
 ycqfxi 要清晰
 ycqfxi 要清洗
@@ -452667,7 +452296,6 @@ yffuee 应付额
 yffugv 迎富贵
 yffugw 应付给
 yffuhe 应符合
-yffui 云峰法师
 yffujp 膺福街
 yffukh 应付款
 yffumw 英福美
@@ -454732,7 +454360,6 @@ ygdu 羊
 ygdud 佯渡
 ygdudu 羊嘟嘟
 ygdug 杨度
-ygdui 印光大师
 ygdujb 羊肚菌
 ygdujh 洋杜鹃
 ygduuz 杨笃生
@@ -454804,9 +454431,6 @@ ygfubw 阳馥碑
 ygfuc 阳辅
 ygfudm 杨府殿
 ygfugl 阳副光
-ygfui 云光法师
-ygfui 印光法师
-ygfui 玉岗法师
 ygfuk 一棺附身
 ygfumu 养父母
 ygfup 杨复
@@ -457356,9 +456980,6 @@ yhfug 元府
 yhfug 怨府
 yhfuh 袁甫
 yhfuhc 元符号
-yhfui 义怀法师
-yhfui 元皓法师
-yhfui 印海法师
 yhfuk 应化法身
 yhfuln 原辅料
 yhfun 怨妇
@@ -460646,9 +460267,6 @@ yifuhe 已复核
 yifuhg 议付行
 yifuhl 一拂黄
 yifuhq 一幅画
-yifui 一诚法师
-yifui 乙成法师
-yifui 月川法师
 yifuj 一幅
 yifujx 衣夫锦
 yifukg 伊扶康
@@ -463567,8 +463185,8 @@ yirixl 伊日乡
 yiriyh 以日元
 yiriyr 一日游
 yirj 依然
-yirjh 已然
 yirjh 亦然
+yirjh 已然
 yirjh 夷然
 yirjh 屹然
 yirjh 怡然
@@ -466725,9 +466343,6 @@ yjfud 阎浮
 yjfue 岩夫
 yjfug 严弗
 yjfugc 眼敷膏
-yjfui 元净法师
-yjfui 圆镜法师
-yjfui 眼净法师
 yjfumu 盐肤木
 yjfun 艳妇
 yjfun 艳福
@@ -469407,8 +469022,6 @@ ykexn 掩口而笑
 ykfdi 御寇伏地
 ykfma 以渴服马
 ykfmu 圆孔方木
-ykfui 元凯法师
-ykfui 友奎法师
 ykfvr 亦可覆舟
 ykfye 言可复也
 ykfyu 燕可伐与
@@ -470078,7 +469691,6 @@ ypbxx 一片冰心
 ypdjm 遗篇断简
 ypdxx 一片丹心
 ypfdo 优婆纺多
-ypfui 演培法师
 ypglu 永平广录
 ypgqh 以偏概全
 ypgug 一片宫商
@@ -470154,7 +469766,6 @@ yqdfg 贻诮多方
 yqdjk 蕴奇待价
 yqdjx 油乾灯尽
 yqdlj 玉砌雕阑
-yqdui 云栖大师
 yqdvi 禺强得之
 yqdxp 殷勤待写
 yqdxx 与其弟辛
@@ -470169,9 +469780,7 @@ yqfhv 云栖法汇
 yqflv 幽泉法履
 yqfrk 硬欺负人
 yqfro 抑强扶弱
-yqfui 义青法师
 yqfui 仰取俯拾
-yqfui 永清法师
 yqfxf 一犬吠形
 yqfxy 粤犬吠雪
 yqfyg 意气飞扬
@@ -471176,8 +470785,6 @@ yrfudf 优福定
 yrfufz 右扶风
 yrfuhc 有符号
 yrfuhe 又符合
-yrfui 允若法师
-yrfui 圆融法师
 yrfuiu 有付出
 yrfujx 优抚金
 yrfule 有福了
@@ -473941,8 +473548,8 @@ yrwvi 予日望之
 yrww 有位
 yrwwbf 有胃病
 yrwwbn 油位表
-yrwwd 又为
 yrwwd 尤为
+yrwwd 又为
 yrwwd 有为
 yrwwdc 有味道
 yrwwdu 有微毒
@@ -475003,6 +474610,7 @@ ysbcwo 拥抱我
 ysbda 欲速不达
 ysbddu 用百度
 ysbdhq 用白话
+ysbes 雅斯贝尔斯
 ysbf 用兵
 ysbfb 拥兵
 ysbfb 痈病
@@ -476184,8 +475792,6 @@ ytetj 仰天而叹
 ytexu 仰天而嘘
 ytflu 一天风露
 ytfmm 油头粉面
-ytfui 义通法师
-ytfui 优昙法师
 ytfvg 易同反掌
 ytggb 油头光棍
 ytghu 以铁耕乎
@@ -476897,7 +476503,6 @@ yufug 俞府
 yufugz 于福庚
 yufuhe 玉符河
 yufuhq 于富华
-yufui 印顺法师
 yufui 音声佛事
 yufuj 余幅
 yufuj 玉斧
@@ -478799,13 +478404,9 @@ yurj 郁然
 yurjf 夜深人静
 yurjm 欲染
 yurk 与人
-yurkcb 雨忍村
 yurkcd 育人才
-yurkdc 鱼人岛
 yurkjl 榆仁酱
-yurkjp 余仁杰
 yurkjp 愚人节
-yurkjx 愚人金
 yurklw 与人类
 yurkmk 与人们
 yurkmx 与人民
@@ -478815,16 +478416,9 @@ yurkp 于人
 yurkp 渔人
 yurkp 育人
 yurkp 鱼人
-yurktm 余任天
-yurkuj 于仁山
 yurkve 育人者
-yurkvs 与人忠
-yurkvs 愚人众
 yurkvz 域认证
-yurkwk 与人文
 yurkx 雨忍
-yurkzu 鱼人族
-yurld 药师如来
 yurlt 饮食若流
 yurois 预若虫
 yurota 愚箬鳎
@@ -480585,10 +480179,6 @@ yvfij 雨僽风僝
 yvfjb 英仲法俊
 yvfjp 一真法界
 yvfrk 元张夫人
-yvfui 元镇法师
-yvfui 圆拙法师
-yvfui 圆智法师
-yvfui 延沼法师
 yvfui 颐指风使
 yvfvi 养之覆之
 yvfvi 言者弗知
@@ -480873,7 +480463,6 @@ ywfgh 以望复关
 ywfgu 义无反顾
 ywfmu 以危父母
 ywfui 一碗饭时
-ywfui 元琬法师
 ywfuj 愿无伐善
 ywfyi 与物反矣
 ywgbf 偃武櫜兵
@@ -481478,10 +481067,6 @@ yxfubm 阴符鞭
 yxfuc 银蝠
 yxfug 阴府
 yxfugl 阴副光
-yxfui 义玄法师
-yxfui 月溪法师
-yxfui 月西法师
-yxfui 永信法师
 yxfujf 阴符经
 yxfun 淫妇
 yxfun 茵福
@@ -483888,8 +483473,6 @@ yyfuhq 粤富华
 yyfui 一元复始
 yyfui 一言偾事
 yyfui 因噎废食
-yyfui 圆瑛法师
-yyfui 有严法师
 yyfuj 月斧
 yyfujk 岳父家
 yyfujp 岳府街
@@ -485318,7 +484901,6 @@ yzfqi 荫子封妻
 yzfrv 圆凿方枘
 yzfudz 缘缚断
 yzfugs 元符宫
-yzfui 允泽法师
 yzgfw 远走高飞
 yzglsi 圆光寺
 yzguuz 辕固生
@@ -485892,7 +485474,6 @@ zbcs 遵从
 zbdark 尊大人
 zbdjm 字不得减
 zbdmb 尊典
-zbdui 紫柏大师
 zbdyj 自不待言
 zbdyx 佐伯定胤
 zbf 撙
@@ -489703,7 +489284,6 @@ zgdu 藏独
 zgduy 脏读
 zgerkg 臧尔康
 zgfrk 子贡方人
-zgfui 宗果法师
 zgfumo 脏腹膜
 zgfuv 脏腑
 zgfuv 藏服
@@ -490431,8 +490011,6 @@ zifkxi 字分析
 zifu 自负
 zifue 姊夫
 zifugd 子覆盖
-zifui 子淳法师
-zifui 最澄法师
 zifuih 字符串
 zifuj 字幅
 zifuj 资斧
@@ -492495,7 +492073,6 @@ zjfke 作奸犯科
 zjfmu 自掘坟墓
 zjfoji 赞佛偈
 zjfor 赞佛
-zjfui 宗珏法师
 zjfukh 暂付款
 zjfwer 赞菲尔
 zjfzv 作奸犯罪
@@ -492865,7 +492442,6 @@ zldhe 资粮道和
 zldyy 子路对曰
 zleju 择邻而居
 zlfmi 子路负米
-zlfui 自立法师
 zlfvi 眦裂发指
 zlguz 自力更生
 zlgvi 子路共之
@@ -492908,10 +492484,8 @@ zmbjf 造谋布阱
 zmble 子卯不乐
 zmbtr 则民不偷
 zmdrk 走马到任
-zmdui 宗密大师
 zmdyi 自鸣得意
 zmfrk 走马赴任
-zmfui 祖祢法师
 zmghq 走马观花
 zmgyi 则苗槁矣
 zmgyi 自牧归荑
@@ -494309,7 +493883,6 @@ zozvq 做最
 zozw 做贼
 zp 作品
 zpedb 凿坯而遁
-zpfui 自朋法师
 zpiyu 钻皮出羽
 zprwu 臧否人物
 zpydb 凿坏以遁
@@ -495046,7 +494619,6 @@ zsfkbc 总分包
 zsfkvj 总分站
 zsfu 棕缚
 zsfuds 棕腹鸫
-zsfui 子思法师
 zsfujp 总府街
 zsfuli 宗馥莉
 zsfulu 总府路
@@ -496151,8 +495723,6 @@ zufktu 组分图
 zufmu 早失父母
 zufu 祖父
 zufua 走石飞沙
-zufui 子实法师
-zufui 遵式法师
 zufumu 祖父母
 zufun 足福
 zufw 租费
@@ -497941,7 +497511,6 @@ zweli 子温而厉
 zweug 尊无二上
 zwf 贼匪
 zwfho 自我复活
-zwfui 则悟法师
 zwfw 贼匪
 zwfyx 子为父隐
 zwfz 贼风
@@ -498131,7 +497700,6 @@ zyddj 坐以待旦
 zydgo 造因得果
 zydig 佐雍得尝
 zydqx 宰予旦寝
-zydui 宗一大师
 zydui 遵养待时
 zydvs 在运动中
 zydyy 子游对曰
@@ -498139,9 +497707,6 @@ zyefj 自崖而反
 zyegh 赃盈恶贯
 zyflj 自由泛滥
 zyfrk 自由放任
-zyfui 子仪法师
-zyfui 宗仰法师
-zyfui 宗颐法师
 zyfve 棗亚父者
 zyfyh 左右逢源
 zyfyj 啧有烦言
