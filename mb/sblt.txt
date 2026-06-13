@@ -34201,8 +34201,8 @@ cbz 存在
 cbzd 存在
 cbzdbn 存在表
 cbzdjk 存在家
-cbzdve 存在者
 cbzdve 存在着
+cbzdve 存在者
 cbzdwu 存在物
 cbzdxf 存在性
 cbzdyu 存在于
@@ -47374,6 +47374,7 @@ daxyuz 大学生
 daxyv 大雪
 daxyve 大学者
 daxyvg 打雪仗
+daxyvs 大学中
 daxywk 大学问
 daxyyh 大学员
 daxyzc 大雪枣
@@ -57803,8 +57804,8 @@ diuirk 第十人
 diuis 抵事
 diuisi 第十四
 diuisj 第十三
-diuit 帝室
 diuit 底士
+diuit 帝室
 diuit 的士
 diuit 谛实
 diuitc 第十套
@@ -82005,6 +82006,7 @@ fjmf 范明
 fjmfmu 范明墓
 fjmfq 矾明
 fjmfr 凡命
+fjmfti 反命题
 fjmg 繁忙
 fjmgv 贩贱卖贵
 fjmi 繁密
@@ -105286,7 +105288,7 @@ glvvl 光追
 glvvu 功烈震主
 glvxf 膏梁之性
 glvxm 瓜李之嫌
-glvyi 工联主义
+glvyi 功利主义
 glvz 广征
 glvzi 膏梁之子
 glvzi 观澜坠子
@@ -140726,6 +140728,7 @@ hvwuzu 会务组
 hvwvi 惠之闻之
 hvww 回味
 hvwwd 会为
+hvwwer 惠威尔
 hvwwk 惠唯
 hvwwn 慧威
 hvwws 彗尾
@@ -182997,10 +183000,9 @@ jpiujf 接触镜
 jpiujm 接触件
 jpiujn 接触角
 jpiuk 借出
-jpiuk 揭出
+jpiuk 杰出
 jpiuk 结出
 jpiuk 解出
-jpiuk 杰出
 jpiuka 接触卡
 jpiuks 接触孔
 jpiulb 接触轮
@@ -185888,8 +185890,8 @@ jtijve 纠缠着
 jtijve 纠缠者
 jtik 旧臣
 jtilb 九疮
-jtild 久创
 jtild 卷土重来
+jtild 久创
 jtili 进退触篱
 jtinz 竭天成能
 jtirf 就抽
@@ -285474,6 +285476,7 @@ qjwug 欺君罔上
 qjwui 起居无时
 qjwuu 巧解吴蜀
 qjwuz 阒寂无声
+qjwvi 迄今为止
 qjwww 清静无为
 qjwxm 清景无限
 qjwxn 抢救无效
@@ -322875,6 +322878,7 @@ tfmi 桯
 tfmis 挺密
 tfmj 挺慢
 tfmjd 停满
+tfmjx 突飞猛进
 tfmk 厅门
 tfmu 𬘩
 tfmw 挺美
@@ -349064,6 +349068,7 @@ uitiji 实体集
 uitiji 试题集
 uitijy 实体觉
 uitiku 试题库
+uitilv 实体律
 uitilw 实体类
 uitim 石梯
 uitim 食梯
@@ -355027,8 +355032,8 @@ ukwux 深悟
 ukwux 神悟
 ukwuye 深物业
 ukww 身为
-ukwwd 深为
 ukwwd 甚为
+ukwwd 深为
 ukwwf 甚微
 ukwwgl 申伟光
 ukwwjp 沈巍皆
@@ -387825,6 +387830,7 @@ vsur 重手
 vsurc 中寿
 vsurji 中手机
 vsurt 忠守
+vsurve 忠守着
 vsuu 中暑
 vsuubf 中暑病
 vsuug 中戍
@@ -422845,8 +422851,8 @@ xixuo 悉
 xixuxm 细虚线
 xixx 细心
 xixxcb 溪心村
-xixxd 习心
 xixxd 悉心
+xixxd 习心
 xixxd 洗心
 xixxd 系心
 xixxd 细辛
@@ -454008,6 +454014,7 @@ yfyrer 婴幼儿
 yfyris 蝇幼虫
 yfyrlo 樱由罗
 yfyrmk 影友们
+yfyrnm 婴幼年
 yfyrs 遗芬余荣
 yfyrs 遗芬馀荣
 yfyrt 应由
@@ -459587,8 +459594,8 @@ yici 蜴
 yiciba 一次吧
 yicici 一次次
 yicici 以此次
-yicid 一次
 yicid 依次
+yicid 一次
 yicid 以次
 yicidv 一次队
 yicifg 一次方
@@ -459859,8 +459866,8 @@ yidhhq 一段话
 yidhj 一断
 yidhj 缢断
 yidhj 臆断
-yidhl 异端
 yidhl 一端
+yidhl 异端
 yidhl 疑端
 yidhl 移端
 yidhlu 一段炉
@@ -463751,8 +463758,8 @@ yitsxm 依通县
 yitsxy 一同学
 yitsy 乙酮
 yitsyg 以同样
-yitu 意图
 yitu 亦
+yitu 意图
 yitubc 易涂宝
 yitubu 易涂布
 yitud 一涂
@@ -464409,8 +464416,8 @@ yivijm 意志坚
 yivijp 异质结
 yivijt 一直就
 yivijt 一至九
-yivik 一只
 yivik 已知
+yivik 一只
 yivika 一直卡
 yivikh 一指宽
 yiviku 一直苦
@@ -474022,7 +474029,7 @@ yrxyxn 由学校
 yrxyz 有学
 yrxzze 有选择
 yry 诱
-yrya 优雅
+yrya 幼
 yryabz 油压泵
 yryac 油压
 yryafa 油压阀
@@ -474033,11 +474040,11 @@ yryaji 油压机
 yryaji 油压计
 yryak 有呀
 yryali 有压力
-yryau 幼
 yryaui 优雅仕
 yryaui 油压式
 yryaz 尤雅
 yryaz 幽雅
+yryaz 优雅
 yryb 有孕
 yrybd 殷人以柏
 yrybi 有人于彼
@@ -479953,8 +479960,8 @@ yuyjxy 语言学
 yuyjy 玉颜
 yuyjz 鱼雁
 yuyke 一时一刻
-yuyld 有生以来
 yuyld 有史以来
+yuyld 有生以来
 yuylj 养生月览
 yuyll 一时瑜亮
 yuymo 逾沙轶漠
@@ -480945,6 +480952,7 @@ yxdcqu 引导区
 yxdcs 音岛
 yxdcuh 阴道栓
 yxdcve 引导者
+yxdcve 引导着
 yxdcvi 阴道支
 yxdcxf 引导性
 yxdcxf 引导星
@@ -493981,6 +493989,7 @@ zrba 走吧
 zrbc 奏报
 zrbdsk 邹柏森
 zrbfwk 邹秉文
+zrbhv 自认不讳
 zrbi 走笔
 zrbil 走避
 zrbj 走板
