@@ -25493,7 +25493,7 @@ bufay 不发
 bufay 补发
 bufaye 不法业
 bufayx 不发音
-bufg 不妨
+bufg 不放
 bufgai 不妨碍
 bufgbm 不方便
 bufgci 不防磁
@@ -25501,8 +25501,8 @@ bufgds 不防冻
 bufggo 不放过
 bufgh 捕房
 bufgjk 不放假
+bufgn 不妨
 bufgp 不防
-bufgp 不放
 bufgp 布防
 bufgp 补防
 bufgpc 不放炮
@@ -47192,6 +47192,7 @@ dawwuz 大卫生
 dawwv 大鳚
 dawwwg 大卫王
 dawwwg 大胃王
+dawwx 大慰
 dawwxx 达维欣
 dawwyc 大尾摇
 dawwyc 大尾鳐
@@ -128621,6 +128622,7 @@ hlmwdn 黄梅鲷
 hlmwgv 黄玫瑰
 hlmwji 黄美姬
 hlmwli 黄美丽
+hlmwm 黄眉
 hlmwqi 黄美棋
 hlmwvk 黄美珍
 hlmwwu 黄眉鹀
@@ -138835,8 +138837,8 @@ huyrdd 护邮袋
 huyrk 何事于仁
 huyrp 户牖
 huyrr 护佑
-huyrv 互有
 huyrv 忽有
+huyrv 互有
 huyrv 虎鲉
 huyryr 忽悠悠
 huyryr 胡有猷
@@ -146960,7 +146962,7 @@ iedd 车带
 ieddb 车贷
 ieddxm 车贷险
 iede 车的
-iedef 车德
+iedef 扯得
 iedeig 扯得长
 iederk 车的人
 iedf 车顶
@@ -150277,8 +150279,8 @@ ihqiju 传奇剧
 ihqild 串起来
 ihqild 穿起来
 ihqin 传祺
-ihqip 串气
 ihqip 喘气
+ihqip 串气
 ihqipc 穿旗袍
 ihqis 川崎
 ihqiui 传奇式
@@ -158158,6 +158160,7 @@ iugsig 出工厂
 iugst 出宫
 iugswg 楚共王
 iugsx 出恭
+iugu 出谷
 iuguh 出菇
 iuguli 除股利
 iuguvg 出故障
@@ -169120,6 +169123,7 @@ jilby 机论
 jilby 集论
 jilc 记牢
 jilcl 积劳
+jilcl 极老
 jilcn 系牢
 jilcr 基佬
 jild 寄来
@@ -173312,6 +173316,7 @@ jkjkxl 贾加乡
 jkjkyc 贾家窑
 jkjkz 嘉嘉
 jkjl 嘉奖
+jkjlc 家将
 jkjld 夹江
 jkjllf 嘉奖令
 jkjls 警愦觉聋
@@ -180594,8 +180599,8 @@ jnhjx 骄悍
 jnhk 焦痕
 jnhl 教皇
 jnhlgs 教皇宫
-jnhlh 娇黄
 jnhlh 焦黄
+jnhlh 娇黄
 jnhlq 焦晃
 jnhlse 焦黄色
 jnhlsu 角黄素
@@ -187314,8 +187319,8 @@ jtvuih 救助船
 jtvujx 救助金
 jtvuka 救助卡
 jtvukh 救助款
-jtvur 就住
 jtvur 揪住
+jtvur 就住
 jtvutf 救助艇
 jtvuuk 九柱神
 jtvuve 救助者
@@ -188159,7 +188164,8 @@ jughj 巨观
 jught 拘管
 jught 矩管
 jught 钜管
-jugj 橘柑
+jugj 俱感
+jugjm 橘柑
 jugk 巨根
 jugkjp 桔根蚧
 jugkm 橘根
@@ -276190,6 +276196,7 @@ pxgcyb 品高云
 pxgdj 剖析肝胆
 pxge 品格
 pxgedj 拼个单
+pxger 拼个
 pxgeth 拼个团
 pxgh 品冠
 pxghbu 品管部
@@ -282331,6 +282338,7 @@ qibkuu 七本书
 qibkvi 其本质
 qiblj 七穿八烂
 qiblm 千锤百炼
+qibm 奇变
 qibmdd 漆边带
 qibmer 缉边儿
 qibmer 起边儿
@@ -283229,6 +283237,7 @@ qiigq 其昌
 qiigt 七场
 qiigt 起场
 qiih 气喘
+qiihih 气喘喘
 qiihve 弃船者
 qiihyu 齐传玉
 qiihz 汽船
@@ -283471,8 +283480,8 @@ qijuk 奇句
 qijuk 气咀
 qijulg 起巨浪
 qijus 七局
-qijus 栖居
 qijus 棋局
+qijus 栖居
 qijus 起居
 qijutf 起居厅
 qijuui 起居室
@@ -293295,8 +293304,8 @@ qulege 娶了个
 qulem 取乐
 quleqi 娶了妻
 quleta 娶了她
-qulez 娶了
 qulez 取了
+qulez 娶了
 qulf 去领
 qulfg 青史流芳
 qulfg 青史留芳
@@ -306735,6 +306744,7 @@ sgbadi 桑巴蒂
 sgbawu 桑巴舞
 sgbaxl 桑坝乡
 sgbclx 桑宝林
+sgbd 丧败
 sgbdpi 桑白皮
 sgbghu 丧邦乎
 sgbivk 桑壁镇
@@ -316327,6 +316337,7 @@ suvg 苏章
 suvi 素质
 suvid 苏制
 suviji 速止剂
+suvik 素知
 suvim 宿植
 suvio 苏之
 suviq 俗智
@@ -355238,6 +355249,7 @@ ukugc 水阔山高
 ukugk 参商
 ukugk 深商
 ukugr 神伤
+ukugs 伸上
 ukugwk 身上纹
 ukugxm 肾上腺
 ukui 身世
@@ -394037,6 +394049,7 @@ vzghjb 争冠军
 vzght 争冠
 vzghyf 郑观应
 vzghzu 争冠组
+vzgj 正感
 vzgjug 正赶上
 vzgk 整根
 vzgkm 正根
@@ -405711,8 +405724,8 @@ wozdhu 我在乎
 wozdne 我在呢
 wozdqu 我再去
 wozds 我崽
-wozdt 卧在
 wozdt 握在
+wozdt 卧在
 wozdt 窝在
 wozdur 握在手
 wozdvc 我再找
@@ -415203,9 +415216,9 @@ wwyrr 蔚优
 wwyrr 我为鱼肉
 wwyrt 为由
 wwyrv 微有
+wwyrv 惟有
 wwyrv 为有
 wwyrv 未有
-wwyrv 惟有
 wwyrvi 为优质
 wwyrxn 为有效
 wwyrxn 未有效
@@ -416431,6 +416444,7 @@ xbvgp 巡长
 xbvi 殉职
 xbvid 熏制
 xbvit 寻址
+xbvit 寻至
 xbvj 巡展
 xbvk 巡诊
 xbvrk 吓不住人
@@ -425837,6 +425851,7 @@ xlannt 项按钮
 xlanqu 翔安区
 xlb 相比
 xlba 想把
+xlbab 香疤
 xlbabg 象拔蚌
 xlbala 香巴拉
 xlbalc 乡巴佬
@@ -460850,8 +460865,8 @@ yifgjp 异芳芥
 yifgmf 医方明
 yifgmm 一方面
 yifgo 圆成佛果
-yifgp 一放
 yifgp 以防
+yifgp 一放
 yifgp 移防
 yifgti 一放体
 yifgtu 一方土
@@ -463923,8 +463938,8 @@ yiruli 异蠕鳢
 yirun 亦如
 yirun 忆如
 yirun 易如
-yirup 一入
 yirup 移入
+yirup 一入
 yirute 易如特
 yirutg 异乳糖
 yiruuh 益汝栓
@@ -466248,8 +466263,8 @@ yiyidf 以一定
 yiyidm 一一点
 yiyidm 移一点
 yiyidu 疑义度
-yiyif 一揖
 yiyif 一役
+yiyif 一揖
 yiyig 一吹一唱
 yiyig 倚窗犹唱
 yiyige 以一个
@@ -486675,8 +486690,8 @@ zcldhs 早濑弘
 zcldle 早来了
 zcle 糟了
 zclez 早了
-zclez 造了
 zclez 遭了
+zclez 造了
 zclf 早领
 zclfcb 枣岭村
 zcli 皂隶
@@ -489995,8 +490010,8 @@ zgdu 藏独
 zgduy 脏读
 zgerkg 臧尔康
 zgfrk 子贡方人
+zgfu 脏腑
 zgfumo 脏腹膜
-zgfuv 脏腑
 zgfuv 藏服
 zgfys 自告奋勇
 zgg 赃官
@@ -496553,6 +496568,7 @@ zuhexf 组合型
 zuhexm 组合线
 zuhexy 组合学
 zuhezi 组合字
+zuhf 足踝
 zuhfa 早生华发
 zuhfg 左手画方
 zuhfju 足踝疽
@@ -496675,6 +496691,7 @@ zukbda 祖昆达
 zukc 祖考
 zuke 租客
 zukek 足可
+zukeyu 足可与
 zukf 组块
 zukg 阻抗
 zukgjn 阻抗角
@@ -496903,6 +496920,7 @@ zuugc 自视甚高
 zuugqs 祖上穷
 zuugrr 俎上肉
 zuugs 组上
+zuugs 足上
 zuui 祖师
 zuuidm 祖师殿
 zuuima 祖师麻
