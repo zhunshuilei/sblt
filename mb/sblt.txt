@@ -14517,6 +14517,7 @@ bgyye 不敢用也
 bgyye 暴骨原野
 bgyyf 不管盈盈
 bgyyr 白国因由
+bgz 棒子
 bgza 绑扎
 bgzadd 绑扎带
 bgzamo 绑扎模
@@ -20712,6 +20713,7 @@ bmld 便来
 bmlddc 便来到
 bmldh 变来
 bmle 变了
+bmlebm 扁了扁
 bmlege 编了个
 bmleww 变了味
 bmlexx 变了心
@@ -44400,8 +44402,8 @@ dahhw 大环
 dahi 炟
 dahj 大喊
 dahjb 打鼾
-dahjd 大汉
 dahjd 大汗
+dahjd 大汉
 dahjh 搭焊
 dahjji 大韩继
 dahjjm 大汉奸
@@ -47450,8 +47452,8 @@ daxmjp 大仙界
 daxmk 大县
 daxmk 达县
 daxmnm 大线鲶
-daxmp 大限
 daxmp 大险
+daxmp 大限
 daxmq 大显
 daxmqm 打线钳
 daxmsi 大仙寺
@@ -54922,6 +54924,7 @@ dhfk 端芬
 dhfke 打诨发科
 dhfkxi 段分析
 dhftg 蹈火赴汤
+dhfu 短服
 dhfugd 段覆盖
 dhfuh 端甫
 dhfujf 短匐茎
@@ -55077,6 +55080,7 @@ dhjiia 端基叉
 dhjit 端基
 dhjiua 短棘鲨
 dhjiv 短肌
+dhjk 段家
 dhjkbc 段家堡
 dhjkcb 段家村
 dhjkd 短夹
@@ -55460,6 +55464,7 @@ dhuij 断市
 dhuij 端视
 dhuijm 短时间
 dhuik 大海石沉
+dhuip 段氏
 dhuiq 短时
 dhuiqi 短时期
 dhuis 断事
@@ -57857,6 +57862,7 @@ disuw 迪素
 disxi 大乘三系
 diszg 大乘三藏
 dit 第
+dita 敌他
 ditaer 迪塔尔
 ditbi 当车螳臂
 ditbz 地坼天崩
@@ -58838,6 +58844,7 @@ diyixl 第一项
 diyixm 第一弦
 diyixm 第一线
 diyixy 地衣学
+diyiy 嫡裔
 diyiye 第一页
 diyiyf 地衣瘿
 diyiyf 第一营
@@ -81513,6 +81520,7 @@ fjbuln 翻不了
 fjbumm 帆布面
 fjbuqi 泛不起
 fjbuqi 翻不起
+fjburu 反不如
 fjbutp 反补贴
 fjbuu 风景不殊
 fjbuug 犯不上
@@ -82760,8 +82768,8 @@ fjukjk 翻身架
 fjuklb 泛神论
 fjukme 烦什么
 fjukn 烦神
-fjukp 返身
 fjukp 反身
+fjukp 返身
 fjukso 反申索
 fjuktr 反渗透
 fjuktr 返渗透
@@ -89463,6 +89471,7 @@ fuwuyz 服务员
 fuwuzu 服务组
 fuwvj 法师惟湛
 fuww 复位
+fuwwd 复为
 fuwwh 傅薇
 fuwwhh 复位环
 fuwwhv 妇委会
@@ -111364,6 +111373,7 @@ gsyu 公寓
 gsyucb 公寓村
 gsyucb 共裕村
 gsyud 共浴
+gsyuf 共御
 gsyuhq 公寓化
 gsyuhv 龚余辉
 gsyuil 公寓床
@@ -117323,6 +117333,7 @@ hbxtr 话不相投
 hbxu 惛
 hbxui 呵笔寻诗
 hbxui 红白喜事
+hbxui 互不相识
 hbxvs 祸不旋踵
 hbxxd 荤辛
 hbxxf 缓步徐行
@@ -124878,8 +124889,8 @@ hhsxl 和合四象
 hhsyj 河汉斯言
 hht 寰
 hhta 还他
-hhtan 换她
 hhtan 还她
+hhtan 换她
 hhtar 换他
 hhtat 换它
 hhtat 还它
@@ -132561,8 +132572,8 @@ hqmoyu 花魔芋
 hqmqf 魂祈梦请
 hqmrs 狐裘蒙戎
 hqmrs 狐裘蒙茸
-hqmu 花木
 hqmu 骅
+hqmu 花木
 hqmuck 花木岑
 hqmuh 桦木
 hqmuib 桦木醇
@@ -144153,12 +144164,13 @@ iahuzi 茶胡子
 iahv 茶会
 iahvk 插回
 iai 查出
-iaia 嚓嚓
+iaia 查查
 iaiaba 查查吧
 iaiaf 插插
 iaiafg 杈杈房
 iaiak 喳喳
-iaiam 查查
+iaiak 嚓嚓
+iaiat 查察
 iaiay 叉叉
 iaic 查抄
 iaie 叉车
@@ -158885,6 +158897,7 @@ iulemf 出了名
 iulemk 出了门
 iuleni 除了你
 iulenm 出了年
+iuleqi 出了气
 iuleta 除了他
 iuleui 出了事
 iuleyh 出了院
@@ -181549,6 +181562,7 @@ jnmad 椒麻
 jnmad 脚麻
 jnmad 蕉麻
 jnmaji 椒麻鸡
+jnman 叫妈
 jnmas 角码
 jnmauz 叫骂声
 jnmaxl 交麻乡
@@ -182822,8 +182836,8 @@ jnzowu 矫作物
 jnzoye 交作业
 jnzr 叫走
 jnzs 教宗
-jnzsw 娇纵
 jnzsw 骄纵
+jnzsw 娇纵
 jnzu 交租
 jnzuh 缴租
 jnzus 交足
@@ -195525,6 +195539,7 @@ kai 卡车
 kaia 咔嚓
 kaiaer 卡查尔
 kaiaf 卡插
+kaiak 喀嚓
 kaiauz 喀嚓声
 kaiayu 咔嚓鱼
 kaie 卡车
@@ -220317,8 +220332,8 @@ llvr 两周
 llvrbj 两周半
 llvrbj 梁肘板
 llvrc 两州
-llvrc 两轴
 llvrc 凉州
+llvrc 两轴
 llvrci 凉州词
 llvrhj 梁周翰
 llvrhr 两周后
@@ -221594,6 +221609,7 @@ lmrsxm 莲蓉馅
 lmru 炼乳
 lmrubc 链蠕孢
 lmrun 莲如
+lmrun 脸如
 lmrup 连入
 lmrvhs 莲蕊红
 lmrvia 连蕊茶
@@ -268286,6 +268302,7 @@ pcz 泡澡
 pczc 泡澡
 pczd 泡在
 pczdm 抛栽
+pczdt 抛在
 pczdt 跑在
 pcze 袍泽
 pczi 狍子
@@ -280357,8 +280374,8 @@ qfuif 轻施
 qfuigc 清史稿
 qfuige 晴世格
 qfuigo 请示过
-qfuih 磬石
 qfuih 青石
+qfuih 磬石
 qfuihr 请示后
 qfuijm 请示件
 qfuik 情史
@@ -285494,8 +285511,8 @@ qiwgcb 齐王村
 qiwgdu 期望度
 qiwgfk 七王坟
 qiwgfu 祁王府
-qiwgh 岐王
 qiwgh 棋王
+qiwgh 岐王
 qiwgh 祁王
 qiwgh 齐王
 qiwgji 起网机
@@ -285550,6 +285567,7 @@ qiwuhd 七武海
 qiwuhv 齐无悔
 qiwuji 气雾剂
 qiwulb 齐物论
+qiwun 奇物
 qiwun 齐物
 qiwuqi 七武器
 qiwur 欺侮
@@ -302058,6 +302076,7 @@ rrse 肉色
 rrsh 鞣酸
 rrshmw 鞣酸酶
 rrsi 肉丝
+rrsih 柔丝
 rrsimm 肉丝面
 rrsitg 肉丝汤
 rrsjgl 柔散光
@@ -308424,7 +308443,7 @@ sidzti 四等体
 sidzve 死瞪着
 sie 思恩
 siedi 四重二谛
-sieec 四轭
+siee 四轭
 sieedc 四恶道
 sieequ 四恶趣
 sieexl 斯俄乡
@@ -316790,6 +316809,7 @@ sutc 俗套
 sutcd 塑套
 sutcd 三世同财
 sutch 三世同爨
+sutcl 速逃
 sutcsu 素桃酥
 sutcxf 速逃星
 sutda 斯事体大
@@ -329651,6 +329671,7 @@ tmuidc 天使岛
 tmuidc 天师道
 tmuids 天师洞
 tmuigl 田世光
+tmuih 天石
 tmuij 天师
 tmuikg 天施康
 tmuil 恬适
@@ -342624,8 +342645,8 @@ uejiti 设计题
 uejitj 社稷坛
 uejitu 设计图
 uejiui 射击时
-uejiui 设计室
 uejiui 设计师
+uejiui 设计室
 uejiui 设计时
 uejiur 射击手
 uejiuu 设计书
@@ -343062,6 +343083,7 @@ uevlwu 舌状物
 uevru 十二真如
 uevs 射中
 uevsge 舌中隔
+uevsr 舍众
 uevu 射住
 uevvg 善恶昭彰
 uevvi 生而知之
@@ -350284,6 +350306,7 @@ uitn 失调
 uitnjn 失调角
 uitnm 十条
 uitnm 石条
+uitnm 是条
 uitnui 诗条石
 uitnvz 失调症
 uitnz 试跳
@@ -355147,6 +355170,7 @@ ukjpui 肾结石
 ukjpy 申诫
 ukjpy 神诫
 ukjt 深究
+ukjtp 甚久
 ukjtp 申九
 ukju 神剧
 ukjuhl 深桔黄
@@ -380452,8 +380476,8 @@ viwuk 支吾
 viwuku 植物库
 viwula 植物蜡
 viwulj 置物篮
-viwun 之物
 viwun 植物
+viwun 之物
 viwun 指物
 viwun 织物
 viwun 置物
@@ -383928,8 +383952,8 @@ vkwkk 真问
 vkwle 执苦为乐
 vkwmw 止渴望梅
 vkwo 真我
-vkwu 珍物
 vkwu 珍
+vkwu 珍物
 vkwudm 真武殿
 vkwufg 真乌鲂
 vkwuh 真无
@@ -405291,6 +405315,7 @@ woiule 我除了
 woiuqu 我出去
 woiuvs 我初中
 woiz 我成
+woizg 握成
 woizgs 我成功
 woizqh 握成拳
 woizrk 我承认
@@ -410307,8 +410332,8 @@ wuuiqi 巫师棋
 wuuir 务使
 wuuirk 五十人
 wuuirk 无事人
-wuuis 无事
 wuuis 物事
+wuuis 无事
 wuuis 误事
 wuuisi 五十四
 wuuisi 巫师四
@@ -419932,7 +419957,7 @@ xhbuiu 选不出
 xhbuvs 选不中
 xhbuwj 宣补丸
 xhbuyu 宣布与
-xhbwv 旋背
+xhbw 旋背
 xhbx 玄彬
 xhbyy 羞花闭月
 xhc 轩
@@ -423618,8 +423643,8 @@ xiuilm 喜事连
 xiuilv 吸湿率
 xiuilv 稀释率
 xiuimk 西石门
-xiuiq 惜时
 xiuiq 昔时
+xiuiq 惜时
 xiuiqi 吸湿器
 xiuiqi 稀释器
 xiuiqu 西市区
@@ -425985,7 +426010,8 @@ xkssi 喜克索斯
 xksu 下宿
 xksvfj 下髓帆
 xkt 夏天
-xkta 下榻
+xkta 吓她
+xktam 下榻
 xktat 下塌
 xktb 下屯
 xktbww 下臀围
@@ -433455,6 +433481,7 @@ xnjf 孝敬
 xnjfdi 孝静帝
 xnjff 小径
 xnjfig 小经厂
+xnjfj 小镜
 xnjflf 小精灵
 xnjfmd 小静脉
 xnjfq 小景
@@ -440174,7 +440201,8 @@ xuhz 盱衡
 xuhzo 携手合作
 xuhzx 许衡
 xui 续传
-xuiah 续茶
+xuia 续茶
+xuiam 续查
 xuib 徐春
 xuibib 许纯纯
 xuibmw 许纯美
@@ -442691,6 +442719,7 @@ xxjfji 新经济
 xxjfjp 新境界
 xxjflu 新径路
 xxjfmd 心静脉
+xxjfp 心敬
 xxjfq 心静
 xxjfq 新景
 xxjftr 新镜头
@@ -455244,8 +455273,8 @@ yfxldm 影像店
 yfxldu 影响度
 yfxlfa 影响法
 yfxljn 硬橡胶
-yfxlk 应向
 yfxlk 迎向
+yfxlk 应向
 yfxlke 影像客
 yfxlku 影像库
 yfxlli 影响力
@@ -459258,8 +459287,8 @@ yhmwyh 原酶原
 yhmwyr 远没有
 yhmz 圆梦
 yhmzbc 圆梦宝
-yhmzx 袁梦
 yhmzx 鸳梦
+yhmzx 袁梦
 yhmzyh 圆梦园
 yhn 媛
 yhncpi 原脑皮
@@ -461584,8 +461613,8 @@ yiduzi 一肚子
 yiduzo 抑毒唑
 yidv 一堆
 yidvc 一对
-yidvc 亦对
 yidvc 以对
+yidvc 亦对
 yidvc 已对
 yidvdo 一对多
 yidvdv 一堆堆
@@ -463068,8 +463097,8 @@ yijnjp 已交接
 yijnk 一叫
 yijnkh 溢缴款
 yijnm 一校
-yijnp 一角
 yijnp 衣角
+yijnp 一角
 yijnp 异教
 yijnp 壹角
 yijnqf 已缴清
@@ -463192,6 +463221,7 @@ yijvg 元陈君璋
 yijvu 运筹借箸
 yijx 一进
 yijxbi 铱金笔
+yijxd 一浸
 yijxdc 一进到
 yijxdg 已今当
 yijxjf 易筋经
@@ -471973,8 +472003,8 @@ yrdcer 诱导二
 yrdcgh 有导管
 yrdcji 诱导剂
 yrdcl 又道
-yrdcl 有道
 yrdcl 友道
+yrdcl 有道
 yrdcl 油道
 yrdclb 诱导轮
 yrdcle 又到了
@@ -477832,6 +477862,7 @@ yuda 雨打
 yuda 潏
 yudabc 于大宝
 yudabm 与答辩
+yudaf 欲打
 yudafu 郁达夫
 yudah 域大
 yudah 愈大
@@ -480607,8 +480638,8 @@ yuuvm 欲睡
 yuuvqf 雨水情
 yuuvqf 鱼水情
 yuuvqu 渝水区
-yuuvs 渝水
 yuuvs 遇水
+yuuvs 渝水
 yuuvs 鱼水
 yuuvuu 御水术
 yuuvvd 玉水寨
@@ -480936,8 +480967,8 @@ yuwgh 育王
 yuwgh 誉王
 yuwgh 鱼王
 yuwghc 欲望号
-yuwgk 域网
 yuwgk 渔网
+yuwgk 域网
 yuwglo 与网络
 yuwgn 愚妄
 yuwgnm 与往年
@@ -485346,6 +485377,7 @@ yyhys 优游涵泳
 yyhys 燕跃鹄踊
 yyi 越差
 yyia 越差
+yyiajx 越差劲
 yyiayy 越差越
 yyiayy 越查越
 yyiayy 越插越
@@ -485629,6 +485661,7 @@ yyllxf 月亮型
 yyllxf 月亮形
 yyllyh 月亮圆
 yyllyi 月亮椅
+yylm 越练
 yylmf 呦呦鹿鸣
 yylmk 鱼跃龙门
 yylmyy 越练越
@@ -487747,8 +487780,8 @@ zcqxh 燥芹
 zcr 早日
 zcre 燥热
 zcri 早日
-zcrk 造人
-zcrkp 遭人
+zcrk 遭人
+zcrkp 造人
 zcrkr 枣仁
 zcrr 糟肉
 zcrrs 枣肉
