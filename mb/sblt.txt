@@ -16300,8 +16300,8 @@ biuilm 闭式链
 biuina 毕施纳
 biuini 鄙视你
 biuipi 彼氏魮
-biuiq 彼时
 biuiq 必是
+biuiq 彼时
 biuir 逼仕
 biuir 逼使
 biuir 避仕
@@ -34948,6 +34948,7 @@ cclvis 草履虫
 cclvj 槽铝
 cclvjp 草履蚧
 cclvm 草驴
+cclvs 草履
 cclvse 草绿色
 cclw 草类
 cclwv 操雷
@@ -67270,7 +67271,7 @@ drln 都聊
 drlnjp 都了解
 drlnm 兜料
 drlo 抖落
-drlow 斗罗
+drlow 兜罗
 drlpdg 豆列当
 drlr 抖搂
 drlrk 达人立人
@@ -76455,8 +76456,8 @@ ersjji 二三极
 ersjlt 二三流
 ersjnm 二三年
 ersjp 耳散
-ersjui 二三事
 ersjui 二三十
+ersjui 二三事
 ersjvc 二三兆
 ersjwj 二三万
 ersjww 二三位
@@ -89743,8 +89744,8 @@ fuvsdu 氟中毒
 fuvsh 复种
 fuvslb 负重轮
 fuvsr 服众
-fuvsr 富重
 fuvsr 负重
+fuvsr 富重
 fuvss 腹中
 fuvss 府中
 fuvss 福中
@@ -115265,8 +115266,8 @@ gvvam 硅栅
 gvvayj 鬼眨眼
 gvvc 归赵
 gvvdji 圭斋集
-gvve 鳜
 gvve 跪着
+gvve 鳜
 gvvec 轨辙
 gvvem 归着
 gvvene 贵着呢
@@ -123267,8 +123268,8 @@ hevsyi 何仲仪
 hevsyr 何忠友
 hevuh 合著
 hevujk 褐蛛甲
-hevur 合住
 hevur 喝住
+hevur 合住
 hevzfw 核证费
 hevzlu 鹤徵录
 hevzmf 何正明
@@ -141237,8 +141238,8 @@ hvmpve 毁灭者
 hvmpxf 毁灭性
 hvmr 回眸
 hvmrui 回眸时
-hvmu 回目
 hvmu 桧
+hvmu 回目
 hvmubu 灰幕布
 hvmud 慧沐
 hvmuh 慧木
@@ -151904,8 +151905,8 @@ iibib 吃毕
 iibifu 赤壁赋
 iibij 持币
 iibisa 吃比萨
-iibit 池壁
 iibit 赤壁
+iibit 池壁
 iibiui 赤壁市
 iibiv 赤臂
 iibjbf 赤斑病
@@ -171516,8 +171517,8 @@ jitdxx 肌肽锌
 jitdxy 畸胎学
 jitdyh 激肽原
 jite 寄
-jitee 籍
 jitee 笄
+jitee 籍
 jiteer 基特尔
 jiteer 济特耳
 jitei 箕
@@ -217374,8 +217375,8 @@ liujqf 李善庆
 liujqu 立山区
 liujri 李善日
 liujrs 李善荣
-liujs 李山
 liujs 骊山
+liujs 李山
 liujs 黎山
 liujuj 李珊珊
 liujv 李鱓
@@ -229086,8 +229087,8 @@ ltmotg 六磨汤
 ltmr 刘某
 ltmrmr 刘某某
 ltmrrk 刘某人
-ltmu 柳木
 ltmu 榴
+ltmu 柳木
 ltmua 骝
 ltmubj 六目半
 ltmuh 刘穆
@@ -243684,8 +243685,8 @@ migcmw 米高梅
 migcyg 米高扬
 migdxi 密盖息
 migdya 米该雅
-mige 米格
 mige 弭
+mige 米格
 migeer 米格尔
 migeji 米格机
 migels 米戈龙
@@ -247685,8 +247686,8 @@ modd 末代
 modder 莫代尔
 moddj 墨带
 moddwg 末代王
-mode 磨的
 mode 漠
+mode 磨的
 modeb 摸的
 modebi 抹得比
 modebi 摸得比
@@ -275529,6 +275530,7 @@ poq 猼
 poqh 破圈
 poqi 破七
 poqid 泼漆
+poql 破墙
 poqp 迫切
 poqpxf 迫切性
 poqu 泼去
@@ -282260,8 +282262,8 @@ qfxtsh 氢溴酸
 qfxu 情绪
 qfxuf 清徐
 qfxugh 清虚观
-qfxuh 晴虚
 qfxuh 清虚
+qfxuh 晴虚
 qfxuhq 情绪化
 qfxure 清虚热
 qfxuug 情绪上
@@ -288740,6 +288742,7 @@ qlrr 炝肉
 qlrrk 清陆孺人
 qlru 强如
 qlrun 枪如
+qlrup 抢入
 qlruv 清泪如水
 qlrwu 趋利若骛
 qls 呛死
@@ -291450,8 +291453,8 @@ qmyfxl 前营乡
 qmyfxl 浅影像
 qmyg 前仰
 qmygcb 前洋村
-qmygd 前洋
 qmygd 牵羊
+qmygd 前洋
 qmyghs 浅洋红
 qmygli 牵羊礼
 qmyglu 千阳路
@@ -293866,8 +293869,9 @@ qtjbd 邱濬
 qtjbi 犬兔俱毙
 qtjbs 邱峻
 qtjdi 穷天极地
-qtjf 球茎
+qtjf 求经
 qtjff 球径
+qtjfh 球茎
 qtjfji 球径计
 qtjfl 遒劲
 qtjflj 球茎兰
@@ -344090,8 +344094,8 @@ uedfxl 设定项
 uedfye 麝丁液
 uedfzd 设定在
 uedhs 蛇段
-uedi 舍弟
 uedi 涉
+uedi 舍弟
 uedier 设底儿
 uedig 舌底
 uediqm 蛇地钱
@@ -349123,8 +349127,8 @@ uigr 是狗
 uigrd 石沟
 uigru 神出鬼入
 uigs 施工
-uigsb 实公
 uigsb 师公
+uigsb 实公
 uigsbu 施工部
 uigsdi 施工地
 uigsdv 施工队
@@ -352720,6 +352724,7 @@ uivj 实战
 uivjg 势战
 uivjgo 实战过
 uivjl 十站
+uivjm 失瞻
 uivjmf 石占明
 uivjpm 实战篇
 uivjs 施展
@@ -354397,9 +354402,9 @@ uizuh 湿租
 uizulw 十足类
 uizuma 始祖马
 uizumu 十足目
-uizun 世祖
-uizun 始祖
 uizun 师祖
+uizun 始祖
+uizun 世祖
 uizunv 失足女
 uizup 湿阻
 uizupi 始祖魮
@@ -378734,8 +378739,8 @@ vibcr 志保
 vibcr 智保
 vibcr 植保
 vibcr 治保
-vibct 至宝
 vibct 之宝
+vibct 至宝
 vibctr 纸包头
 vibcvj 植保站
 vibcvl 纸包装
@@ -380393,8 +380398,8 @@ vijmqn 趾腱鞘
 vijmr 制件
 vijmr 织件
 vijms 只见
-vijms 知见
 vijms 之见
+vijms 知见
 vijmso 质检所
 vijmso 质监所
 vijmt 志坚
@@ -410076,8 +410081,8 @@ wuhldi 武皇帝
 wuhlgc 五黄膏
 wuho 无货
 wuhod 五活
-wuhod 武火
 wuhod 无火
+wuhod 武火
 wuhods 无活动
 wuholb 物活论
 wuhols 武活龙
@@ -410519,8 +410524,8 @@ wujix 无忌
 wujixm 无极县
 wujixm 无极限
 wujixy 巫继学
-wujiy 无记
 wujiy 无计
+wujiy 无记
 wujiyj 无机盐
 wujiz 戊己
 wujiz 无己
@@ -415420,8 +415425,8 @@ wwjin 喂鸡
 wwjini 维吉妮
 wwjinm 为纪念
 wwjip 危及
-wwjip 未几
 wwjip 未及
+wwjip 未几
 wwjiqh 维肌泉
 wwjirk 违纪人
 wwjish 位计算
@@ -420453,6 +420458,7 @@ xfjnhr 性交后
 xfjnlv 性焦虑
 xfjnp 行教
 xfjnsi 兴教寺
+xfjnsz 行脚僧
 xfjnts 性交痛
 xfjntu 性交图
 xfjnug 行脚商
@@ -425343,8 +425349,8 @@ xiqupd 戏曲牌
 xiqupm 戏曲片
 xiquq 戏曲
 xiqut 洗去
-xiqut 吸去
 xiqut 西去
+xiqut 吸去
 xiquv 析取
 xiquv 袭取
 xiquxl 析取项
@@ -443641,8 +443647,8 @@ xuysp 须用
 xuyss 旬输月送
 xuysuz 许永生
 xuysxm 叙永县
-xuyu 须臾
 xuyu 叙
+xuyu 须臾
 xuyuh 须与
 xuyuhq 许昱华
 xuyui 雄视一世
@@ -464667,8 +464673,8 @@ yihltg 益黄汤
 yihlts 异黄酮
 yihlxm 宜黄县
 yihlyj 一晃眼
-yiho 薏
 yiho 疑惑
+yiho 薏
 yihob 易货
 yihobi 一货币
 yihobi 易货币
@@ -465272,8 +465278,8 @@ yijklb 一加仑
 yijkle 亿家乐
 yijklx 易佳林
 yijkm 一架
-yijkm 椅架
 yijkm 衣架
+yijkm 椅架
 yijkmk 一家门
 yijknm 翼甲鲶
 yijknz 亿家能
@@ -477383,8 +477389,8 @@ yrviv 油脂
 yrviv 右肢
 yrvive 有志者
 yrvivu 釉质珠
-yrviw 右置
 yrviw 油纸
+yrviw 右置
 yrviwg 有指望
 yrvix 有志
 yrvixm 油脂腺
@@ -479027,8 +479033,8 @@ ysild 永创
 ysinj 一索成男
 ysiu 用处
 ysiuk 涌出
-ysiuk 用出
 ysiuk 拥出
+ysiuk 用出
 ysiuld 涌出来
 ysiuwu 涌出无
 ysiv 永垂
