@@ -16398,9 +16398,9 @@ bive 鲾
 bivege 比这个
 bivel 比这
 bivem 比着
+bivem 闭着
 bivem 逼着
 bivem 避着
-bivem 闭着
 bivene 比着呢
 bivene 闭着呢
 biveyj 闭着眼
@@ -59437,8 +59437,8 @@ djbfs 蛋饼
 djbfu 打击报复
 djbg 单帮
 djbgxm 单邦显
-djbi 但比
 djbi 疸
+djbi 但比
 djbidn 单臂吊
 djbih 丹比
 djbih 单比
@@ -71555,6 +71555,7 @@ duzib 独资
 duzib 赌资
 duzibu 犊子部
 duzidh 读字段
+duzige 独自个
 duzigs 杜子恭
 duzij 定山祖禅
 duzili 肚子里
@@ -110602,8 +110603,8 @@ gsjiv 肱肌
 gsjive 供给者
 gsjive 攻击者
 gsjivi 供给制
-gsjiw 供给
 gsjiw 功绩
+gsjiw 供给
 gsjiwg 共济网
 gsjiww 共计为
 gsjixf 拱极星
@@ -127222,8 +127223,8 @@ hjuvh 含税
 hjuvjk 含税价
 hjuvll 含水量
 hjuvlv 含水率
-hjuvm 酣睡
 hjuvm 鼾睡
+hjuvm 酣睡
 hjuvs 含水
 hjuvs 寒水
 hjuvs 汉水
@@ -140931,8 +140932,8 @@ hvjyvz 蛔厥证
 hvjzi 花中君子
 hvjzi 鸿章钜字
 hvk 回
-hvka 会卡
 hvka 喙
+hvka 会卡
 hvkab 惠卡
 hvkab 灰卡
 hvkafw 灰咖啡
@@ -151151,8 +151152,8 @@ ihjpqt 传接球
 ihjrv 吹花嚼蕊
 ihjtd 川酒
 ihjtxp 穿旧鞋
-ihju 川剧
 ihju 钏
+ihju 川剧
 ihjuyh 川剧院
 ihjx 穿进
 ihjxl 传进
@@ -159058,8 +159059,8 @@ iudcz 出刀
 iudd 初代
 iuddmu 初代目
 iuddqi 储带器
-iude 濋
 iude 出得
+iude 濋
 iudeb 出的
 iudebi 出得比
 iudebi 处得比
@@ -185440,8 +185441,8 @@ jprolx 婕若琳
 jprrs 戒肉
 jprsm 捷荣
 jprsul 洁容霜
-jpru 接入
 jpru 介
+jpru 接入
 jpruci 皆如此
 jprudh 接入端
 jprufw 接入费
@@ -231106,8 +231107,8 @@ luglvs 卢广仲
 luglww 卢广伟
 luglzu 陆光祖
 lugmm 乱首垢面
-lugo 路过
 lugo 庐
+lugo 路过
 lugoba 卢锅巴
 lugocc 颅果草
 lugogo 芦蝈蝈
@@ -248363,8 +248364,8 @@ momo 默默
 momod 漠漠
 momode 默默地
 momodi 摸摸底
-momof 摸摸
 momof 抹抹
+momof 摸摸
 momof 末摩
 momokj 摸摸看
 momolm 摸摸脸
@@ -253006,8 +253007,8 @@ mwndmx 美耐皿
 mwndqy 美乃雀
 mwndv 美耐
 mwndxx 没耐心
-mwne 没呢
 mwne 媒
+mwne 没呢
 mwnflu 美柠露
 mwnhqi 没暖气
 mwni 没你
@@ -315545,9 +315546,9 @@ soto 所托
 sotp 所贴
 sotr 锁头
 sotrbc 锁头包
+sotrd 缩头
 sotrd 梭头
 sotrd 索头
-sotrd 缩头
 sotris 缩头虫
 sotrlu 梭头鲈
 sotshe 缩瞳核
@@ -350486,8 +350487,8 @@ uileui 诗乐氏
 uilexf 释了性
 uilexx 施乐欣
 uileyh 失乐园
-uilez 使了
 uilez 失了
+uilez 使了
 uilez 是了
 uilez 湿了
 uilez 拾了
@@ -353124,8 +353125,8 @@ uiwwk 屎味
 uiwwle 是为了
 uiwwli 狮威鲤
 uiwwlu 十纬路
-uiwwn 示威
 uiwwn 施威
+uiwwn 示威
 uiwwn 市委
 uiwwp 侍卫
 uiwwpf 时卫平
@@ -411107,8 +411108,8 @@ wullhv 无量慧
 wullie 五辆车
 wulljp 无量劫
 wulljy 无量觉
-wullm 五粮
 wullm 屋梁
+wullm 五粮
 wullpf 吴亮平
 wullt 乌亮
 wullui 无量世
@@ -412384,8 +412385,8 @@ wuuiqi 巫师棋
 wuuir 务使
 wuuirk 五十人
 wuuirk 无事人
-wuuis 物事
 wuuis 无事
+wuuis 物事
 wuuis 误事
 wuuisi 五十四
 wuuisi 巫师四
@@ -426757,6 +426758,7 @@ xizdfa 息灾法
 xize 细则
 xize 舾
 xized 西泽
+xizei 躧
 xizeqy 喜泽鹊
 xizexl 洗泽乡
 xizg 西藏
@@ -430947,6 +430949,7 @@ xlvgl 杏林之光
 xlvglu 香樟路
 xlvglx 香樟林
 xlvgm 香樟
+xlvgq 香獐
 xlvguu 香樟树
 xlvgy 像章
 xlvh 想转
@@ -452965,6 +452968,7 @@ ycviii 要支持
 ycviji 药制剂
 ycvijk 咬指甲
 ycvik 遥知
+ycvik 要知
 ycviq 要旨
 ycviq 耀智
 ycviqx 姚智勤
@@ -453313,8 +453317,8 @@ ycyjf 妖艳
 ycyjge 要严格
 ycyji 雨凑云集
 ycyjjt 要研究
-ycyjm 夭阏
 ycyjm 耀眼
+ycyjm 夭阏
 ycyjm 腰眼
 ycyjp 姚彦
 ycyjq 姚晏
@@ -462805,8 +462809,8 @@ yhziyr 元子攸
 yhziyu 源自于
 yhziyx 原子印
 yhziz 原子
-yhziz 院子
 yhziz 园子
+yhziz 院子
 yhzlb 应和宗论
 yhzli 一合再离
 yhzme 用会作么
@@ -463172,8 +463176,8 @@ yibmhc 一变好
 yibmii 一边吃
 yibmjf 一遍净
 yibmkj 一边看
-yibml 一边
 yibml 一遍
+yibml 一边
 yibml 易边
 yibmll 依变量
 yibmln 一边聊
@@ -465616,8 +465620,8 @@ yikdue 已开设
 yikdui 一开始
 yikdui 已开始
 yikdvg 一开张
-yike 一刻
 yike 医
+yike 一刻
 yikea 匜
 yikeai 伊可爱
 yikebw 一颗贝
@@ -467139,10 +467143,10 @@ yirkmi 薏仁米
 yirkp 亿人
 yirkp 伊人
 yirkp 宜人
+yirkp 异人
 yirkp 怡人
 yirkp 艺人
 yirkp 依人
-yirkp 异人
 yirkqn 益人桥
 yirkr 一任
 yirkr 苡仁
@@ -468186,8 +468190,8 @@ yivel 一者
 yivel 医者
 yivem 依着
 yivem 倚着
-yiveu 羿
 yiveu 翳
+yiveu 羿
 yiveve 一折折
 yivevs 以这种
 yivevu 译者注
