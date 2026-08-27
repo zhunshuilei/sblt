@@ -58854,8 +58854,8 @@ dixk 底下
 dixkdc 地下道
 dixkdg 地下党
 dixkgh 地下管
-dixkh 地下
 dixkh 低下
+dixkh 地下
 dixkh 滴下
 dixkhe 地下河
 dixkhq 地下化
@@ -75001,8 +75001,8 @@ eeyuqm 鳄鱼钳
 eeyut 轭域
 eeyuwj 鄂豫皖
 eeyuxi 俄语系
-eeyuy 俄语
 eeyuy 恶语
+eeyuy 俄语
 eeyuy 阿谀
 eeyx 腭音
 eeyxk 恶因
@@ -112594,8 +112594,8 @@ guer 故而
 guerbg 古尔邦
 guerci 鼓儿词
 guerlw 孤儿泪
-guerp 孤儿
 guerp 箍儿
+guerp 孤儿
 guersu 固尔苏
 gueruu 顾二叔
 guerx 古尔
@@ -168922,8 +168922,8 @@ jidmd 积淀
 jidmdv 机电队
 jidmfa 计点法
 jidmgu 机电股
-jidmh 基点
 jidmh 极点
+jidmh 基点
 jidmh 积点
 jidmh 绩点
 jidmh 计点
@@ -186064,8 +186064,8 @@ jpxiz 接习
 jpxjt 旧瓶新酒
 jpxk 接下
 jpxkh 结下
-jpxkh 解下
 jpxkh 阶下
+jpxkh 解下
 jpxkh 截下
 jpxkh 揭下
 jpxkhk 节下痕
@@ -192473,8 +192473,8 @@ jxguqi 紧固器
 jxgus 筋骨
 jxgus 金骨
 jxgusj 筋骨散
-jxgut 金箍
 jxgut 紧箍
+jxgut 金箍
 jxgutd 金固太
 jxguui 进股市
 jxguve 禁锢着
@@ -222010,8 +222010,8 @@ lmdsgj 联动杆
 lmdsji 联动机
 lmdstd 联动台
 lmdsxf 联动性
-lmdu 连读
 lmdu 殓
+lmdu 连读
 lmdue 浰
 lmdum 连杜
 lmduo 潋
@@ -231107,8 +231107,8 @@ luglvs 卢广仲
 luglww 卢广伟
 luglzu 陆光祖
 lugmm 乱首垢面
-lugo 庐
 lugo 路过
+lugo 庐
 lugoba 卢锅巴
 lugocc 颅果草
 lugogo 芦蝈蝈
@@ -275061,6 +275061,7 @@ pnpfh 飘萍
 pnpk 瓢盆
 pnpn 飘飘
 pnpnd 漂漂
+pnpnf 飘飘
 pnpnrj 飘飘然
 pnpns 票票
 pnpo 瓢泼
@@ -336026,6 +336027,7 @@ tsdzjk 同等价
 tsdzsh 同邓算
 tse 同恩
 tsen 同恩
+tser 童儿
 tserti 童儿体
 tsf 捅
 tsfa 同发
@@ -339445,6 +339447,7 @@ tuzor 土佐
 tuzotz 土佐鰧
 tuzu 土族
 tuzuhe 凸组合
+tuzw 秃贼
 tuzz 徒增
 tuzzt 突增
 tv 推
@@ -351843,8 +351846,8 @@ uisske 石松科
 uisslv 十诵律
 uissui 食松实
 uisszi 石松子
-uisu 世俗
 uisu 饰
+uisu 世俗
 uisua 舐
 uisuda 时速达
 uisudi 世俗谛
@@ -368286,8 +368289,8 @@ uxyhq 水性杨花
 uxyik 受械于陈
 uxyir 稍逊一筹
 uxyji 殊勋异绩
-uxymu 爽心悦目
 uxymu 赏心悦目
+uxymu 爽心悦目
 uxymu 适心娱目
 uxyqi 十玄缘起
 uxyvi 上下一致
@@ -379010,8 +379013,8 @@ vicdm 知材
 vicdm 纸材
 vicdxf 制裁性
 vicdz 只采
-vice 之策
 vice 蛭
+vice 之策
 vicea 轾
 viced 智测
 viced 质测
@@ -394757,8 +394760,8 @@ vuwwn 助威
 vuwwp 主卫
 vuwwr 主位
 vuwwr 朱伟
-vuwws 猪尾
 vuwws 麈尾
+vuwws 猪尾
 vuwwth 助威团
 vuwwvi 主位置
 vuwwxt 祝维秀
@@ -455934,8 +455937,8 @@ yfcdwg 英才网
 yfcdys 应采用
 yfcdz 莹采
 yfche 驭凤骖鹤
-yfci 应慈
 yfci 蝇
+yfci 应慈
 yfcipj 硬磁盘
 yfcis 硬磁
 yfciz 英雌
@@ -464374,8 +464377,8 @@ yighmu 衣冠墓
 yighs 医馆
 yighs 艺馆
 yighs 驿馆
-yight 医官
 yight 衣冠
+yight 医官
 yight 一管
 yight 翼管
 yight 胰管
@@ -468869,9 +468872,9 @@ yiwwhv 以为会
 yiwwii 以维持
 yiwwij 一味禅
 yiwwik 一微尘
+yiwwk 异味
 yiwwk 一味
 yiwwk 意味
-yiwwk 异味
 yiwwk 一围
 yiwwke 依维柯
 yiwwkg 怡维康
@@ -496298,6 +496301,7 @@ zjfke 作奸犯科
 zjfmu 自掘坟墓
 zjfoji 赞佛偈
 zjfor 赞佛
+zjfu 揝
 zjfukh 暂付款
 zjfwer 赞菲尔
 zjfzv 作奸犯罪
