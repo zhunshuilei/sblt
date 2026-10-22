@@ -32941,8 +32941,8 @@ bwzili 杯子里
 bwzili 被子里
 bwzimn 贝子庙
 bwzitr 备自投
-bwziz 被子
 bwziz 辈子
+bwziz 被子
 bwziz 褙子
 bwzj 被咱
 bwzjb 被赞
@@ -59328,9 +59328,9 @@ dizixl 弟子相
 diziy 诋訾
 diziyh 帝梓元
 diziz 笛子
+diziz 底子
 diziz 嫡子
 diziz 帝子
-diziz 底子
 dizlf 大彻宗令
 dizo 底座
 dizo 蹢
@@ -88440,8 +88440,8 @@ fumn 府庙
 fumnji 伏秒积
 fumo 抚摸
 fumobi 腹膜襞
-fumod 浮沫
 fumod 覆没
+fumod 浮沫
 fumods 伏魔洞
 fumof 抚摩
 fumog 伏魔
@@ -89623,8 +89623,8 @@ fuvijp 负直接
 fuvijp 跗肢节
 fuvike 麸枳壳
 fuvilb 赋值论
-fuvim 副枝
 fuvim 扶植
+fuvim 副枝
 fuvimw 复制酶
 fuvin 福祉
 fuvio 富之
@@ -140629,8 +140629,8 @@ hvhsgu 汇鸿股
 hvhst 恢宏
 hvhsw 会红
 hvhtm 患至呼天
-hvhu 回护
 hvhu 烩
+hvhu 回护
 hvhubw 回湖北
 hvhud 回沪
 hvhulv 回护律
@@ -170567,8 +170567,8 @@ jiltt 稽留
 jiltt 系留
 jiltt 羁留
 jiltvr 急流轴
-jilu 麂
 jilu 记录
+jilu 麂
 jilubi 记录笔
 jilubk 记录本
 jilubn 己录表
@@ -171571,8 +171571,8 @@ jithw 几团
 jithw 基团
 jithxf 集团型
 jithxf 集团性
-jiti 寂
 jiti 集体
+jiti 寂
 jitidg 机体党
 jitif 挤提
 jitif 计提
@@ -172336,8 +172336,8 @@ jivsyc 极重要
 jivsyf 集中营
 jivsyu 集中于
 jivszd 集中在
-jivu 肌
 jivu 记住
+jivu 肌
 jivua 𬶭
 jivuaa 记住啊
 jivub 积贮
@@ -178103,8 +178103,8 @@ jlyum 蒋毓
 jlyup 江鱼
 jlyup 鳉鱼
 jlyuq 将欲
-jlyut 江域
 jlyut 疆域
+jlyut 江域
 jlyutu 降雨图
 jlyuv 将于
 jlyuv 降于
@@ -184073,8 +184073,8 @@ jpdgm 接档
 jpdgm 结档
 jpdh 阶段
 jpdhhr 阶段后
-jpdhj 截断
 jpdhj 戒断
+jpdhj 截断
 jpdhji 截断机
 jpdhl 借端
 jpdhnz 截断能
@@ -224788,8 +224788,8 @@ losihd 罗斯海
 losihe 螺丝盒
 losiie 螺丝车
 losij 罗斯
-losiji 螺丝机
 losiji 螺蛳鸡
+losiji 螺丝机
 losijx 罗斯金
 losikr 螺丝扣
 losimc 螺丝帽
@@ -293722,8 +293722,8 @@ qtdsuz 仇东升
 qtdsvl 秋冬装
 qtdsvs 秋冬种
 qtdto 漆桶底脱
-qtdu 泅渡
 qtdu 湫
+qtdu 泅渡
 qtdui 穷通得失
 qtduig 泅渡场
 qtduv 蜻蜓点水
@@ -295456,8 +295456,8 @@ qummkf 曲面块
 qummzu 曲面族
 qumn 取秒
 qumnh 取苗
-qumo 驱魔
 qumo 渠
+qumo 驱魔
 qumof 去摸
 qumohu 去模糊
 qumom 取模
@@ -310541,8 +310541,8 @@ sijinf 思吉宁
 sijip 思及
 sijipu 斯基普
 sijiqf 四季青
-sijit 死寂
 sijit 斯基
+sijit 死寂
 sijit 死籍
 sijiti 四集体
 sijitj 四季毯
@@ -331688,8 +331688,8 @@ tmxlk 天响
 tmxllu 天香炉
 tmxlm 天相
 tmxlmu 填项目
-tmxlp 天香
 tmxlp 甜香
+tmxlp 天香
 tmxlsi 天祥寺
 tmxlt 添箱
 tmxlxf 天相星
@@ -332342,8 +332342,8 @@ tnlibc 调理包
 tnlihq 条理化
 tnliji 调理机
 tnlin 挑礼
-tnlir 跳离
 tnlir 条例
+tnlir 跳离
 tnliru 调理乳
 tnlisu 调理素
 tnlitd 调理台
@@ -350625,8 +350625,8 @@ uiliyj 势利眼
 uiliyj 势力眼
 uiliys 是利用
 uiliyu 实例域
-uiliz 使力
 uiliz 势力
+uiliz 使力
 uiliz 十力
 uiliz 施力
 uiliz 视力
@@ -363607,8 +363607,8 @@ uuce 书册
 uucg 数仓
 uucgu 射手残骨
 uuch 鼠窜
-uuci 数次
 uuci 蜀
+uuci 数次
 uucig 善善从长
 uucih 舒茨
 uucike 鼠刺科
@@ -379185,8 +379185,8 @@ viddvi 纸袋纸
 viddxp 脂代谢
 viddy 制袋
 viddy 纸袋
-vide 汁
 vide 值得
+vide 汁
 videb 指的
 videb 直的
 videb 织的
@@ -382388,8 +382388,8 @@ viwojm 之我见
 viwomc 指我矛
 viwove 知我者
 viwto 稚齿婑媠
-viwu 纸
 viwu 职务
+viwu 纸
 viwubj 置物板
 viwuc 之舞
 viwud 治污
@@ -382409,8 +382409,8 @@ viwuk 支吾
 viwuku 植物库
 viwula 植物蜡
 viwulj 置物篮
-viwun 之物
 viwun 植物
+viwun 之物
 viwun 指物
 viwun 织物
 viwun 置物
@@ -412342,8 +412342,8 @@ wuuibm 五十遍
 wuuibu 五十步
 wuuibw 五十倍
 wuuicb 乌石村
-wuuidc 武士刀
 wuuidc 武士道
+wuuidc 武士刀
 wuuido 五十多
 wuuidv 舞狮队
 wuuier 五十二
@@ -426697,8 +426697,8 @@ xiysi 行成于思
 xiysnm 喜泳鲶
 xiysp 喜用
 xiysp 袭用
-xiyu 细雨
 xiyu 羲
+xiyu 细雨
 xiyucb 西于村
 xiyud 洗浴
 xiyufg 洗浴房
@@ -469419,8 +469419,8 @@ yiyed 胰液
 yiyedi 一叶荻
 yiyegh 移液管
 yiyeh 一页
-yiyei 裛
 yiyei 颐
+yiyei 裛
 yiyejm 一夜间
 yiyek 一叶
 yiyek 一噎
@@ -470146,8 +470146,8 @@ yjdcd 演到
 yjdcgh 咽导管
 yjdcgh 烟道管
 yjdcjp 盐道街
-yjdcl 严道
 yjdcl 烟道
+yjdcl 严道
 yjdcl 埏道
 yjdclc 演到老
 yjdcmd 偃刀脉
@@ -471722,8 +471722,8 @@ yjqym 言阙
 yjqyx 岩雀
 yjr 俨
 yjrbd 烟润
-yjre 炎热
 yjre 偃
+yjre 炎热
 yjreh 眼热
 yjreqf 炎热清
 yjretm 炎热天
